@@ -37,15 +37,16 @@ jobs:
           GH_PAT = os.getenv("GH_PAT")
 
           # ✅ Ensure Private Key is properly formatted
-          PRIVATE_KEY = "\n".join(PRIVATE_KEY_RAW.split("\\n")).encode("utf-8")
+          PRIVATE_KEY = PRIVATE_KEY_RAW.replace("\\\\n", "\n").encode("utf-8")
 
           try:
-              # ✅ Load the private key correctly
+              # ✅ Load the RSA private key
               PRIVATE_KEY_OBJ = serialization.load_pem_private_key(
                   PRIVATE_KEY,
                   password=None,
                   backend=default_backend(),
               )
+              print("✅ Private key loaded successfully!")
           except ValueError as e:
               print("❌ ERROR: Failed to load private key. Check if it's correctly formatted.")
               print(str(e))
