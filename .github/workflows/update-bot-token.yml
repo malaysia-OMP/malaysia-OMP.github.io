@@ -28,6 +28,7 @@ jobs:
           import time
           import requests
           from cryptography.hazmat.primitives import serialization
+          from cryptography.hazmat.backends import default_backend
 
           # Load GitHub App ID & Private Key
           APP_ID = os.getenv("APP_ID")
@@ -35,16 +36,22 @@ jobs:
           INSTALLATION_ID = os.getenv("APP_INSTALLATION_ID")
           GH_PAT = os.getenv("GH_PAT")
 
-          # Ensure Private Key is properly formatted
-          PRIVATE_KEY = PRIVATE_KEY_RAW.replace("\\n", "\n").encode("utf-8")
+          # ✅ Ensure Private Key is properly formatted
+          PRIVATE_KEY = "\n".join(PRIVATE_KEY_RAW.split("\\n")).encode("utf-8")
 
-          # Load the private key using cryptography
-          PRIVATE_KEY_OBJ = serialization.load_pem_private_key(
-              PRIVATE_KEY,
-              password=None,
-          )
+          try:
+              # ✅ Load the private key correctly
+              PRIVATE_KEY_OBJ = serialization.load_pem_private_key(
+                  PRIVATE_KEY,
+                  password=None,
+                  backend=default_backend(),
+              )
+          except ValueError as e:
+              print("❌ ERROR: Failed to load private key. Check if it's correctly formatted.")
+              print(str(e))
+              exit(1)
 
-          # Generate JWT
+          # ✅ Generate JWT
           def generate_jwt():
               payload = {
                   "iat": int(time.time()),  # Issued at
@@ -56,7 +63,7 @@ jobs:
           jwt_token = generate_jwt()
           print("✅ Generated JWT")
 
-          # Get Installation Access Token
+          # ✅ Get Installation Access Token
           url = f"https://api.github.com/app/installations/{INSTALLATION_ID}/access_tokens"
           headers = {
               "Authorization": f"Bearer {jwt_token}",
@@ -72,7 +79,7 @@ jobs:
 
           print("✅ Got new Installation Access Token")
 
-          # Update GitHub Secret (BOT_TOKEN)
+          # ✅ Update GitHub Secret (BOT_TOKEN)
           repo_owner = os.getenv("GITHUB_REPOSITORY").split("/")[0]
           repo_name = os.getenv("GITHUB_REPOSITORY").split("/")[-1]
           update_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/actions/secrets/BOT_TOKEN"
