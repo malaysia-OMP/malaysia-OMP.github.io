@@ -1,0 +1,254 @@
+{
+  "registration_no": "MAL16120048T",
+  "product_name": "Sheng Pu Xiao Li Tong Wan",
+  "holder": "Sheng Pu Biotech Sdn Bhd",
+  "holder_address": "NO. 11, JALAN PSK 2,, PUSAT PERDAGANGAN SERI KEMBANGAN,, 43300, SERI KEMBANGAN, MALAYSIA,",
+  "manufacturer": "Shen-Pu Pharmaceutical Co. Ltd.",
+  "manufacturer_address": "NO. 66, LN 220, SEC 1, DABEIKENG ST., LONGTAN DIST., TAOYUAN CITY 32543, TAIWAN,",
+  "importer": "Sheng Pu Biotech Sdn Bhd",
+  "importer_address": "NO. 20-2, PUSAT PERDAGANGAN ONE PUCHONG, JALAN OP 1/6, OFF JALAN PUCHONG, 47160, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Fructus Sophora japonica",
+    "radix angelica sinensis",
+    "RADIX PAEONIAE RUBRA",
+    "Radix Gentiana Macrophylla",
+    "FLOS LONICERA JAPONICA",
+    "Fructus Citrus aurantium",
+    "Radix Sanguisorba Officinalis",
+    "RHIZOMA ATRACTYLODES LANCEA",
+    "Radix Saposhnikovia divaricata",
+    "Rhizoma Notopterygium incisum",
+    "SCLEROTIUM PORIA COCOS",
+    "Rhizoma Rheum Palmatum",
+    "radix rehmannia glutinosa"
+  ],
+  "sku": [
+    {
+      "package_description": "255 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 255,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "6 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 6,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "128 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 128,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "350 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 350,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1000 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2000 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 2000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

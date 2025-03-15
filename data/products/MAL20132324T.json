@@ -1,0 +1,105 @@
+{
+  "registration_no": "MAL20132324T",
+  "product_name": "PI FU BING XUE DU WAN",
+  "holder": "HAI-O MEDICINE SDN. BHD.",
+  "holder_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "Beijing Tong Ren Tang Pharmaceutical Co., Ltd",
+  "manufacturer_address": "NO. 29, YONGWANG ROAD, BIO-PHARMACEUTICAL INDUSTRIAL PARK, HUANGCUN TOWN, DAXING DISTRICT, BEIJING, CHINA., 102600, CHINA,",
+  "importer": "HAI-O MEDICINE SDN. BHD.",
+  "importer_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "SPINA GLEDITSIAE SINENSIS",
+    "semen prunus persica",
+    "Rhizoma Smilax glabra",
+    "Rhizoma Ligusticum chuanxiong.",
+    "RHIZOMA IMPERATA CYLINDRICA",
+    "Rhizoma Bolbostemma Paniculatum",
+    "Radix Semiaquilegia adoxoides",
+    "Radix Rubia cordifolia",
+    "Radix Rehmanniae Praeparata",
+    "Paeonia alba",
+    "Radix Paeonia Rubra",
+    "radix arnebia euchroma",
+    "radix angelica sinensis",
+    "radix angelica dahurica",
+    "Poria Cocos.",
+    "PERIOSTRACUM SERPENTIS",
+    "PERIOSTRACUM CRYPTOTYMPANA PUSTULATA",
+    "Herba Spirodela Polyrrhiza",
+    "HERBA CORYDALIS BUNGEANAE",
+    "FRUCTUS KOCHIA SCOPARIA",
+    "Fructus Arctium Lappa",
+    "Flos Carthamus Tinctorius",
+    "Cortex Phellodendron Chinense",
+    "Cortex Cercis Chinensis",
+    "Caulis Spatholobus suberectus",
+    "CAULIS LONICERAE JAPONICA",
+    "Cortex Paeonia suffruticosa",
+    "Radix Glycyrrhiza Uralensis",
+    "Radix platycodon grandiflorum",
+    "Fructus Forsythia Suspensa",
+    "Radix Rehmannia Glutinosa",
+    "FLOS LONICERA JAPONICA",
+    "Herba schizonepeta tenuifolia",
+    "SEMEN PRUNUS ARMENIACA",
+    "Radix et Rhizoma Rheum palmatum",
+    "Radix Ledebouriella divaricata",
+    "CORTEX DICTAMNUS DASYCARPUS",
+    "Herba Leonurus heterophyclus",
+    "Fructus Xanthium sibiricum"
+  ],
+  "sku": [
+    {
+      "package_description": "200Pill Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

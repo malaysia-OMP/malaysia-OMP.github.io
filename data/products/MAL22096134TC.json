@@ -1,0 +1,2554 @@
+{
+  "registration_no": "MAL22096134TC",
+  "product_name": "PureMed CogniGro Capsule",
+  "holder": "Pure Medisciences (M) Sdn Bhd",
+  "holder_address": "41-1, BLOCK G,, JALAN PJU 1/37,, DATARAN PRIMA,, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "ALPHA ACTIVE INDUSTRIES SDN BHD",
+  "manufacturer_address": "NO. 3, JALAN PPU 2, TAMAN PERINDUSTRIAN PUCHONG UTAMA, 47100, PUCHONG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Centella asiatica",
+    "Bacopa monnieri",
+    "Withania somnifera"
+  ],
+  "sku": [
+    {
+      "package_description": "2 x 75 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 50 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 15 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 5 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 45 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 25 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "15 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "15 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "25 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "35 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 35,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "40 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 40,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "45 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 45,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "50 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "70 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 70,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "75 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 75,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "80 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 80,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "150 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "180 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "15 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "15 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "35 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 35,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "40 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 40,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "45 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 45,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "50 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "70 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 70,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "75 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 75,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "80 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 80,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "150 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "180 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 20 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 40,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 35 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 70,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 40 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 80,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 55 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 110,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 65 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 130,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 70 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 140,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 80 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 160,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 85 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 170,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "105 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 105,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "150 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "150 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "165 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 165,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "180 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "210 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 210,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL19971024T",
+  "product_name": "SHANHAIDAN CAPSULE",
+  "holder": "CHINESE PATENT MEDICINES & MEDICATED LIQUORS CENTRE (PENANG) SDN. BHD.",
+  "holder_address": "16,, DATO KOYAH ROAD,, 10050, MALAYSIA,",
+  "manufacturer": "HONGQING PHARM FTY",
+  "manufacturer_address": "HONG QING ZHEN EAST AREA XIAN, CHINA,",
+  "importer": "CHINESE PATENT MEDICINES & MEDICATED LIQUORS CENTRE (PENANG) SDN. BHD.",
+  "importer_address": "16, JALAN DATO KOYAH , 10050, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "SALVIAE MILTIORRHIZAE RADIX",
+    "RADIX NOTOGINSENG",
+    "RADIX GINSENG",
+    "PUERARIAE RADIX",
+    "GANODERMA LUCIDUM/MYCELIUM REISHI",
+    "FRUCTUS CITRI SARCODACTYLIS",
+    "FLOS CARTHAMI",
+    "ASTRAGALI RADIX"
+  ],
+  "sku": [
+    {
+      "package_description": "0.5gm60Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

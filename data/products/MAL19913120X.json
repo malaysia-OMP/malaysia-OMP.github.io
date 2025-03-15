@@ -1,0 +1,104 @@
+{
+  "registration_no": "MAL19913120X",
+  "product_name": "MOPIKO (OINTMENT)",
+  "holder": "WENG SENG HENG MEDICAL HALL SDN. BHD.",
+  "holder_address": "219 &amp; 221, LEBUH PANTAI, 10300, MALAYSIA,",
+  "manufacturer": "Ikeda Mohando Co. Ltd.",
+  "manufacturer_address": "16, JINDEN KAMIICHI-MACHI, NAKANIKAWA-GUN, TOYAMA, JAPAN,",
+  "importer": "WENG SENG HENG MEDICAL HALL SDN. BHD.",
+  "importer_address": "219 &amp; 221, LEBUH PANTAI, 10300, MALAYSIA,",
+  "active_ingredients": [
+    "Camphor",
+    "Menthol",
+    "Methyl salicylate"
+  ],
+  "sku": [
+    {
+      "package_description": "10gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

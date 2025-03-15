@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL19963104T",
+  "product_name": "BEDAK HANGAT",
+  "holder": "Syarikat Minyak Afiat Sdn Bhd",
+  "holder_address": "LOT 4022, BATU 30 JALAN IPOH,, 33000, KUALA KANGSAR, MALAYSIA,",
+  "manufacturer": "Syarikat Minyak Afiat Sdn Bhd",
+  "manufacturer_address": "LOT 4022, BATU 30, , JALAN IPOH,, 33000, KUALA KANGSAR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Acorus calamus",
+    "Coleus amboinicus",
+    "ZINGIBERIS RHIZOMA/GINGER OLEORESIN",
+    "ROSAE GALLICAE FLOS/BUNGA ROS",
+    "KAEMPFERIAE RHIZOMA",
+    "CURCUMAE DOMESTICA RHIZOMA"
+  ],
+  "sku": [
+    {
+      "package_description": "100gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

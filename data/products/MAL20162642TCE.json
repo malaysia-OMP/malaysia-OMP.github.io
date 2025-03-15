@@ -1,0 +1,43 @@
+{
+  "registration_no": "MAL20162642TCE",
+  "product_name": "Tian Jian Natural Health Codonopsis Plus Capsule",
+  "holder": "NANYANG TRADITIONAL CHINESE MEDICINE SDN BHD",
+  "holder_address": "NO 14, JALAN 17/28, 46400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "EXCEL HERBAL INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "NO. 48 &amp; 49, JALAN VELOX 2, TAMAN VELOX, RAWANG INDUSTRIAL PARK, 48000, RAWANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Rhizoma Zingiberis officinale",
+    "Rhizoma Notopterygium incisum",
+    "Radix Saposhnikovia divaricata",
+    "radix polygalae tenuifolia",
+    "Radix Codonopsis Pilosula",
+    "radix angelica sinensis",
+    "fructus vitex trifolia",
+    "Radix Glycyrrhiza glabra",
+    "Radix Angelica pubescens",
+    "Pericarpium Citri Reticulata",
+    "Rhizoma atractylodes macrocephala",
+    "Radix Astragalus Membaranaceus",
+    "Radix Bupleurum Chinensis"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

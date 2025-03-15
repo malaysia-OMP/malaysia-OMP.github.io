@@ -1,0 +1,229 @@
+{
+  "registration_no": "MAL23056116T",
+  "product_name": "EU YAN SANG BOTANICAL BAK FOONG EXTRACT LIQUID",
+  "holder": "WENG LI SDN. BHD.",
+  "holder_address": "2 &amp; 4, PERSIARAN 1/118C,, DESA TUN RAZAK INDUSTRIAL PARK II,, 56000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "WENG LI SDN. BHD.",
+  "manufacturer_address": "NO. 2 &amp; 4, PERSIARAN 1/118C, DESA TUN RAZAK INDUSTRIAL PARK II, 56000, KUALA LUMPUR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Poria cocos",
+    "Atractylodes macrocephala",
+    "Ligusticum chuanxiong",
+    "Lycopus lucidus",
+    "Ophiopogon japonicus",
+    "Curcuma aeruginosa",
+    "Polygala tenuifolia",
+    "Artemisia argyi",
+    "Cyperus rotundus",
+    "Amomum villosum",
+    "Leonurus japonicus",
+    "Atractylodes lancea",
+    "Angelica sinensis",
+    "Paeonia lactiflora",
+    "Ligustrum lucidum",
+    "Scutellaria baicalensis",
+    "Astragalus membranaceus",
+    "Eucommia ulmoides",
+    "Panax ginseng",
+    "Cuscuta chinensis",
+    "Linum usitatissimum",
+    "Cinnamomum cassia",
+    "Honey"
+  ],
+  "sku": [
+    {
+      "package_description": "20ml x 10  Sachets",
+      "sku_unit": "ml",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20ml x 12  Sachets",
+      "sku_unit": "ml",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20ml x 20  Sachets",
+      "sku_unit": "ml",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20ml x 24 Sachets",
+      "sku_unit": "ml",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20ml x 30 Sachets",
+      "sku_unit": "ml",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

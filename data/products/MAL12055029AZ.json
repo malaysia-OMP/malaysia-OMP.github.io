@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL12055029AZ",
+  "product_name": "Octocaine 100 (Lidocaine HCl 2% and Epinephrine (Adrenaline) 1:100,000 Injection)",
+  "holder": "Galla Dental Corporation Sdn Bhd",
+  "holder_address": "40-1, JALAN RIMBUNAN RAYA, LAMAN RIMBUNAN, KEPONG, 52100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Novocol Pharmaceutical of Canada, Inc.",
+  "manufacturer_address": "25, WOLSELEY COURT, CAMBRIDGE,, ONTARIO, NIR 6X3, CANADA,",
+  "importer": "Galla Dental Corporation Sdn Bhd",
+  "importer_address": "40-1, JALAN RIMBUNAN RAYA, LAMAN RIMBUNAN  , KEPONG, 52100  , KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "ADRENALINE ACID TARTRATE",
+    "LIDOCAINE HYDROCHLORIDE MONOHYDRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "50units Units",
+      "sku_unit": "units",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

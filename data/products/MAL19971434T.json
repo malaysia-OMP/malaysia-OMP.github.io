@@ -1,0 +1,142 @@
+{
+  "registration_no": "MAL19971434T",
+  "product_name": "WU CHIA PI CHIEW (GOLDEN BELL BRAND)",
+  "holder": "HAI-O ENTERPRISE BERHAD",
+  "holder_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "TIANJIN FOODSTUFFS IMP &EXP CO LTD",
+  "manufacturer_address": "20,DA TONG ROAD, TIANJIN,, CHINA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Citrus medica",
+    "Gardenia jasminoides",
+    "Polygonatum odoratum",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PERICARPIUM CITRI RETICULATAE",
+    "ACANTHOPANAX GRACILISTYLUS"
+  ],
+  "sku": [
+    {
+      "package_description": "560ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 560,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "280ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 280,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "140ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 140,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,104 @@
+{
+  "registration_no": "MAL24056007X",
+  "product_name": "FreshCare Roll-On Medicated Oil Plus (Sport)",
+  "holder": "KARA MARKETING (M) SDN. BHD.",
+  "holder_address": "KARA MARKETING (M) SDN. BHD., NO.19, JALAN TPP 1/1A, TAMAN INDUSTRI PUCHONG,, BATU 12, JALAN PUCHONG, 47100 PUCHONG,  SELANGOR DARUL EHSAN, MALAYSIA., 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "PT ULTRA SAKTI",
+  "manufacturer_address": "JL. NAROGONG KM. 12,5 RT005/ RW006 KEL. CIKIWUL, KEC. BANTAR GEBANG, KOTA BEKASI, JAWA BARAT PH., INDONESIA,",
+  "importer": "KARA MARKETING (M) SDN. BHD.",
+  "importer_address": "NO. 19, JALAN TPP 1/1A, TAMAN INDUSTRI PUCHONG, BATU 12, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Menthol",
+    "Camphor",
+    "Methyl salicylate"
+  ],
+  "sku": [
+    {
+      "package_description": "10 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 ml x 12 BOTTLE",
+      "sku_unit": "ml",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

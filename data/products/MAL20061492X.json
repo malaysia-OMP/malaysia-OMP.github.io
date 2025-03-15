@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20061492X",
+  "product_name": "EXODERIL  CREAM 1 %",
+  "holder": "SANDOZ PRODUCTS MALAYSIA SDN. BHD.",
+  "holder_address": "UNIT 1202, LEVEL 12, UPTOWN 1, NO. 1, JALAN SS 21/58, DAMANSARA UPTOWN, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Salutas pharma GmbH",
+  "manufacturer_address": "BETRIEBSSTATTE OSTERWEDDINGEN LANGE GOHREN 3 D, SULZETAL ORTSTEIL OSTERWEDDINGEN, 39171, GERMANY,",
+  "importer": "SANDOZ PRODUCTS MALAYSIA SDN. BHD.",
+  "importer_address": "UNIT 1202, LEVEL 12, UPTOWN 1   , NO. 1, JALAN SS 21/58, DAMANSARA UPTOWN, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Naftifine Hydrochloride"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

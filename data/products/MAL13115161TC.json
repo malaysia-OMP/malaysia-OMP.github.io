@@ -1,0 +1,114 @@
+{
+  "registration_no": "MAL13115161TC",
+  "product_name": "CHONG CAO REN SHEN PLUS BU WAN(SHANGHAI BRAND)",
+  "holder": "KHENG HENG MEDICAL (M) SDN BHD",
+  "holder_address": "9, JALAN SG 1/9, TAMAN SRI GOMBAK, 68100, BATU CAVES, MALAYSIA,",
+  "manufacturer": "SHANGHAI CHATLIN PHARMACEUTICAL COMPANY",
+  "manufacturer_address": "25 &amp; 26, JALAN VILLARAYA 2/3, VILLARAYA INDUSTRIAL PARK II, SUNGAI LALANG, 43500, SEMENYIH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Adenophora stricta",
+    "Angelica sinensis",
+    "Astragalus membranaceus",
+    "Cnidium monnieri",
+    "Codonopsis pilosula",
+    "Cordyceps sinensis",
+    "Cuscuta chinensis",
+    "Dioscorea batatas",
+    "Eucommia ulmoides",
+    "Morinda officinalis",
+    "Panax ginseng",
+    "Rehmannia Glutinosa",
+    "Schisandra chinensis"
+  ],
+  "sku": [
+    {
+      "package_description": "30 capsules 0.48gm mcg/mL",
+      "sku_unit": "capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "40 capsules 0.48gm mcg/mL",
+      "sku_unit": "capsules",
+      "quantity_per_sku": 40,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

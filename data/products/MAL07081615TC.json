@@ -1,0 +1,77 @@
+{
+  "registration_no": "MAL07081615TC",
+  "product_name": "ROYAL BABY CHEN CHU JING FENG SAN",
+  "holder": "TAT SEO HEALTH FACTORY PLT",
+  "holder_address": "16 &amp; 18 JALAN SBC 5, , TAMAN SRI BATU CAVES,, 68100, BATU CAVES, MALAYSIA,",
+  "manufacturer": "TAT SEO HEALTH FACTORY PLT",
+  "manufacturer_address": "16 &amp; 18 JALAN SBC 5, , TAMAN SRI BATU CAVES,, 68100, BATU CAVES, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Buthus martensii",
+    "PERIOSTRACUM CICADAE",
+    "Rhizoma arisaema erubescens",
+    "RAMULUS UNCARIA CUM UNCIS",
+    "HYRIOPSIS PEARL.",
+    "Fructus Gleditsa Sinensis",
+    "Bulbus Fritillaria cirrhosa",
+    "HERBA MENTHA HAPLOCALYX",
+    "Radix Angelica pubescens",
+    "Folium Perilla frutescens",
+    "bombyx mori L."
+  ],
+  "sku": [
+    {
+      "package_description": "4gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 4,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

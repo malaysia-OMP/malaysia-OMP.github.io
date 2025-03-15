@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL12095036TC",
+  "product_name": "INFINITUS Gest-Aid Plus",
+  "holder": "Infinitus International (Malaysia) Sdn Bhd",
+  "holder_address": "E-02-27, IOI BOULEVARD, JALAN KENARI 5, BANDAR PUCHONG JAYA, 47170, PUCHONG, MALAYSIA,",
+  "manufacturer": "Infinitus (China) Company Ltd.",
+  "manufacturer_address": "NO.3,NORTH DISTRICT, IND&amp;TRADING CITY, QI BAO, XINHUI DISTRICT, JIANGMEN CITY, GUANGDONG, CHINA,",
+  "importer": "Infinitus International (Malaysia) Sdn Bhd",
+  "importer_address": "E-02-27, IOI BOULEVARD, JALAN KENARI 5,, BANDAR PUCHONG JAYA, 47170, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Amomum longiligulare",
+    "Atractylodes macrocephala",
+    "Codonopsis pilosula",
+    "Dioscorea opposita",
+    "Dolichos lablab",
+    "Hericium erinaceus",
+    "Poria cocos",
+    "CITRI RETICULATAE"
+  ],
+  "sku": [
+    {
+      "package_description": "60units Units",
+      "sku_unit": "units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

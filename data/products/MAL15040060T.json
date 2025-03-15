@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL15040060T",
+  "product_name": "OPULENCE Olive Leaf Extract Peppermint Flavour Liquid",
+  "holder": "Opulence Med PLT",
+  "holder_address": "SUITE 11.01 LEVEL 11, SOUTH WING MENARA OBYU,, 4 JALAN PJU 8/8A, DAMANSARA PERDANA,, 47820, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "XIANG NING PTY LTD",
+  "manufacturer_address": "10 BLIGH STREET, , MILLMERRAN 4357 QLD,, AUSTRALIA,",
+  "importer": "Opulence Med PLT",
+  "importer_address": "SUITE 11.01 LEVEL 11, SOUTH WING MENARA OBYU,, 4 JALAN PJU 8/8A, DAMANSARA PERDANA, 47820, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Olea europaea"
+  ],
+  "sku": [
+    {
+      "package_description": "200ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "500ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL20020931T",
+  "product_name": "ZHENZHU HUAFEN BAFENG WAN:LOTUS BRAND",
+  "holder": "BESFOMEC INDUSTRIES SDN. BHD.",
+  "holder_address": "LOT 1,, KAWASAN PERINDUSTRIAN ALOR GAJAH III,, DAERAH ALOR GAJAH, 78000, ALOR GAJAH, MALAYSIA,",
+  "manufacturer": "BESFOMEC INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "LOT 1,, KAWASAN PERINDUSTRIAN ALOR GAJAH III,, 78000, ALOR GAJAH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Apis mellifera",
+    "Ligusticum chuanxiong",
+    "BEE POLLEN",
+    "RADIX SALVIAE MILTIORRHIZAE EXTRACT",
+    "RADIX CODONOPSIS PILOSULAE",
+    "PORIA COCOS WOLF",
+    "PAEORIA LACTIFLORA RADIX EXTR",
+    "MARGARITA/PEARLS",
+    "LYCIUM BARBARUM FRUCTUS",
+    "CYPERUS ROTUNDUS RHIZOME",
+    "ATRACTYLODES MACROCEPHALA RHIZOMA",
+    "ANGELICA SINENSIS RADIX EXTRACT",
+    "Nelumbo nucifera"
+  ],
+  "sku": [
+    {
+      "package_description": "18g X 6 Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 18,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

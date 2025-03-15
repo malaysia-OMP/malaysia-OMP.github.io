@@ -1,0 +1,36 @@
+{
+  "registration_no": "MAL20172792TC",
+  "product_name": "SWISSMED TMC CAPSULE",
+  "holder": "NATURAL HERBS LIFESCIENCES",
+  "holder_address": "PT 2122, TAMAN DESA ARIF, 18500, MACHANG, MALAYSIA,",
+  "manufacturer": "RPM HERBS INDUSTRIES",
+  "manufacturer_address": "PT1151, KG BATU 23,, JALAN DEWAN BESAR, LABOK, 18500, MACHANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Allium sativum",
+    "Serenoa repens",
+    "Piper cubeba",
+    "Eurycoma longifolia",
+    "Cordyceps sinensis",
+    "Smilax myosotiflora"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

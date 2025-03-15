@@ -1,0 +1,106 @@
+{
+  "registration_no": "MAL20071649AZ",
+  "product_name": "ROTATEQ (ROTAVIRUS VACCINE, LIVE, ORAL, PENTAVALENT)",
+  "holder": "MERCK SHARP & DOHME (MALAYSIA) SDN. BHD.",
+  "holder_address": "LOT NO. B-22-1 &amp; B-22-2, LEVEL 22, THE ASCENT, PARADIGM NO. 1, JALAN SS 7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Merck Sharp & Dohme LLC",
+  "manufacturer_address": "770 SUMNEYTOWN PIKE,,  WEST POINT, PENNSYLVANIA (PA) 19486,, UNITED STATES (USA), UNITED STATES,",
+  "importer": "MERCK SHARP & DOHME (MALAYSIA) SDN. BHD.",
+  "importer_address": "LOT NO. B-22-1 &amp; B-22-2, LEVEL 22, THE ASCENT, PARADIGM NO. 1, JALAN SS 7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "P1 REASSORTANT",
+    "G1 REASSORTANT",
+    "G3 REASSORTANT",
+    "G2 REASSORTANT",
+    "G4 REASSORTANT"
+  ],
+  "sku": [
+    {
+      "package_description": "2ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

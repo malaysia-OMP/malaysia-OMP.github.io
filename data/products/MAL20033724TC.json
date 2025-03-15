@@ -1,0 +1,78 @@
+{
+  "registration_no": "MAL20033724TC",
+  "product_name": "CHUANBEI ZHENZHU CHONGCAO HOUZAO SAN (PEI JING BRAND)",
+  "holder": "GREATWALL TRADING COMPANY",
+  "holder_address": "10, JALAN CHENG RIA 2\n, TAMAN CHENG RIA, CHENG, 75250, MALAYSIA,",
+  "manufacturer": "ECOLITE BIOTECH MANUFACTURING SDN BHD",
+  "manufacturer_address": "LOT 9284 &amp; 9285,, JALAN YONG PENG, 83400, SRI MEDAN, BATU PAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Arisaema cum bile",
+    "Buthus martensii",
+    "Concretio silicea bambusae",
+    "Cordyceps sinensis",
+    "Macaca mulatta",
+    "RAMULUS UNCARIA RHYNCHOPHYLLA",
+    "PTERIA MARTENSII (DUNKER)",
+    "LIGNUM AQUILARIA AGALLOCHA ROXB",
+    "GLYCYRRHIZA URALENSIS RADIX",
+    "BULBUS FRITILLARIAE CIRRHOSAE",
+    "BOMBYX MORI",
+    "Aucklandia lappa decne"
+  ],
+  "sku": [
+    {
+      "package_description": "8 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 8,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

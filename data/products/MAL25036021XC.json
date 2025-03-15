@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL25036021XC",
+  "product_name": "Vocasept� throat Lozenges Menthol Eucalyptus",
+  "holder": "MEDISPEC (M) SDN. BHD.",
+  "holder_address": "B-1-07, JALAN SS 25/22, TAMAN MAYANG,, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Makson Healthcare Pvt. Ltd",
+  "manufacturer_address": "PLOT NO. 6A, SECTOR D, AKVN INDUSTRIAL AREA, MANDIDEEP, DISTRICT RAISEN (M.P.), MADHYA PRADESH, 462046,  , INDIA,",
+  "importer": "MEDISPEC (M) SDN. BHD.",
+  "importer_address": "LOT 07, 08, 09 &amp; 10, BLOCK B, JALAN SS 25/22, MAYANG AVENUE, TAMAN MAYANG, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Amylmetacresol",
+    "2,4 Dichlorobenzyl Alcohol"
+  ],
+  "sku": [
+    {
+      "package_description": "2x12 Lozenges",
+      "sku_unit": "Units",
+      "quantity_per_sku": 24,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "3x12 Lozenges",
+      "sku_unit": "Units",
+      "quantity_per_sku": 36,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

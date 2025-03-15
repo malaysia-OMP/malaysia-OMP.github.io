@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL19056110AZ",
+  "product_name": "TSART 40 (TELMISARTAN TABLETS USP 40MG)",
+  "holder": "Ascend Laboratories Sdn Bhd",
+  "holder_address": "LEVEL 25, , MENARA HONG LEONG,, NO. 6, JALAN DAMANLELA,, 50490, BUKIT DAMANSARA, MALAYSIA,",
+  "manufacturer": "ALKEM LABORATORIES LTD",
+  "manufacturer_address": "167/2,164, 165/1, 165/2 &amp; 165/3,,  MAHATMA GANDHI UDYOG NAGAR, VILLAGE DABHEL,, DAMAN - 396 210,, INDIA,",
+  "importer": "Synercam (M) Sdn Bhd",
+  "importer_address": "A-17-7, BLOCK A, JAYA ONE, NO. 72A, JALAN PROFESOR DIRAJA UNGKU AZIZ, SEKSYEN 13, 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "TELMISARTAN"
+  ],
+  "sku": [
+    {
+      "package_description": "3 x 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "6 X 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

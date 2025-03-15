@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24096192TC",
+  "product_name": "HEALTH AND BEYOND ASHWAGANDHA 250MG CAPSULES",
+  "holder": "SKM HEALTH CARE SDN. BHD.",
+  "holder_address": "NO 6, JALAN DATO ABU BAKAR 16/1, SEKSYEN 16, , 46350, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "ISHA AGRO DEVELOPERS PVT.LTD.(710794)",
+  "manufacturer_address": "UNIT NO.17/18, LONAVALA CO OP INDUSTRIAL ESTATE LTD.,, VILLAGE-NANGARGAON, TALUKA-MAVAL, LONAVALA - 410401, DIST - PUNE ZONE 6, INDIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Withania somnifera"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

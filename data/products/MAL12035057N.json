@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL12035057N",
+  "product_name": "Seven Seas Iron Plus Syrup",
+  "holder": "PROCTER & GAMBLE (MALAYSIA ) SDN.BHD.",
+  "holder_address": "10TH FLOOR, SURIAN TOWER,                                                                       1, JALAN PJU 7/3,, MUTIARA DAMANSARA,, 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT MERCK INDONESIA",
+  "manufacturer_address": "JL. T.B.SIMATUPANG, NO.8, PASAR REBO,, JAKARTA 13760, INDONESIA,",
+  "importer": "PROCTER & GAMBLE (MALAYSIA ) SDN.BHD.",
+  "importer_address": "10TH FLOOR, SURIAN TOWER,                                                                       1, JALAN PJU 7/3,, MUTIARA DAMANSARA,, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "NICOTINAMIDE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "RIBOFLAVIN",
+    "THIAMINE HYDROCHLORIDE",
+    "D-BIOTIN",
+    "SODIUM FEREDETATE"
+  ],
+  "sku": [
+    {
+      "package_description": "100 kg",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

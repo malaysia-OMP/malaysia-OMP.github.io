@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL20014126T",
+  "product_name": "PAI PAU CHIN FONG SUN (SHAO DE TANG BRAND)",
+  "holder": "HO POH ONN MEDICAL HALL (M) SDN. BHD.",
+  "holder_address": "NO. 24, JALAN MAJU 4  TAMAN PERINDUSTRIAN CEMERLANG, 81800, ULU TIRAM, MALAYSIA,",
+  "manufacturer": "HO POH ONN MEDICAL HALL (M) SDN. BHD.",
+  "manufacturer_address": "24, JALAN MAJU 4,, TAMAN PERINDUSTRIAN CEMERLANG, 81800, ULU TIRAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Moschus berezovskii",
+    "SILER DIVERARICATUM RADIX",
+    "RAMULUS UNCARIAE CUM UNCIS",
+    "PINELLIA TUBENIFERA TEN RHIZOMA",
+    "PERICARPIUM CITRI RETICULATAE",
+    "MARGARITA/HYRIOPSIS PEARL",
+    "GLYCYRRHIZA GLABRA RADIX/LIQUORICE ROOT",
+    "GASTRODIA ELATA RHIZOMA",
+    "BULBUS FRITILLARIAE CIRRHOSAE"
+  ],
+  "sku": [
+    {
+      "package_description": "0.4gm mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

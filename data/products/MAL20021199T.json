@@ -1,0 +1,166 @@
+{
+  "registration_no": "MAL20021199T",
+  "product_name": "PEKING TONGRENTANG BRAND HU GU JIU",
+  "holder": "HAI-O ENTERPRISE BERHAD",
+  "holder_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "BEIJING TONG REN TANG CHINESE MEDICINAL WINE FTY",
+  "manufacturer_address": "NO.49,GUOYUAN TONGZHOU DISTRICT,BEIJING 101149,, CHINA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Agkistrodon acutus",
+    "Bombyx batryticatus mori",
+    "Commiphora myrrha",
+    "Poria cocos",
+    "Zaocys dhumnades",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA GASTRODIA ELATA",
+    "RHIZOMA DRYNARIA FORTUNEI",
+    "CYPERUS ROTUNDUS",
+    "RAMULUS PIPER WALLICHII",
+    "RAMULUS PINUS TABULAEFORMIS",
+    "RADIX SEU RHIZOMA NARDOSTACHYS CHINESIS",
+    "Radix Saposhnikovia divaricata",
+    "RADIX REHMANNIAE GLUTINOSA",
+    "Radix Polygala Tenuifolia",
+    "RADIX PANAX NOTOGINSENG",
+    "RADIX PAEONIAE LACTIFLORAE",
+    "RADIX OPHIOPOGON JAPONICUS",
+    "Radix Morindae Officinalis",
+    "RADIX GLYCYRRHIZAE URALENSIS",
+    "RADIX GENTIANAE MACROPHYLLAE",
+    "RADIX DIPSACUS ASPEROIDES",
+    "radix astragalus membranaceus",
+    "radix arnebia euchroma",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "ANGELICAE DAHURICAE",
+    "RADIX ACHYRANTHIS BIDERTATAE",
+    "PERICARPIUM CITRI RETICULATAE",
+    "Olibanum Boswellia Carterii",
+    "lignum santalum album",
+    "Herba Taxillus chinensis",
+    "HERBA ERODIUM STEPHANIANUM",
+    "HERBA CISTANCHE DESERTICOLA",
+    "FRUCTUS SCHISANDRA CHINENSIS",
+    "FRUCTUS PSORALAE CORYLIFOLIA",
+    "FRUCTUS LYCIUM BARBARUM",
+    "Fructus Evodia Rutaecarpa",
+    "FRUCTUS CITRUS MEDICA",
+    "Fructus chaenomeles speciosa",
+    "FRUCTUS AMOMUM VILLOSUM",
+    "FRUCTUS AMOMUM KRAVANH",
+    "FRUCTUS ALPINIAE OXYPHYLLAE",
+    "Flos Carthamus Tinctorius",
+    "CORTEX PERIPLOCA SEPIUM",
+    "CORTEX ERYTHRINA VARIEGATA",
+    "CORTEX CINNAMOMUM CASSIA",
+    "COLLA EQUUS ASINUS",
+    "CAULIS SINOMENIUM ACUTUM",
+    "Lignum Aquilaria sinensis",
+    "Radix platycodon grandiflorum",
+    "Fructus Forsythia Suspensa",
+    "Radix Scrophularia Ningpoensis",
+    "Fructus Gardenia jasminoides",
+    "radix panax ginsen",
+    "Cortex Eucommiae Ulmoides",
+    "Radix Angelica pubescens",
+    "SEMEN PRUNUS ARMENIACA",
+    "Herba Pogostemon cablin",
+    "Rhizoma Atractylodes Macrocephala",
+    "Radix Polygonum multiflorum",
+    "RADIX PUERARIA LOBATA",
+    "Scorpio Buthus martensii",
+    "Rhizoma Seu Radix Notopterygium incisium",
+    "Rhizoma Dioscorea Hypoglauca",
+    "Resina Daemanorops"
+  ],
+  "sku": [
+    {
+      "package_description": "323ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 323,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "647ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 647,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

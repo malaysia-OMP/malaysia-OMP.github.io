@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL08051746AZ",
+  "product_name": "Ixime Suspension 100mg/5ml",
+  "holder": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "holder_address": "NO.28G,28-1 &amp;28-2 ,, PUSAT DAGANGAN PJCC, , JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Lupin Limited",
+  "manufacturer_address": "198-202, NEW INDUSTRIAL AREA NO.2, MANDIDEEP, 462046, INDIA,",
+  "importer": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "importer_address": "NO.28G, 28-1 &amp; 28-2, PUSAT DAGANGAN PJCC, JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "CEFIXIME"
+  ],
+  "sku": [
+    {
+      "package_description": "50ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "50 mL",
+      "sku_unit": "mL",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

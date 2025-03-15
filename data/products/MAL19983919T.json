@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL19983919T",
+  "product_name": "BEBIKU MINYAK TELON",
+  "holder": "PT. SARI SIHAT (M) SDN. BHD.",
+  "holder_address": "NO. 15 &amp; 15-1, JALAN DATO HAJI 1, TAMAN TAN YEW LAI, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "PT AIR MANCUR",
+  "manufacturer_address": "JL RAYA SOLO-SRAGEN,KM 7 PALUR,PO BOX 53,SOLO, INDONESIA,",
+  "importer": "PT. SARI SIHAT (M) SDN. BHD.",
+  "importer_address": "NO. 15 &amp; 15-1, JALAN DATO HAJI 1,, TAMAN TAN YEW LAI, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "OLEUM FOENICULI",
+    "OLEUM COCOS",
+    "OLEUM CAYUPUTI"
+  ],
+  "sku": [
+    {
+      "package_description": "30 75ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

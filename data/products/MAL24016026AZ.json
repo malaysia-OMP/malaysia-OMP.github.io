@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24016026AZ",
+  "product_name": "Lybalin 75mg Capsules",
+  "holder": "MEDISPEC (M) SDN. BHD.",
+  "holder_address": "B-1-07, JALAN SS 25/22, TAMAN MAYANG,, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Biolab Co., Ltd",
+  "manufacturer_address": "625 SOI 7A BANGPOO INDUSTRIAL ESTATE,, SUKHUMVIT ROAD, MOO 4, PRAKASA, , MUANG, SAMUTPRAKARN 10280, , THAILAND,",
+  "importer": "MEDISPEC (M) SDN. BHD.",
+  "importer_address": "55 &amp; 57, LORONG SEMPADAN 2, (OFF BOUNDARY ROAD), 11400, AYER ITAM, MALAYSIA,",
+  "active_ingredients": [
+    "PREGABALIN"
+  ],
+  "sku": [
+    {
+      "package_description": "8 x 7s Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 56,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

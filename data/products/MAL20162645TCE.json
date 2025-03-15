@@ -1,0 +1,34 @@
+{
+  "registration_no": "MAL20162645TCE",
+  "product_name": "Tian Jian Natural Health Salvia Plus Pills",
+  "holder": "EXCEL HERBAL INDUSTRIES SDN. BHD.",
+  "holder_address": "NO. 48 &amp; 49, JALAN VELOX 2, TAMAN VELOX , RAWANG INDUSTRIAL PARK, 48000, RAWANG, MALAYSIA,",
+  "manufacturer": "EXCEL HERBAL INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "NO. 48 &amp; 49, JALAN VELOX 2, TAMAN VELOX, RAWANG INDUSTRIAL PARK, 48000, RAWANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "radix salvia miltiorrhiza",
+    "RADIX PANAX NOTOGINSENG",
+    "Radix Eleutherococcus Senticosus",
+    "Fructus Crataegus pinnatifida"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

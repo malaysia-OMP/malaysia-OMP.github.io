@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL18126016NC",
+  "product_name": "RESVENUS DEER PLACENTA 400MG SOFT-GEL CAPSULE",
+  "holder": "Resvenus Niaga Sdn. Bhd.",
+  "holder_address": "A-06-20 &amp; A-06-21, KOMPLEKS PERINDUSTRIAN EMHUB, PERSIARAN SURIAN, SEKSYEN 3, TAMAN SAINS SELANGOR KOTA DAMANSARA, , 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "GMP PHARMACEUTICALS LTD",
+  "manufacturer_address": "12, AVERTON PLACE,, EAST TAMAKI,, AUCKLAND, NEW ZEALAND,",
+  "importer": "Resvenus Niaga Sdn. Bhd.",
+  "importer_address": "A-06-20 &amp; A-06-21, KOMPLEKS PERINDUSTRIAN EMHUB, PERSIARAN SURIAN, SEKSYEN 3, TAMAN SAINS SELANGOR KOTA DAMANSARA, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "DEER PLACENTA CONCENTRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "36 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 36,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "18 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 18,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

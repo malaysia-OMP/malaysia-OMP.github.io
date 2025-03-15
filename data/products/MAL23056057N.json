@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL23056057N",
+  "product_name": "Zinkatab Effervescent Tablet",
+  "holder": "V Care Pharmaceuticals PLT",
+  "holder_address": "CNB 15-03 BLOCK B, CONEZION RESIDENCES,  IOI RESORT CITY, IRC PERSIARAN 3,  , 62502, PUTRAJAYA, MALAYSIA,",
+  "manufacturer": "PLETHICO LABORATORIES PVT. LTD",
+  "manufacturer_address": "SURVEY NO. 546/1/1, OPP. RANOLI RAILWAY STATION,, NEAR GACL PLANT CITY -RANOLI-391 350, DIST., VADODARA GUJARAT STATE, INDIA,",
+  "importer": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "importer_address": "NO.28G, 28-1 &amp; 28-2, PUSAT DAGANGAN PJCC, JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "ASCORBIC ACID (VITAMIN C)",
+    "ZINC SULFATE MONOHYDRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "20 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

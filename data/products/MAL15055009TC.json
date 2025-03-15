@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL15055009TC",
+  "product_name": "Dalton Miraco Sornado Tea Bag",
+  "holder": "SG GLOBAL BIOTECH SDN. BHD.",
+  "holder_address": "LOT 1388, BLOCK A, BATU 2 1/2,JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "GMP Pharmaceuticals Pty Ltd.,(ACN  063 353 006)",
+  "manufacturer_address": "7-9 AMAX AVENUE,, GIRRAWEEN, 2145, AUSTRALIA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "GNAPHALIUM AFFINE"
+  ],
+  "sku": [
+    {
+      "package_description": "4gm x 10 teabagsunits Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 4,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

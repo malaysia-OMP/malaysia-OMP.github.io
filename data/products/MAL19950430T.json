@@ -1,0 +1,122 @@
+{
+  "registration_no": "MAL19950430T",
+  "product_name": "BAJI CHIEW (YANG CHENG BRAND)",
+  "holder": "HAI-O ENTERPRISE BERHAD",
+  "holder_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "THE UNITED PHARM MFG KWANGCHOW",
+  "manufacturer_address": "48,YIN KONG STREET, KWANGCHOW,, CHINA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Poria cocos",
+    "RHIZOMA CURCULIGO ORCHIOIDES",
+    "RADIX REHMANNIAE GLUTINOSA",
+    "Radix Morindae Officinalis",
+    "Radix Codonopsis Pilosula",
+    "radix astragalus membranaceus",
+    "radix angelica sinensis",
+    "HERBA EPIMEDIUM GRANDIFLORUM",
+    "HERBA CYNOMORIUM SONGARICUM",
+    "HERBA CISTANCHES DESERTICOLA",
+    "FRUCTUS RUBI",
+    "FRUCTUS ROSAE LAEVIGATAE",
+    "fructus psoralea corylifolia",
+    "FRUCTUS LYCIUM CHINENSE",
+    "FRUCTUS AMOMUM VILLOSUM",
+    "Arillus euphoria longan",
+    "Cortex Eucommia Ulmoides",
+    "Semen Cuscuta chinensis",
+    "Radix Polygonum multiflorum",
+    "Radix Achyranthes Bidentata",
+    "Rhizoma Cibotium barometz"
+  ],
+  "sku": [
+    {
+      "package_description": "900ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 900,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "750ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 750,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

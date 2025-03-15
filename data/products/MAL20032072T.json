@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL20032072T",
+  "product_name": "QI JU DI HUANG WAN",
+  "holder": "ANHONG TRADING SDN. BHD.",
+  "holder_address": "12, NADCHATIRAM 1, TAYNTON VIEW, 56000, CHERAS, MALAYSIA,",
+  "manufacturer": "HUNAN JIU ZHI TANG CO LTD",
+  "manufacturer_address": "NO.155,FU-RONG ROAD (N), CHANGSHA,HUNAN, 410008,, CHINA,",
+  "importer": "ANHONG TRADING SDN. BHD.",
+  "importer_address": "12, JALAN NADCHATIRAM 1, TAMAN TAYNTON VIEW, CHERAS, 56000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Alisma orientalis",
+    "RADIX REHMANNIAE PREPARATA",
+    "PORIA COCOS WOLF",
+    "LYCIUM BARBARUM FRUCTUS",
+    "FRUCTUS CORNUS OFFICINALIS",
+    "FLOS CHRYSANTHEMUM MORIFOLIUM",
+    "DIOSCOREA OPPOSITA THUNB",
+    "CORTEX MOUTAN/TREE PEONY BARK"
+  ],
+  "sku": [
+    {
+      "package_description": "200gm200Pill Pills",
+      "sku_unit": "g",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

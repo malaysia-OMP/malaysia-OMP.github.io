@@ -1,0 +1,34 @@
+{
+  "registration_no": "MAL20142381TE",
+  "product_name": "BIO NICE BA ZHENG TABLET 500MG",
+  "holder": "BIO NICE INDUSTRY SDN BHD",
+  "holder_address": "NO. 5, JALAN SILC 1/4, KAWASAN PERINDUSTRIAN SILC,, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "manufacturer": "BIO NICE INDUSTRY SDN BHD",
+  "manufacturer_address": "NO. 5, JALAN SILC 1/4, KAWASAN PERINDUSTRIAN SILC, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "SEMEN PLANTAGO ASIATICA",
+    "Fructus Gardenia jasminoides",
+    "Radix Glycyrrhiza glabra",
+    "Rhizoma Rheum Palmatum"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20106148TC",
+  "product_name": "BioNephegen SKIN & NAIL CREAM",
+  "holder": "ZARRA ZAFEENA RESOURCES",
+  "holder_address": "NO.24, JALAN PULAU ANGSA U10/40, SUNWAY ALAM SURIA, SECTION U10, , 40170, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "F.A. HERBS SDN.BHD.",
+  "manufacturer_address": "LOT 571, JALAN BUKIT BELIMBING,, 45000, KUALA SELANGOR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Nephelium lappaceum (external only)"
+  ],
+  "sku": [
+    {
+      "package_description": "15 mcg",
+      "sku_unit": "Units",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

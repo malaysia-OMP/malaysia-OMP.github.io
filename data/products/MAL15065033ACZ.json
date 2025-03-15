@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL15065033ACZ",
+  "product_name": "SEBCA SHAMPOO 2.5% W/V",
+  "holder": "APEX PHARMACY MARKETING SDN. BHD.",
+  "holder_address": "NO. 2, JALAN SS 13/5, 47500, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "Galentic Pharma (India) Pvt. Ltd.",
+  "manufacturer_address": "R-673, TTC, MIDC, , RABALE, THANE BELAPUR ROAD,, NAVI MUMBAI, 400 701, INDIA,",
+  "importer": "APEX PHARMACY MARKETING SDN. BHD.",
+  "importer_address": "NO. 2,, JALAN SS 13/5, 47500, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SELENIUM SULPHIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "100ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

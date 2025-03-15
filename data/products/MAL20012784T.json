@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL20012784T",
+  "product_name": "FUZHENGDEN PILLS",
+  "holder": "QIXING PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "NO. 83, JALAN JEJAKA DUA\n, TAMAN MALURI\n, JALAN CHERAS, 55100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "GUANGZHOU QIXING PHARM CO LTD",
+  "manufacturer_address": "33, CHIGANG BEI ROAD, \nXINGGANG ROAD CENTRAL, \nGUANGZHOU,, CHINA,",
+  "importer": "QIXING PHARMACEUTICAL SDN. BHD.",
+  "importer_address": "NO. 83, JALAN JEJAKA 2,, TAMAN MALURI CHERAS, 55100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Cornu cervi pantotrichum",
+    "RADIX GINSENG",
+    "RADIX ACHYRANTHIA BIDENTATAE",
+    "MORINDAE OFFICINALIS RADIX",
+    "FRUCTUS PSORALEAE",
+    "FRUCTUS CORNI",
+    "BOMBYX MORI"
+  ],
+  "sku": [
+    {
+      "package_description": "7gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 7,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

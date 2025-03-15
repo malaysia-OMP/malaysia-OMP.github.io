@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL19986509AZ",
+  "product_name": "PHARMANIAGA DEXTROMETHORPHAN COMPOUND",
+  "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+  "holder_address": "11A, JALAN P/1, KAWASAN PERUSAHAAN BANGI, 43650, BANDAR BARU BANGI, MALAYSIA,",
+  "manufacturer": "IDAMAN PHARMA MANUFACTURING SDN BHD",
+  "manufacturer_address": "LOT NO. 24 &amp; 25, JALAN PERUSAHAAN LAPAN,\nBAKAR ARANG INDUSTRIAL ESTATE, 08000, SUNGAI PETANI, MALAYSIA,",
+  "importer": "NOT APPLICABLE",
+  "importer_address": "NA, NA, MALAYSIA,",
+  "active_ingredients": [
+    "DEXTROMETHORPHAN",
+    "PROMETHAZINE HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "120 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

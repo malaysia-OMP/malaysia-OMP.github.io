@@ -1,0 +1,143 @@
+{
+  "registration_no": "MAL17010010T",
+  "product_name": "KINSEIKOYO SHUAN TONG PLASTER",
+  "holder": "GT HEALTHCARE SDN. BHD.",
+  "holder_address": "A-07-06, PINNACLE KELANA JAYA,, JALAN SS7/26, , 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "TAIWAN SHUENN-AN BIOTECHNOLOGY & PHARMACEUTICAL CO.LTD",
+  "manufacturer_address": "NO.876, FONGLIN SECOND RD, DALIAO TOWNSHIP, KAOHSIUNG COUNTY 831, 831, TAIWAN,",
+  "importer": "GT HEALTHCARE SDN. BHD.",
+  "importer_address": "A-7-6, PINNACLE KELANA JAYA,, JALAN SS7/26, ZENITH CORPORATION PARK,, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Momordica cochinchinensis",
+    "RESIN COMMIPHORA MYRRHA",
+    "RESIN BOSWELLIA CARTERII",
+    "Radix Clematis chinensis.",
+    "Resina Borneolum syntheticum",
+    "HERBA MENTHA HAPLOCALYX",
+    "Semen Ricinus Communis"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Pieces",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "6 Pieces",
+      "sku_unit": "Units",
+      "quantity_per_sku": 6,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 Pieces",
+      "sku_unit": "Units",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

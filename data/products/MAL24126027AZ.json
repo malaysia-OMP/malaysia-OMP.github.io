@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24126027AZ",
+  "product_name": "Pomagen Hard Capsules 4mg",
+  "holder": "LOTUS HEALTHCARE MALAYSIA SDN. BHD.",
+  "holder_address": "UOA BUSINESS PARK, TOWER 3, , 9TH FLOOR, K03-09-11, , 1 JALAN  PENGATURCARA U1/51A, SECTION U1,  , 40150, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "Lotus Pharmaceutical Co., Ltd. Nantou Plant",
+  "manufacturer_address": "NO.30, CHENGGONG 1ST RD., SINSING VILLAGE, NANTOU CITY, NANTOU COUNTY 54066,, TAIWAN,",
+  "importer": "LOTUS HEALTHCARE MALAYSIA SDN. BHD.",
+  "importer_address": "UOA BUSINESS PARK, TOWER 3,   9TH FLOOR, K03-09-11,   , 1, JALAN PENGATURCARA U1/51A, SECTION U1,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "Pomalidomide"
+  ],
+  "sku": [
+    {
+      "package_description": "3 x 7 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 21,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

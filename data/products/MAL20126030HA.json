@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20126030HA",
+  "product_name": "GYROFLOX TABLETS (ENROFLOXACIN TABLETS 50MG)",
+  "holder": "KM Vet Pharm Sdn. Bhd.",
+  "holder_address": "NO.1, JLN INDUSTRI BATU CAVES 1/1, TMN PERINDUSTRIAN BATU CAVES, 68100, BATU CAVES, MALAYSIA,",
+  "manufacturer": "INDIAN IMMUNOLOGICALS LIMITED",
+  "manufacturer_address": "SY. NO. 281 TO 284 AND 321, BIOTECH PARK, PHASE-III, KARKAPATLA VILLAGE, MARKOOK MANDAL, SIDDIPET DISTRICT,, TELANGANA, 502281 , INDIA,",
+  "importer": "KM Vet Pharm Sdn. Bhd.",
+  "importer_address": "NO.1, JLN INDUSTRI BATU CAVES 1/1, TMN PERINDUSTRIAN BATU CAVES, 68100, BATU CAVES, MALAYSIA,",
+  "active_ingredients": [
+    "ENROFLOXACIN"
+  ],
+  "sku": [
+    {
+      "package_description": "100 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

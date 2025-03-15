@@ -1,0 +1,105 @@
+{
+  "registration_no": "MAL23066057NC",
+  "product_name": "PRONUVIA ARTIGEN LIQUID",
+  "holder": "SURIA HEALTH SDN BHD",
+  "holder_address": "A 3-8 PLAZA TTDI, JALAN WAN KADIR 3,, TAMAN TUN DR ISMAIL,, 60000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "NATURAL LIFE NUTRITION INC.",
+  "manufacturer_address": "218 - 2631 VIKING WAY RICHMOND, , BRITISH COLUMBIA V6V 3B5, CANADA,",
+  "importer": "SURIA HEALTH SDN BHD",
+  "importer_address": "A-3-8 PLAZA TTDI, JALAN WAN KADIR 3, TAMAN TUN DR ISMAIL, 60000, MALAYSIA,",
+  "active_ingredients": [
+    "Zinc Sulphate Heptahydrate",
+    "MAGNESIUM CHLORIDE HEXAHYDRATE",
+    "CALCIUM CARBONATE",
+    "SODIUM SELENITE"
+  ],
+  "sku": [
+    {
+      "package_description": "120 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "250 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

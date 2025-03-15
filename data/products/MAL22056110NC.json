@@ -1,0 +1,230 @@
+{
+  "registration_no": "MAL22056110NC",
+  "product_name": "Excelife Multivitamin and Minerals Effervescent Tablet (Passionfruit Flavour)",
+  "holder": "E HEALTH SDN. BHD.",
+  "holder_address": "NO. 2, JALAN MERU INDAH 22/KU8, KAWASAN PERINDUSTRIAN MERU BARAT, KLANG UTARA (KU8), , 42200, KLANG, MALAYSIA,",
+  "manufacturer": "C. Hedenkamp GmbH and Co. KG",
+  "manufacturer_address": "SCHIERBUSCH 1, 33161 HOVELHOF, GERMANY,",
+  "importer": "E HEALTH SDN. BHD.",
+  "importer_address": "NO. 73-2, TINGKAT 2, JALAN SETIA GEMILANG BG U13/BG, SETIA ALAM, SEKSYEN U13, 40170, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "CYANOCOBALAMIN",
+    "ZINC CITRATE TRIHYDRATE",
+    "CALCIUM GLYCEROPHOSPHATE",
+    "FOLIC  ACID",
+    "CHROMIUM CHLORIDE",
+    "THIAMINE HYDROCHLORIDE",
+    "CHOLECALCIFEROL",
+    "RIBOFLAVIN 5-PHOSPHATE SODIUM",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "COPPER SULPHATE PENTAHYDRATE",
+    "MAGNESIUM CARBONATE",
+    "DL-ALPHA TOCOPHERYL ACETATE",
+    "ASCORBIC ACID (VITAMIN C)",
+    "POTASSIUM CHLORIDE",
+    "FERROUS FUMARATE",
+    "NICOTINAMIDE",
+    "BETACAROTENE",
+    "MANGANESE SULFATE",
+    "SODIUM SELENATE",
+    "CALCIUM D-PANTOTHENATE",
+    "RETINYL ACETATE",
+    "POTASSIUM IODATE",
+    "SODIUM MOLYBDATE",
+    "D-BIOTIN"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "15 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "45 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 45,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

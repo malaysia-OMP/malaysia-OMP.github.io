@@ -1,0 +1,120 @@
+{
+  "registration_no": "MAL21126058NC",
+  "product_name": "NH KID'S MULTIVITAMIN PLUS EFFERVESCENT TABLET (BLACKCURRANT FLAVOUR)",
+  "holder": "HERBALCEUTICAL (M) SDN. BHD.",
+  "holder_address": "NO. 10, JALAN METRO PERDANA TIMUR 10, KEPONG ENTREPRENEURS PARK,, OFF JALAN KEPONG, 52100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "C.Hedenkamp GmbH and Co.KG.",
+  "manufacturer_address": "SCHIERBUSCH 1 33161 HOVELHOF, GERMANY,",
+  "importer": "HERBALCEUTICAL (M) SDN. BHD.",
+  "importer_address": "NO. 10, JALAN METRO PERDANA TIMUR 10, KEPONG ENTREPRENEURS PARK,, OFF JALAN KEPONG, 52100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "CALCIUM CARBONATE",
+    "MAGNESIUM CARBONATE",
+    "ASCORBIC ACID (VITAMIN C)",
+    "FERROUS GLUCONATE",
+    "DL-ALPHA TOCOPHERYL ACETATE",
+    "ZINC CITRATE TRIHYDRATE",
+    "NICOTINAMIDE",
+    "RETINOL PALMITATE",
+    "CALCIUM PANTOTHENATE",
+    "CHOLECALCIFEROL",
+    "MANGANESE SULPHATE MONOHYDRATE",
+    "CHROMIUM TRICHLORIDE",
+    "RIBOFLAVIN SODIUM PHOSPHATE",
+    "CYANOCOBALAMIN",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "THIAMINE HYDROCHLORIDE",
+    "VITAMIN K1",
+    "FOLIC  ACID",
+    "POTASSIUM IODIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

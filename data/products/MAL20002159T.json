@@ -1,0 +1,81 @@
+{
+  "registration_no": "MAL20002159T",
+  "product_name": "(CAP BURUNG LAYANG-LAYANG) SERBUK POH SANG TAN 2GM",
+  "holder": "CHING CHING MEDICINE MANUFACTURER",
+  "holder_address": "NO. 17, JALAN SERI PAGI 3B, SEKSYEN BS 3,\n, BUKIT SENTOSA, 48300, RAWANG, MALAYSIA,",
+  "manufacturer": "CHING CHING MEDICINE MANUFACTURER",
+  "manufacturer_address": "NO. 17, JLN SERI PAGI 3B, SEKSYEN BS3, BUKIT SENTOSA, 48300, RAWANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Poria cocos",
+    "RHIZOMA COPTIS CHINENSIS",
+    "Rhizoma Atractylodes chinensis",
+    "RAPHANUS SATIVUS SEMEN",
+    "Radix Scutellariae baicalensis",
+    "Radix Curcuma wenyujin",
+    "PERICARPIUM GRANATI/PUNICA GRANATUM RIND",
+    "PERICARPIUM CITRI RETICULATAE",
+    "Inula Helenium L",
+    "HERBA MENTHAE",
+    "Fructus Melia toosendan",
+    "FRUCTUS AMOMUM VILLOSUM",
+    "CORTEX ILICIS ROTUNDAE",
+    "Radix Glycyrrhiza Uralensis",
+    "Herba Pogostemon cablin"
+  ],
+  "sku": [
+    {
+      "package_description": "12 x 2 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 24,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

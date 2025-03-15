@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL21046041HA",
+  "product_name": "AVANTE PLUS 100mg/ml Injection",
+  "holder": "Nutri Pharmax Sdn Bhd",
+  "holder_address": "6, LORONG SERUNAI 1,, VALDOR SUNGAI BAKAP, 14200, SUNGAI JAWI, MALAYSIA,",
+  "manufacturer": "KBNP, INC",
+  "manufacturer_address": "235-9, CHUSARO, SINAM,YESAN, CHUNGNAM,, KOREA,SOUTH,",
+  "importer": "Nutri Pharmax Sdn Bhd",
+  "importer_address": "6, LORONG SERUNAI 1,, VALDOR SUNGAI BAKAP, 14200, SUNGAI JAWI, MALAYSIA,",
+  "active_ingredients": [
+    "CEFTIOFUR CRYSTALLINE FREE ACID"
+  ],
+  "sku": [
+    {
+      "package_description": "50 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

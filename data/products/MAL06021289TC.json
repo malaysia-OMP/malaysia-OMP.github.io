@@ -1,0 +1,81 @@
+{
+  "registration_no": "MAL06021289TC",
+  "product_name": "Lohanko Chuanbei Pipaloo with Bird�s Nest and Cordyceps (Greatwall Brand) Liquid",
+  "holder": "GREATWALL TRADING COMPANY",
+  "holder_address": "10, JALAN CHENG RIA 2\n, TAMAN CHENG RIA, CHENG, 75250, MALAYSIA,",
+  "manufacturer": "ECOLITE BIOTECH MANUFACTURING SDN BHD",
+  "manufacturer_address": "LOT 9284 &amp; 9285,, JALAN YONG PENG, 83400, SRI MEDAN, BATU PAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Cordyceps sinensis",
+    "Semen Armeniacae Amarae",
+    "Rhizoma Pinellia Ternata Thunb.",
+    "Rhizoma Cynanchi Stauntonii",
+    "Radix Polygala Tenuifolia",
+    "Radix Platycodon gradiflorum",
+    "Radix Glycyrrhizae Uralensis.",
+    "Radix Glehnia littoralis",
+    "Fructus Trichosanthes Kirilowii maxim",
+    "FRUCTUS MOMORDICA GROSVENORI",
+    "Folium Eriobotrya japonica.",
+    "BULBUS FRITILLARIAE CIRRHOSAE",
+    "Bird\"s Nest",
+    "Radix Stemona Sessilifolia",
+    "Radix aster tataricus"
+  ],
+  "sku": [
+    {
+      "package_description": "120 mL",
+      "sku_unit": "mL",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL19056009AZ",
+  "product_name": "Atenol Film Coated Tablet 50mg",
+  "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+  "holder_address": "LOT 2599, JALAN SERULING 59, KAWASAN 3, TAMAN KLANG JAYA, 41200, KLANG, MALAYSIA,",
+  "manufacturer": "DUOPHARMA (M) SENDIRIAN BERHAD",
+  "manufacturer_address": "LOT 2599, JALAN SERULING 59,, KAWASAN 3, TAMAN KLANG JAYA,, 41200, KLANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "ATENOLOL"
+  ],
+  "sku": [
+    {
+      "package_description": "100 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

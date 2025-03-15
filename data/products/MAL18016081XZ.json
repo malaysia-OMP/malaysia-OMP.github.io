@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL18016081XZ",
+  "product_name": "Paracap Paracetamol 120mg/5ml Oral Suspension",
+  "holder": "Health Pharm Marketing Sdn Bhd",
+  "holder_address": "NO. 30-4, JALAN 3/146, BANDAR TASIK SELATAN, 57000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "UMEDA",
+  "manufacturer_address": "26/18-21 SOI YUYEN,, RAM-INDRA ROAD M00 9,TARAENG,, BANGKOK, BANG KHEN, 10220, THAILAND,",
+  "importer": "GERMAX SDN. BHD.",
+  "importer_address": "NO. 10, JALAN PJU 3/48, SUNWAY DAMANSARA TECHNOLOGY PARK, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Paracetamol"
+  ],
+  "sku": [
+    {
+      "package_description": "60 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

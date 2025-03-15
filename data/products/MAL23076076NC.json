@@ -1,0 +1,104 @@
+{
+  "registration_no": "MAL23076076NC",
+  "product_name": "LAC Legends Caplet",
+  "holder": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "holder_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "ARNET PHARMACEUTICAL CORPORATION",
+  "manufacturer_address": "2525, DAVIE ROAD, BUILDING 330, 33317, DAVIE, FL, , UNITED STATES,",
+  "importer": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "importer_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "VACCINIUM MYRTILLUS FRUIT EXTRACT (BILBERRY)",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "Korean Ginseng (Panax Ginseng)",
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "BRASSICA OLERACEA ITALICA EXTRACT (BROCCOLI)",
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "CALCIUM CARBONATE",
+    "POTASSIUM CHLORIDE",
+    "D-CALCIUM PANTOTHENATE",
+    "LYCOPENE",
+    "NIACIN",
+    "RIBOFLAVIN",
+    "NIACINAMIDE",
+    "ZINC OXIDE",
+    "L-VALINE",
+    "Retinyl Acetate (Vitamin A)",
+    "Vitamin D3 (Cholecalciferol)",
+    "SODIUM MOLYBDATE",
+    "MANGANESE SULPHATE MONOHYDRATE",
+    "Vitamin B12 (Cyanocobalamin)",
+    "CHROMIUM AMINO ACID CHELATE",
+    "L-LEUCINE",
+    "Camellia Sinensis (Green Tea) Leaf Extract",
+    "POTASSIUM IODIDE",
+    "CHOLINE BITARTRATE",
+    "MAGNESIUM OXIDE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "FOLIC ACID",
+    "SELENOMETHIONINE",
+    "COPPER OXIDE",
+    "BIOTIN",
+    "ASCORBIC ACID (VITAMIN C)",
+    "L-ISOLEUCINE",
+    "INOSITOL",
+    "D-ALPHA TOCOPHERYL ACETATE",
+    "CURCUMA LONGA EXTRACT (TURMERIC)",
+    "THIAMINE MONONITRATE",
+    "PHOSPHATIDYLSERINE"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

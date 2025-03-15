@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL20040126TC",
+  "product_name": "HO CHOU SAN (UNION BRAND)",
+  "holder": "YEWLIAN HERBS & HEALTH CARE TRADING SDN BHD",
+  "holder_address": "NO. 22, JALAN RIANG RIA SATU\n, TAMAN MULIA, TAMPOI, 81200, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "ECOLITE BIOTECH MANUFACTURING SDN BHD",
+  "manufacturer_address": "LOT 9284 &amp; 9285,, JALAN YONG PENG, 83400, SRI MEDAN, BATU PAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Concretio silicea bambusae",
+    "Ledebouriella seseloides",
+    "Macaca mulatta",
+    "Succinum",
+    "PTERIA MARTENSII (DUNKER)",
+    "PORIA COCOS WOLF",
+    "POLYGALAE TENUIFOLIA RADIX",
+    "PINELLIA TERNATA BREITE RHIZOMA",
+    "PERICARPIUM CITRI RETICULATAE",
+    "GLYCYRRHIZA URALENSIS RADIX"
+  ],
+  "sku": [
+    {
+      "package_description": "8 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 8,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

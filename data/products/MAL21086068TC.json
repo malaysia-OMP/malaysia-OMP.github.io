@@ -1,0 +1,109 @@
+{
+  "registration_no": "MAL21086068TC",
+  "product_name": "UMU TEMUMEN'S CAPSULE",
+  "holder": "HOLISTIC HERITAGE SDN. BHD.",
+  "holder_address": "NO. 4101 &amp; 4102, LEVEL 41 VISTA TOWER, THE INTERMARK, 348, JALAN TUN RAZAK,, 50400, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "SARI TANI DESA SDN. BHD.",
+  "manufacturer_address": "NO. 21 &amp; 23, JALAN APOLLO  U5/188,, BANDAR PINGGIRAN SUBANG, SEKSYEN U5,, 40150, SHAH ALAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Eurycoma longifolia",
+    "Curcuma xanthorrhiza",
+    "Piper betle",
+    "Curcuma longa",
+    "Boesenbergia pandurata",
+    "Kaempferia galanga",
+    "Zingiber officinale",
+    "Areca catechu"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

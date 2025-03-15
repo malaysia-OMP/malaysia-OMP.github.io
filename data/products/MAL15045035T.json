@@ -1,0 +1,116 @@
+{
+  "registration_no": "MAL15045035T",
+  "product_name": "Bu Yin Tang Extract Granules C.F.T.",
+  "holder": "CHUAN FENG TANG PHARMACEUTICAL (M) SDN BHD",
+  "holder_address": "13-8, JALAN JALIL PERKASA 13, AKED ESPLANAD, BUKIT JALIL, 57000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "CHUAN FENG TANG PHARMACEUTICAL CO., LTD. (TAOYUAN)",
+  "manufacturer_address": "NO.32-1, GOUWEI, GUANGSING VILLAGE, GUANYIN TOWNSHIP, TAOYUAN, TAIWAN,",
+  "importer": "CHUAN FENG TANG PHARMACEUTICAL (M) SDN BHD",
+  "importer_address": "13-8, JALAN JALIL PERKASA 13, AKED ESPLANAD, BUKIT JALIL, 57000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Achyranthes bidentata",
+    "Anemarrhena asphodeloides",
+    "Angelica sinensis",
+    "Eucommia ulmoides",
+    "Foeniculum vulgare",
+    "Glycyrrhizae preparata",
+    "Paeoniae alba",
+    "Panax ginseng",
+    "Phellodendron chinense",
+    "Poria cocos",
+    "Psoralea corylifolia",
+    "Rehmannia Glutinosa",
+    "Rehmanniae preparata",
+    "Ziziphus jujuba",
+    "CITRI RETICULATAE"
+  ],
+  "sku": [
+    {
+      "package_description": "200gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "600gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 600,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

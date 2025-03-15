@@ -1,0 +1,188 @@
+{
+  "registration_no": "MAL19985385T",
+  "product_name": "Shou Hsing Brand Chuanbei Pei Pa Koa with Cordyceps & Bird's Nest Syrup",
+  "holder": "BIOFACT LIFE SDN. BHD.",
+  "holder_address": "LOT 5094, PERINDUSTRIAN PARIT JAMIL, 84150, MUAR, MALAYSIA,",
+  "manufacturer": "BIOFACT LIFE SDN. BHD.",
+  "manufacturer_address": "LOT 5094, KAWASAN PERINDUSTRIAN PARIT JAMIL, 84150, MUAR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "TRICHOSANTHIS KIRILOWII RADIX",
+    "Semen Prunus armeniaca",
+    "Sclerotium Poria cocos (Schw.) Wolf",
+    "Rhizoma Zingiberis officinale",
+    "RHIZOMA PINELLIA TUBERIFERA",
+    "Radix Polygala Tenuifolia",
+    "Radix Platycodon Grandiflorium",
+    "RADIX ADENOPHORA VERTICILLATA",
+    "HERBA MENTHA ARVENSIS",
+    "Fructus Schisandra Chinesis",
+    "FOLIUM ERIOBOTRYA JAPONICA",
+    "FLOS TUSSILAGO FARFARA",
+    "CITRUS NOBILIS PERICARPIUM",
+    "Bulbus Fritillarae Cirrhosa",
+    "Radix Glycyrrhiza glabra",
+    "Nidus Collocalia esculenta",
+    "Mycelium Cordyceps sinensis"
+  ],
+  "sku": [
+    {
+      "package_description": "60 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "300 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

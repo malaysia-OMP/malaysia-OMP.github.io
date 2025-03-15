@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL22086016AZ",
+  "product_name": "INOTROP (Dobutamine HCl 25mg/ml Concentrate for Solution for Infusion)",
+  "holder": "MEDISPEC (M) SDN. BHD.",
+  "holder_address": "B-1-07, JALAN SS 25/22, TAMAN MAYANG,, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT. PRATAPA NIRMALA",
+  "manufacturer_address": "JL. INDUSTRI VI, TANGERANG - BANTEN 15135, , KEC. JATIUWUNG, KOTA TANGERANG, , BANTEN, INDONESIA,",
+  "importer": "MEDISPEC (M) SDN. BHD.",
+  "importer_address": "LOT 07, 08, 09 &amp; 10, BLOCK B, JALAN SS 25/22, MAYANG AVENUE, TAMAN MAYANG, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "DOBUTAMINE HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "2 x 10ml Vials",
+      "sku_unit": "ml",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

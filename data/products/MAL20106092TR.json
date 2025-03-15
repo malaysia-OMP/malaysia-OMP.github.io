@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL20106092TR",
+  "product_name": "KEVAROS LIVOSEL SOFTGEL",
+  "holder": "KEVAROS GLOBAL SDN. BHD.",
+  "holder_address": "UNIT 9-9, LEVEL 9, THE BOULEVARD MID VALLEY CITY, LINGKARAN SYED PUTRA, , 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Inner Mongolia Yuhangren Pharmaceutical Co., Ltd",
+  "manufacturer_address": "CHENGZHANG STREET, SHENGLE ECONOMIC ZONE,HELINGER, HUHHOT CITY HUHHOT, 010010, CHINA,",
+  "importer": "DIVERSIFIED TEAM SDN. BHD.",
+  "importer_address": "38-5-5, SHAMELIN BUSINESS CENTRE,, NO. 38, JALAN 4/91, TAMAN SHAMELIN PERKASA,, 56100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Paeonia lactiflora",
+    "Schisandra chinensis",
+    "Sophora flavescens",
+    "Gynostemma pentaphyllum",
+    "Hippophae rhamnoides"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

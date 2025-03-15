@@ -1,0 +1,85 @@
+{
+  "registration_no": "MAL12095015T",
+  "product_name": "BTY XIN HUI CHUN ZAI ZAO TABLET",
+  "holder": "BTY WORLDWIDE SDN.BHD.",
+  "holder_address": "NO 1546, JALAN HARMONI 4, IJOK, 45620, BESTARI JAYA, MALAYSIA,",
+  "manufacturer": "BTY WORLDWIDE SDN.BHD.",
+  "manufacturer_address": "NO. 1546, JALAN HARMONI 4, IJOK, 45620, BESTARI JAYA, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Achyranthes bidentata",
+    "Angelica pubescens",
+    "Angelica sinensis",
+    "Arisaema erubescens",
+    "Carthamus tinctorius",
+    "Chaenomeles speciosa",
+    "Gastrodia elata",
+    "Homalomena occulta",
+    "Leonurus heterophyllus",
+    "Ligusticum chuanxiong",
+    "Lonicera japonica",
+    "Lycopodium japonicum",
+    "Prunus persica",
+    "Salvia miltiorrhiza",
+    "Sparganium stoloniferum",
+    "Spatholobus suberectus",
+    "Trachelospermum jasminoides",
+    "Typhonium giganteum",
+    "Uncaria rhynchophylla"
+  ],
+  "sku": [
+    {
+      "package_description": "800 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 800,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

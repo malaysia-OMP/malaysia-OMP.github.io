@@ -1,0 +1,121 @@
+{
+  "registration_no": "MAL19962770T",
+  "product_name": "SEA GULL BRAND SHUANG LIAO BAI FENG WAN PILL 6G X 6 BALL PILL",
+  "holder": "SG GLOBAL BIOTECH SDN. BHD.",
+  "holder_address": "LOT 1388, BLOCK A, BATU 2 1/2,JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "QIS RESEARCH LABORATORY SDN. BHD.",
+  "manufacturer_address": "LOT 11995 BATU 2,  JALAN KAPAR,  , 41400, KLANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Cornu cervi degelatinatum",
+    "Gallus gallus domesticus",
+    "COLLA CORNUS CERVI",
+    "SEMEN EURYALE FEROX",
+    "RHIZOMA LIGUSTICUM CHUANXIONG",
+    "Rhizoma Dioscoreae Opposita",
+    "CYPERUS ROTUNDUS",
+    "Radix salvia miltorrhizae",
+    "RADIX REHMANNIAE GLUTINOSA",
+    "RADIX PAEONIAE LACTIFLORAE",
+    "RADIX GLYCYRRHIZAE URALENSIS",
+    "RADIX GINSENG",
+    "radix astragalus membranaceus",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "OOTHECA TENODERA SINENSIS",
+    "CARAPAX TRIONYCIS",
+    "Radix Asparagus cochinchinensis",
+    "CONCHA OSTREA GIGAS",
+    "Radix Stellaria dichotoma",
+    "Radix Rehmannia Praeparata"
+  ],
+  "sku": [
+    {
+      "package_description": "6gm10Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 6,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "12gm6Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

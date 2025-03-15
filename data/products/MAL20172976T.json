@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL20172976T",
+  "product_name": "HONGJITANG XIN ANGONG NIUHUANG PILL",
+  "holder": "HAI-O MEDICINE SDN. BHD.",
+  "holder_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "Shandong Hongjitang Pharmaceutical Group Co., Ltd.",
+  "manufacturer_address": "NO.30766, EAST JINGSHI ROAD, LICHENG DISTRICT, JINAN CITY, SHANDONG PROVINCE,  ,  ,  , CHINA,",
+  "importer": "HAI-O MEDICINE SDN. BHD.",
+  "importer_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Coptis chinensis",
+    "Scutellaria baicalensis",
+    "Gardenia jasminoides",
+    "Curcuma aromatica",
+    "Bubalus bubalis",
+    "Moschus Berezovskii (Artificial)",
+    "Hyriopsis cumingii",
+    "Bos taurus domesticus"
+  ],
+  "sku": [
+    {
+      "package_description": "3 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

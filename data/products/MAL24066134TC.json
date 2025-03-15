@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL24066134TC",
+  "product_name": "CAO BEN PAIN RELIEF CAPSULE",
+  "holder": "HERB & FASHION SDN. BHD.",
+  "holder_address": "M1-17-05, 06, 07, MENARA 8TRIUM, LEVEL 17, JLN CEMPAKA, SD12/5, BDR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "APD PHARMACEUTICAL MANUFACTURING PTE LTD",
+  "manufacturer_address": "5 KAKI BUKIT ROAD 1 #01-06 &amp; 07,  415936   , SINGAPORE,",
+  "importer": "HERB & FASHION SDN. BHD.",
+  "importer_address": "NO. 2-39 JALAN MASAI JAYA 1 MASAI,, 81750, MASAI, JOHOR BAHRU, MALAYSIA,",
+  "active_ingredients": [
+    "Prunus persica",
+    "Carthamus tinctorius",
+    "SCOLOPENDRA SUBSPINIPES",
+    "Scorpio Buthus martensii",
+    "Bombyx mori",
+    "Zaocys dhumnades",
+    "Polygonum cuspidatum",
+    "Angelica sinensis",
+    "Ligusticum chuanxiong",
+    "Rehmannia Glutinosa",
+    "Paeonia lactiflora (Alba)",
+    "Taxillus chinensis",
+    "Eucommia ulmoides"
+  ],
+  "sku": [
+    {
+      "package_description": "100 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

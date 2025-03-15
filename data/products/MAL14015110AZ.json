@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL14015110AZ",
+  "product_name": "INSUGEN-R (Regular) Insulin Injection, Soluble 100IU/mL",
+  "holder": "BIOCON SDN BHD",
+  "holder_address": "NO. 1, JALAN BIOTEKNOLOGI 1, KAWASAN PERINDUSTRIAN SILC, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "manufacturer": "Biocon Biologics Limited",
+  "manufacturer_address": "BLOCK NO. B1, B2, B3, Q13, OF Q1 AND W20 &amp; UNIT S18, 1ST FLOOR,  BLOCK B4,SPECIAL ECONOMIC ZONE, PLOT NO 2,3,4 &amp; 5, PHASE IV,  , BOMMASANDRA -JIGANI LINK ROAD, , BOMMASANDRA POST  BENGALURU 560099,, INDIA,",
+  "importer": "Duopharma Marketing Sdn. Bhd.",
+  "importer_address": "LOT NO. 2,4,6,8, &amp; 10, JALAN P/7,   , SECTION 13, BANGI INDUSTRIAL ESTATE, , 43650 , BANDAR BARU BANGI, MALAYSIA,",
+  "active_ingredients": [
+    "Insulin human"
+  ],
+  "sku": [
+    {
+      "package_description": "10ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "3ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

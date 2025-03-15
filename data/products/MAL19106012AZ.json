@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL19106012AZ",
+  "product_name": "ICUNES� 100mcg/ml Concentrate for Solution for Infusion",
+  "holder": "AVERROES PHARMACEUTICALS SDN. BHD.",
+  "holder_address": "3-08-01 &amp; 03-09-01, BLOCK 3,, PRESINT ALAMI, WORLDWIDE BUSINESS CENTRE II,, PERSIARAN AKUATIK, SEKSYEN 13,, 40100, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "PT NOVELL PHARMACEUTICAL  LABORATORIES.",
+  "manufacturer_address": "JL WANAHERANG, NO 35 TLAJUNG UDIK ,GUNUNG PUTRI, BOGOR, 16962, INDONESIA,",
+  "importer": "AVERROES PHARMACEUTICALS SDN. BHD.",
+  "importer_address": "3-08-01 &amp; 03-09-01, BLOCK 3,, PRESINT ALAMI, WORLDWIDE BUSINESS CENTRE II,, PERSIARAN AKUATIK, SEKSYEN 13,, 40100, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "2 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,150 @@
+{
+  "registration_no": "MAL20000894T",
+  "product_name": "YOMEISHU MEDICINAL HERBAL PREPARATION",
+  "holder": "BANFOONG SYDNEY (M) SDN. BHD.",
+  "holder_address": "NO. 110A, JALAN JEJAKA\n, TAMAN MALURI, CHERAS, 55100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "YOMEISHU SEIZO CO LTD",
+  "manufacturer_address": "16-25,NANPEIDAI-CHO SHIBUYA-KU,TOKYO-150, JAPAN,",
+  "importer": "BANFOONG SYDNEY (M) SDN. BHD.",
+  "importer_address": "NO. 110A, JALAN JEJAKA, TAMAN MALURI, 55100, CHERAS, MALAYSIA,",
+  "active_ingredients": [
+    "CORTEX EUCOMMIAE",
+    "SAPOSNINIKOVIA DIVARICATA RADIX",
+    "RADIX REHMANNIAE",
+    "RADIX GINSENG",
+    "PAEONIAE RADIX",
+    "LEONURI HERBA",
+    "HERBA EPIMEDII",
+    "HERBA CISTANCHIS",
+    "FLOS CARTHAMI",
+    "CURCUMAE RHIZOMA",
+    "CINNAMOMUM CORTEX",
+    "CARYOPHYLLI FLOS",
+    "Linderae Umbellatae Ramus",
+    "AGKISTRODON JAPONICAE"
+  ],
+  "sku": [
+    {
+      "package_description": "700ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 700,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1000ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "300 ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

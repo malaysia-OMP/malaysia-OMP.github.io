@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL19984809ASZ",
+  "product_name": "OTSU-NS 0.9% SODIUM CHLORIDE INTRAVENOUS INFUSION BP",
+  "holder": "LUEN WAH MEDICAL CO. SDN. BHD.",
+  "holder_address": "NO.53-2, 49G, 49-1, , THE HIGHWAY CENTRE, , JALAN 51/205,, 46050, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT OTSUKA (INDONESIA)",
+  "manufacturer_address": "JLN SUMBERWARAS 25 LAWANG EAST JAVA, INDONESIA,",
+  "importer": "LUEN WAH MEDICAL CO. SDN. BHD.",
+  "importer_address": "NO.43G, 43-1F &amp; 43-2F, THE HIGHWAY CENTRE, JALAN 51/205,, 46050, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SODIUM CHLORIDE (SALT)"
+  ],
+  "sku": [
+    {
+      "package_description": "100 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "500 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,70 @@
+{
+  "registration_no": "MAL15100001T",
+  "product_name": "Ling Guey Jwu Gan Tang Extract Pulveres �Sheng Foong�",
+  "holder": "TIANYI SEM MARKETING",
+  "holder_address": "NO.171, LORONG HARUAN 5/5, OAKLAND COMMERE SQUARE, 70300, SEREMBAN, MALAYSIA,",
+  "manufacturer": "Sheng Foong Co., Ltd. Su-Ao Pharmaceutical Factory",
+  "manufacturer_address": "NO.25, LANE 63, DAH TZUENN RD, SU-AO CHEN, I-LAN COUNTY, -, TAIWAN,",
+  "importer": "TIANYI SEM MARKETING",
+  "importer_address": "NO 111, JALAN MSJ 5,, MEDAN PERNIAGAAN SENAWANG JAYA,, FASA 2, 70450, SEREMBAN, MALAYSIA,",
+  "active_ingredients": [
+    "SCLEROTIUM PORIA COCOS",
+    "ramulus cinnamomum cassia",
+    "Radix Glycyrrhizae Preparata",
+    "Rhizoma atractylodes macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "200gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL09050930TC",
+  "product_name": "Agaricus Blazei Murill Extract Sachet",
+  "holder": "BIORESIS SDN. BHD.",
+  "holder_address": "NO. 1A, JALAN GREENTOWN 4\n, GREENTOWN NOVA, 30450, IPOH , MALAYSIA,",
+  "manufacturer": "ACE HEALTH PRODUCTS SDN. BHD.",
+  "manufacturer_address": "1, JALAN P2/16, SEKSYEN 2 , BANDAR TEKNOLOGI KAJANG, 43500, SEMENYIH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "AGARICUS BLAZEI MURILL EXTRACT"
+  ],
+  "sku": [
+    {
+      "package_description": "30Units Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

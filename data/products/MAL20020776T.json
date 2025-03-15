@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL20020776T",
+  "product_name": "SANJIN TABLETS 260MG",
+  "holder": "ANHONG TRADING SDN. BHD.",
+  "holder_address": "12, NADCHATIRAM 1, TAYNTON VIEW, 56000, CHERAS, MALAYSIA,",
+  "manufacturer": "GUILIN SANJIN PHARMA CO LTD",
+  "manufacturer_address": "NO.1,GOLD STAR ROAD, \n(JINXING ROAD), \nGUILIN,GUANGXI,, CHINA,",
+  "importer": "ANHONG TRADING SDN. BHD.",
+  "importer_address": "12, JALAN NADCHATIRAM 1, TAMAN TAYNTON VIEW, CHERAS, 56000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Rosa laevigata Michx",
+    "RHIZOMA SMILAX SCOBINI CAULIS",
+    "HERBA LYGODIUM JAPONICUM"
+  ],
+  "sku": [
+    {
+      "package_description": "36Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 36,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

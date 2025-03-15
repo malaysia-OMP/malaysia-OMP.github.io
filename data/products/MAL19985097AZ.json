@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL19985097AZ",
+  "product_name": "DICLORAN GEL",
+  "holder": "UNIMED SDN. BHD.",
+  "holder_address": "53, JALAN TEMBAGA SD 5/2B,, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "UNIQUE PHARMACEUTICAL LABORATORIES",
+  "manufacturer_address": "(A DIV. OF J.B. CHEMICALS &amp; PHARMACEUTICALS LIMITED) PLOT NO. 304-308, G.I.D.C, IND. AREA, 394 116, INDIA,",
+  "importer": "UNIMED SDN. BHD.",
+  "importer_address": "NO. 53, JALAN TEMBAGA SD5/2B, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "DICLOFENAC ACID DIETHYLAMINE SALT"
+  ],
+  "sku": [
+    {
+      "package_description": "50 gm   0 mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "20gm1Pieces Pieces",
+      "sku_unit": "g",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

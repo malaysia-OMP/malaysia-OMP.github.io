@@ -1,0 +1,106 @@
+{
+  "registration_no": "MAL07021511X",
+  "product_name": "Obical Tablet",
+  "holder": "UNAM PHARMACEUTICAL (M) SDN. BHD.",
+  "holder_address": "SUITE 803, BLOCK F, PHILEO DAMANSARA 1,, NO. 9, JALAN 16/11, , 46350, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT MEDIFARMA LABS INC",
+  "manufacturer_address": "J 1 RAYA BOGOR KM 33, CIMANGGIS,BOGIR JAWA BARAT, INDONESIA,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "Vitamin D3 ( as Vitamin D3, Dry, Type 100CWS/AM)",
+    "Calcium (as Precipitated Calcium Carbonate, Heavy)",
+    "Dibasic Calcium Phosphate, Anhydrous",
+    "Magnesium (as Magnesium Oxide, Heavy)",
+    "Fructo oligo Saccharides F.O.S"
+  ],
+  "sku": [
+    {
+      "package_description": "100Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

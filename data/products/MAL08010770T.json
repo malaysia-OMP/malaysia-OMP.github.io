@@ -1,0 +1,87 @@
+{
+  "registration_no": "MAL08010770T",
+  "product_name": "(Evergreen Brand) Wu Chi Pai Feng Wan",
+  "holder": "KAHONG SDN. BHD.",
+  "holder_address": "LOT 1316, JALAN TENUN,, OFF JALAN TENAGA,, PENDING INDUSTRIAL ESTATE,, 93450, KUCHING, MALAYSIA,",
+  "manufacturer": "Tianjin Medicines & Health Products Import & Export Corporation (Member of Northern International (Holding) Co., Ltd)",
+  "manufacturer_address": "6, TANG SHAN ROAD, 300040, CHINA,",
+  "importer": "KAHONG SDN. BHD.",
+  "importer_address": "LOT 1316, JALAN TENUN OFF JALAN TENAGA, PENDING INDUSTRIAL ESTATE, 93450, KUCHING, MALAYSIA,",
+  "active_ingredients": [
+    "Semen Euryales (Euryale Ferox salisb.)",
+    "Rhizoma Dioscoreae (Dioscores Opposits Thunb.)",
+    "Rhizoma Cyperi (Cyperus Rotundus L.)",
+    "Rhizoma Chunaxiong (Ligusticum Chuoanxiong Hort.)",
+    "Radix Stellariae (Stellaria Dichotoma L. Var. Lanceolate Bunge)",
+    "Radix Salviae Miltiorrhiae (salvia miltiorrhiza Bge).",
+    "Radix Rehmanniae Preparate (Rehmamis Glutinosa Libosch)",
+    "Radix Rehmanniae (Rehmannia Gultinosa Libosch.)",
+    "Radix Paeoniae Alba (Paeonia Lactifiora Pall.)",
+    "Radix Glycyrrhizae (Glycyrrhiza Uraiensis Fiach.)",
+    "Radix Ginseng (Panax Ginseng C.A.Mey)",
+    "Radix Astragali (Astragalus Membranaceus Bge. Var. Mongholicus (Bge.) Hsiao)",
+    "radix Asparagi (Asparagus Cochinchinensis (Lour.) Merr.)",
+    "Radix Angelicae Sinensis (Angelicas Sinensis (Oliv.) Diels.)",
+    "Pullus Cum Osse Nigro (Gallus Domesticus Brisson)",
+    "Ootheca Mantidis (Tenodera Sinensis saussure)",
+    "MEL (HONEY)",
+    "Cornu Cervi Degelatinatum (Cervus Elaphus Linnaeus)",
+    "Cornu Cervi (Colla Cornus Cervi)",
+    "Concha Ostrese (Ostrea Spp.)",
+    "CARAPAX TRIONYCIS"
+  ],
+  "sku": [
+    {
+      "package_description": "10Pill Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

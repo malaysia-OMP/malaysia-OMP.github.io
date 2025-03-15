@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL05092374T",
+  "product_name": "AyuBes (Capsule)",
+  "holder": "K-LINK INTERNATIONAL SDN. BHD.",
+  "holder_address": "WISMA K-LINK,, NO. 45, JALAN KUCHAI MAJU 2,, OFF JALAN KUCHAI LAMA,, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "WELEX LABORATORIES PVT LTD",
+  "manufacturer_address": "PLOT NO J-134, MIDC,NAVAPUR ROAD, TARAPUR-BOISAR,, 401506, INDIA,",
+  "importer": "K-LINK INTERNATIONAL SDN. BHD.",
+  "importer_address": "WISMA K-LINK,, NO. 45, JALAN KUCHAI MAJU 2,, OFF JALAN KUCHAI LAMA,, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Semen Syzygium cumini extract",
+    "Radix Picrorhiza kurroa extract",
+    "Radix Cyperus rotundus tuber extract",
+    "Herba Andrographis paniculata extract",
+    "Fructus Momordica charantia fruit bark extract",
+    "Folium Gymnema sylvestre extract",
+    "Folium Enicostemma littorale extract",
+    "Folium Azadirachta indica extract",
+    "Folium Aegle marmelos extract",
+    "Cortex Pterocarpus marsupium extract"
+  ],
+  "sku": [
+    {
+      "package_description": "60Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

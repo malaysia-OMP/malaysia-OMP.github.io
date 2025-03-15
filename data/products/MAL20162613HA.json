@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20162613HA",
+  "product_name": "Florxin 20FG Oral Powder 20%w/w",
+  "holder": "Rhone Ma Malaysia Sdn Bhd",
+  "holder_address": "LOT 18A &amp; 18B,, JALAN 241,,  SEKSYEN 51A,, 46100, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Rhone Ma Malaysia Sdn Bhd",
+  "manufacturer_address": "LOT 18A &amp; 18B,, JALAN 241, SEKSYEN 51A,, 46100, PETALING JAYA, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "FLORFENICOL"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

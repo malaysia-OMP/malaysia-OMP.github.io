@@ -1,0 +1,118 @@
+{
+  "registration_no": "MAL23036076NC",
+  "product_name": "SEOBIO SUPRE PROBIOTICS POWDER",
+  "holder": "DERMASUNG SDN BHD",
+  "holder_address": "A1-3-16, ARCORIS BUSINESS SUITE, 10, JALAN KIARA, MONT KIARA,, 50480, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "MSBIOTECH CO.,LTD.",
+  "manufacturer_address": "25, MISAN-GIL, DAESO-MYEON,,  EUMSEONG-GUN, CHUNGCHEONGBUK-DO, , REP. OF KOREA , KOREA,SOUTH,",
+  "importer": "DERMASUNG SDN BHD",
+  "importer_address": "A1-03-16, ARCORIS BUSINESS CENTRE, 10, JALAN KIARA, MONT KIARA, 50480, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "BIFIDOBACTERIUM BIFIDUM",
+    "BIFIDOBACTERIUM LONGUM",
+    "LACTOBACILLUS ACIDOPHILUS",
+    "LACTOBACILLUS BULGARICUS",
+    "LACTOBACILLUS CASEI",
+    "LACTOBACILLUS GASSERI",
+    "LACTOBACILLUS PARACASEI SPP. PARACASEI",
+    "LACTOBACILLUS PLANTARUM",
+    "LACTOBACILLUS REUTERI",
+    "LACTOBACILLUS RHAMNOSUS",
+    "STREPTOCOCCUS THERMOPHILUS",
+    "BIFIDOBACTERIUM BREVE",
+    "LACTOBACILLUS HELVETICUS",
+    "LACTOBACILLUS SALIVARIUS",
+    "LACTOCOCCUS LACTIS SUBSP. LACTIS",
+    "LACTOBACILLUS FERMENTUM",
+    "BIFIDOBACTERIUM ANIMALIS SUBSP. LACTIS"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "7 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 7,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

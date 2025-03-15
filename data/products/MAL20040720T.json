@@ -1,0 +1,82 @@
+{
+  "registration_no": "MAL20040720T",
+  "product_name": "WAI YOEN HONG GOLD BRAND PAI PAU CHIN CHOO POH ENG TAN",
+  "holder": "NUTRI-HOME PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+  "holder_address": "NO. 12, 14 &amp; 16, JALAN TS 6/2, TAMAN INDUSTRI SUBANG, 47510, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "NUTRI-HOME PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "NO. 12,14 &amp; 16, JALAN TS 6/2, TAMAN INDUSTRI SUBANG, 47510, SUBANG JAYA, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Succinum",
+    "RHIZOMA ACORI GRAMINEI",
+    "RAMULUS UNCARIA CUM UNCIS",
+    "RADIX AUCKLANDIA LAPPA",
+    "PORIA COCOS WOLF",
+    "PEUCEDANUM PRAERUPTORUM RADIX",
+    "PERICARPIUM CITRI RETICULATAE",
+    "MARGARITA/HYRIOPSIS PEARL",
+    "LEDEBOURIELLA DIVARICATA RADIX",
+    "GLYCYRRHIZA URALENSIS RADIX",
+    "GASTRODIA ELATA RHIZOMA",
+    "DIOSCOREAE OPPOSITA RHIZOMA",
+    "CYPERUS ROTUNDUS RHIZOME",
+    "BULBUS FRITILLARIAE CIRRHOSAE",
+    "ALPINIAE OFFICINARUM RHIZOMA",
+    "Radix Bupleurum Chinensis"
+  ],
+  "sku": [
+    {
+      "package_description": "12 x 380 mg",
+      "sku_unit": "Units",
+      "quantity_per_sku": 4560,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

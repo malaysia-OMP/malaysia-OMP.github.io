@@ -1,0 +1,111 @@
+{
+  "registration_no": "MAL06071228T",
+  "product_name": "Xin Yi Qing Fei Yin  ( Granules )",
+  "holder": "SUN TEN PHARMACEUTICAL MFG (M) SDN. BHD.",
+  "holder_address": "LEVEL 22, MENARA LGB, NO 1, JALAN WAN KADIR, TAMAN TUN DR ISMAIL, , 60000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "SUN TEN PHARM CO LTD",
+  "manufacturer_address": "16,42TH ROAD, TAICHUNG INDUSTRIES PARK, TAICHUNG CITY,, TAIWAN,",
+  "importer": "SUN TEN PHARMACEUTICAL MFG (M) SDN. BHD.",
+  "importer_address": "LEVEL 22, , MENARA LGB, NO 1 JALAN WAN KADIR,, TAMAN TUN DR ISMAIL, 60000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Lilium brownii",
+    "RADIX OPHIOPOGON JAPONICUS",
+    "Glycyrrhiza Glabra",
+    "MAGNOLIA FARGESII CHENG FLOS",
+    "GYPSUM FRBROSUM",
+    "Folium Eriobotrya japonica.",
+    "ANEMARRHENA ASPHODELOIDES RHIZOMA",
+    "Radix Scutellaria Baicalensis",
+    "Fructus Gardenia jasminoides",
+    "Rhizoma Cimicifuga Heracleifolia"
+  ],
+  "sku": [
+    {
+      "package_description": "100gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "200gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

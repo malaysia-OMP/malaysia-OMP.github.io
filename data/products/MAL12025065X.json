@@ -1,0 +1,104 @@
+{
+  "registration_no": "MAL12025065X",
+  "product_name": "Euky Bear Inhalant",
+  "holder": "ROSLIND ENTERPRISE (M) SDN. BHD.",
+  "holder_address": "NO. 3, JALAN TPP 10, TAMAN PERINDUSTRIAN PUTRA, 47130, PUCHONG, MALAYSIA,",
+  "manufacturer": "FELTON GRIMWADE & BOSISTO\"S Pty.Ltd.2",
+  "manufacturer_address": "61-69 CLARINDA ROAD, OAKLEIGH SOUTH, OAKLEIGH SOUTH, 3167, AUSTRALIA,",
+  "importer": "ROSLIND ENTERPRISE (M) SDN. BHD.",
+  "importer_address": "NO. 3, JALAN TPP 10, TAMAN PERINDUSTRIAN PUTRA, 47130, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Eucalyptus Oil (Eucalyptus Globulus)",
+    "Menthol",
+    "Methyl salicylate"
+  ],
+  "sku": [
+    {
+      "package_description": "200ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "25ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

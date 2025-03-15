@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20162580HA",
+  "product_name": "MEDQUIN 250mg/ml Oral Solution",
+  "holder": "Life Biopharma Sdn. Bhd.",
+  "holder_address": "NO. 250-251, JALAN INDUSTRI GALLA 13, KAWASAN PERINDUSTRIAN GALLA, 70200, SEREMBAN, MALAYSIA,",
+  "manufacturer": "Life Biopharma Sdn. Bhd.",
+  "manufacturer_address": "NO 250-251, JALAN INDUSTRI GALLA 13,, KAWASAN PERINDUSTRIAN GALLA, , 70200, SEREMBAN, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "FLUMEQUINE"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

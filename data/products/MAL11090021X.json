@@ -1,0 +1,86 @@
+{
+  "registration_no": "MAL11090021X",
+  "product_name": "Supradyn Film Coated Tablet",
+  "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+  "holder_address": "25-03 &amp; 25-04, LEVEL 25, IMAZIUM,, NO. 8, JALAN SS21/37,, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT BAYER INDONESIA",
+  "manufacturer_address": "JL RAYA BOGOR KM. 32, DEPOK 16416, 16416, INDONESIA,",
+  "importer": "BAYER CO. (MALAYSIA) SDN. BHD.",
+  "importer_address": "25-03 &amp; 25-04, LEVEL 25, IMAZIUM  , NO 8, JALAN SS21/37, DAMANSARA UPTOWN  , 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Pyridoxine HCI",
+    "d-Alpha Tocopherol (Vitamin E)",
+    "Biotin",
+    "Calcium Carbonate",
+    "Folic Acid",
+    "Riboflavin",
+    "VITAMIN D3",
+    "Thiamine Hydrochloride (Vit. B1)",
+    "Zinc Sulphate Monohydrate.",
+    "Manganese Sulphate Monohydrate",
+    "cyanocobalamin 0.1%, WS",
+    "Calcium Ascorbate Dihydrate",
+    "Ferrous Fumarate",
+    "Magnesium Hydrogen Phosphate Trihydrate",
+    "Magnesium oxide light",
+    "Copper sulphate anhydrous.",
+    "Niacin (Vitamin B3, as nicotinamide)",
+    "Vitamin A Palmetate",
+    "Chromium Nitrate Nanohydrate",
+    "d-Calcium Pantothenate (Panthothenic Acid)"
+  ],
+  "sku": [
+    {
+      "package_description": "120   Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

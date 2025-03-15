@@ -1,0 +1,150 @@
+{
+  "registration_no": "MAL06071126X",
+  "product_name": "Juvita Multivitamins plus Calcium Chewable Tablet (For Children)",
+  "holder": "NOVA LABORATORIES SDN. BHD.",
+  "holder_address": "LOT 708, NOVA AVENUE, BATU 4, SUNGAI PELEK, 43950 , SEPANG, MALAYSIA,",
+  "manufacturer": "NOVA LABORATORIES SDN. BHD.",
+  "manufacturer_address": "LOT 708, NOVA AVENUE, BATU 4, SUNGAI PELEK,, 43950, SEPANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Biotin",
+    "Calcium Carbonate",
+    "Folic Acid",
+    "Ascorbic Acid (Vitamin C)",
+    "Calcium d-pantothenate(as Vitamin B5)",
+    "Cyanocobalamin(as VitaminB12)",
+    "D-alpha tocopherol powder",
+    "vitamin A beadlets.",
+    "Docosahexaenoic acid beadlets",
+    "Cholcalciferol beadlets",
+    "Thiamine hydrochloride(as Vitamin B1)",
+    "Vitamin B2 (Riboflavin sodium phosphate)",
+    "Niacin(as Vitamin B3)",
+    "Pyridoxine hydrochloride(as Vitamin B6)"
+  ],
+  "sku": [
+    {
+      "package_description": "60Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "200Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

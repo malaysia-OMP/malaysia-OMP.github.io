@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL10033181TC",
+  "product_name": "HERBS GROCER PA PAO CHEN CHOO CHIN FENG SAN",
+  "holder": "Fah Lian Herbs & Food Sdn. Bhd.",
+  "holder_address": "NO. 16, JALAN HUJAN RAHMAT 2, \n, OVERSEAS UNION GARDEN, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "NUTRI-HOME PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "NO. 12,14 &amp; 16, JALAN TS 6/2, TAMAN INDUSTRI SUBANG, 47510, SUBANG JAYA, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "RHIZOMA GASTRODIA ELATA.",
+    "Radix Saposhnikovia divaricata",
+    "PERIOSTRACUM CRYPTOTYMPANA PUSTULATA",
+    "Exocarpium Citrus Grandis",
+    "CALCULUS BOS TAURUS DOMESTICUS",
+    "Radix Glycyrrhiza Uralensis",
+    "Lignum Aquilaria sinensis",
+    "Bulbus Fritillaria cirrhosa",
+    "Herba Pogostemon cablin",
+    "Rhizoma Atractylodes Macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "0.375gm12Units Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

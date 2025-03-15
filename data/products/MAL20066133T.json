@@ -1,0 +1,70 @@
+{
+  "registration_no": "MAL20066133T",
+  "product_name": "TASLY MYASTRA PILLS",
+  "holder": "TASLY (MALAYSIA) SDN. BHD.",
+  "holder_address": "16-2, JALAN METRO PUDU 2,, FRASER BUSINESS PARK,, OFF JALAN LOKE YEW,, 55100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "TASLY PHARMACEUTICAL GROUP CO., LTD.",
+  "manufacturer_address": "NO. 2, PUJIHE EAST ROAD, BEICHEN DISTRICT, TIANJIN (TASLY MODERN TCM GARDEN),, CHINA,",
+  "importer": "TASLY (MALAYSIA) SDN. BHD.",
+  "importer_address": "16 &amp; 16-2, TKT. BAWAH &amp; TKT. 2,, JALAN METRO PUDU 2, FRASER BUSINESS PARK,, 55100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Dalbergia odorifera",
+    "Panax notoginseng",
+    "Salvia miltiorrhiza",
+    "Astragalus membranaceus"
+  ],
+  "sku": [
+    {
+      "package_description": "15 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

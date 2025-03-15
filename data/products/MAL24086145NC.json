@@ -1,0 +1,109 @@
+{
+  "registration_no": "MAL24086145NC",
+  "product_name": "Nano Singapore HS&N Multivitamin Complex Tablet",
+  "holder": "Nano Wellness Sdn. Bhd.",
+  "holder_address": "SUITE 51-17-D2, MENARA BHL JALAN SULTAN AHMAD SHAH, 10050, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "US PHARMATECH NV INC.",
+  "manufacturer_address": "7210 W. POST ROAD, BUILDING 1, LAS VEGAS, NV, 89113, UNITED STATES,",
+  "importer": "Nano Wellness Sdn. Bhd.",
+  "importer_address": "SUITE 32, BLOCK C, LEVEL 3A, THE FIVE @ KPD,, KOMPLEKS PEJABAT DAMASARA, NO.49 JALAN DUNGUN BUKIT DAMANSARA, 50490, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "ASCORBIC ACID (VITAMIN C)",
+    "BORON CITRATE",
+    "CALCIUM PANTOTHENATE",
+    "CHOLINE BITARTRATE",
+    "CITRUS BIOFLAVONOIDS",
+    "CYANOCOBALAMIN",
+    "ERGOCALCIFEROL",
+    "GLYCINE",
+    "INOSITOL",
+    "L-GLUTAMINE",
+    "L-GLUTATHIONE",
+    "L-ISOLEUCINE",
+    "L-LEUCINE",
+    "L-LYSINE",
+    "L-METHIONINE",
+    "L-PROLINE",
+    "L-VALINE",
+    "MAGNESIUM OXIDE",
+    "NICOTINAMIDE",
+    "PARA AMINO BENZOIC ACID (PABA)",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "RIBOFLAVIN",
+    "RUTIN",
+    "ZINC GLUCONATE",
+    "D-BIOTIN",
+    "DICALCIUM PHOSPHATE",
+    "THIAMINE MONONITRATE",
+    "DL-ALPHA TOCOPHERYL ACETATE",
+    "L-ARGININE HYDROCHLORIDE",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "L-CITRULLINE",
+    "EQUISETUM ARVENSE EXTRACT (HORSETAIL)",
+    "HYALURONIC ACID",
+    "SPINACIA OLERACEA EXTRACT (SPINACH)",
+    "L-ASPARTIC ACID",
+    "L-ORNITHINE",
+    "MANGANESE CITRATE",
+    "L-THREONINE",
+    "GLUTAMIC ACID",
+    "RIBONUCLEIC ACID/RNA",
+    "Retinyl Acetate (Vitamin A)",
+    "L-Phenylalanine",
+    "FOLIC ACID"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

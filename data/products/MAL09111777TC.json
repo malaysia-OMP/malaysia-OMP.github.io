@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL09111777TC",
+  "product_name": "Chan Hou Wu Jing Wan Cap Seen Shei",
+  "holder": "KAM LUNG TRADING",
+  "holder_address": "NO. 10, HALA RAPAT BARU 21, KAWASAN PERINDUSTRIAN RINGAN KINTA JAYA, 31350, IPOH , MALAYSIA,",
+  "manufacturer": "HO POH ONN MEDICAL HALL (M) SDN. BHD.",
+  "manufacturer_address": "24, JALAN MAJU 4,, TAMAN PERINDUSTRIAN CEMERLANG, 81800, ULU TIRAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Inula helenium",
+    "Rhizoma Zingiber officinale.",
+    "Rhizoma Ligusticum Acutilobum",
+    "CYPERUS ROTUNDUS",
+    "Rhizoma  Corydalis  Ambigua",
+    "Resina Pistacia Lentiscus L.",
+    "Prunus Persica  L",
+    "KAEMPFERIA PANDURATA ROXB",
+    "HERBA LEONURUS SIBIRICUS",
+    "Flos Carthamus Tinctorius",
+    "Cortex Cinnamomum cassia",
+    "Radix Lindera strychnifolia",
+    "Honey"
+  ],
+  "sku": [
+    {
+      "package_description": "3gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

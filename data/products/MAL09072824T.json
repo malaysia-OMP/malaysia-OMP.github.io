@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL09072824T",
+  "product_name": "Wen Shen Qian Lie Capsule",
+  "holder": "TONGHUA DONG BAO (M) SDN. BHD.",
+  "holder_address": "SUITE 102, LEVEL 1, WISMA CHINESE CHAMBER, 258, JALAN AMPANG, 50450, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Xiuzheng Pharmaceutical Group Stock Co.,Ltd",
+  "manufacturer_address": "NO.36, XIUZHENG ROAD, TONGHUA CITY, JILIN PROVINCE, 134000, CHINA,",
+  "importer": "HBL (M) SDN BHD",
+  "importer_address": "SUITE 102, LEVEL 1, WISMA CHINESE CHAMBER, 258, JALAN AMPANG, 50450, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Semen Plantago asiatica.",
+    "Rhizoma Polygoni Cuspidati",
+    "Rhizoma Alisma orientalis",
+    "Radix Rehmanniae Praeparata",
+    "Radix Dioscorea opposite",
+    "Poria Cocos.",
+    "HERBA POLYGONI AVICULARIS",
+    "HERBA EPIMEDIUM BREVICORNUM",
+    "HERBA DIANTHUS SUPERBUS",
+    "FRUCTUS CORNUS OFFICINALIS",
+    "Cortex Cinnamomum cassia",
+    "Cortex Paeonia suffruticosa",
+    "Radix Achyranthis Bidentatae"
+  ],
+  "sku": [
+    {
+      "package_description": "500gm24Capsule Capsules",
+      "sku_unit": "g",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

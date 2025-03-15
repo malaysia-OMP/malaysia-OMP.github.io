@@ -1,0 +1,87 @@
+{
+  "registration_no": "MAL20032285T",
+  "product_name": "PEKING TONGRENTANG BRAND NGAU WONG CHING SAM YUEN",
+  "holder": "HAI-O MEDICINE SDN. BHD.",
+  "holder_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "BEIJING TONG REN TANG LTD CO.TONG REN TANG PHARM F",
+  "manufacturer_address": "NO.46,XIDAMOCHANG STREET, CHONGWEN DISTRICT, BEIJING 100051,, CHINA,",
+  "importer": "NANG HIN MEDICAL SDN. BHD.",
+  "importer_address": "NO. 24A &amp; 24B, JALAN BPU 4, BANDAR PUCHONG UTAMA, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Ophiopogon japonicus",
+    "CALCULUS BOVIS",
+    "COLLA CORII ASINI",
+    "ZINGIBER OFFICINALE/HALIA SUTI",
+    "TYPHA AUGUSTIFOLIA LINNE",
+    "SCUTELLARIA BAICALENSIS RADIX",
+    "SAPOSHNIKOVIA DIVARICATA RADIX",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA ATRACTYLODIS MACROCEPHALAE",
+    "RADIX PANAX GINSENG.",
+    "RADIX PAEONIAE LACTIFLORAE",
+    "RADIX BUPLEURUM CHINENSE",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PRUNUS ARMENIACA SEMEN",
+    "PORIA COCOS WOLF",
+    "PLATYCODON GRANDIFLORUS DC RADIX",
+    "MASSA MEDICATA FERMENTATA",
+    "GLYCYRRHIZA URALENSIS RADIX",
+    "DIOSCOREA OPPOSITA THUNB",
+    "CORTEX CINNAMOMUM CASSIA",
+    "AMPELOPSIS ACONITIFOLIA RADIX"
+  ],
+  "sku": [
+    {
+      "package_description": "10Pill Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

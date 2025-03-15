@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL12030003AZ",
+  "product_name": "Ciprubicin (Epirubicin Hydrochloride Injection 2mg/mL)",
+  "holder": "CIPLA MALAYSIA SDN BHD",
+  "holder_address": "SUITE 1101, AMCORP TOWER, AMCORP TRADE CENTRE, 18, PERSIARAN BARAT, 46050, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "M/S CIPLA  LTD",
+  "manufacturer_address": "S-103 TO S-105, S-107  TO S-112 , L-147 TO L-147-1, VERNA  INDUSTRIAL ESTATE, NIL, INDIA,",
+  "importer": "CIPLA MALAYSIA SDN BHD",
+  "importer_address": "SUITE 1101, AMCORP TOWER, AMCORP TRADE CENTRE, 18, PERSIARAN BARAT, 46050, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "EPIRUBICIN HYDROCHLORIDE"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

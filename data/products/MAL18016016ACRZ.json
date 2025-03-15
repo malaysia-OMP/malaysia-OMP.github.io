@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL18016016ACRZ",
+  "product_name": "Nurofen Express 400mg Liquid Capsules",
+  "holder": "RB (HEALTH) MALAYSIA SDN BHD",
+  "holder_address": "LEVEL 17, MENARA 1 SENTRUM,, NO. 201, JALAN TUN SAMBANTHAN, 50470, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Patheon Softgels B.V.",
+  "manufacturer_address": "DE POSTHOORNSTRAAT 7,, TILBURG, 5048AS, NETHERLANDS,",
+  "importer": "RB (HEALTH) MALAYSIA SDN BHD",
+  "importer_address": "LEVEL 17, MENARA 1 SENTRUM,,  NO. 201, JALAN TUN SAMBANTHAN, BRICKFIELDS, 50470 , KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "IBUPROFEN"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "12 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL20033780T",
+  "product_name": "PEI PA KOA CAP FEI CHUI",
+  "holder": "BESFOMEC INDUSTRIES SDN. BHD.",
+  "holder_address": "LOT 1,, KAWASAN PERINDUSTRIAN ALOR GAJAH III,, DAERAH ALOR GAJAH, 78000, ALOR GAJAH, MALAYSIA,",
+  "manufacturer": "BESFOMEC INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "LOT 1,, KAWASAN PERINDUSTRIAN ALOR GAJAH III,, 78000, ALOR GAJAH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "SYRUP",
+    "SEMEN PRUNUS ARMENIACA L",
+    "Rhizoma Zingiber officinale",
+    "Radix Platycodon gradiflorum",
+    "Glycyrrhiza Glabra",
+    "RADIX ADENOPHORA TETRAPHYLLA",
+    "Honey (Mel)",
+    "HERBA MENTHA ARVENSIS",
+    "FOLIUM ERIOBOTRYA JAPONICA",
+    "FLOS TUSSILAGO FARFARA",
+    "Exocarpium Citrus Reticulata",
+    "BULBUS FRITILLARIAE CIRRHOSAE",
+    "AERODRAMUS FUCIPHAGUS NEST"
+  ],
+  "sku": [
+    {
+      "package_description": "300ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

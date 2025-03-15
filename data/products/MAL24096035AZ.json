@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24096035AZ",
+  "product_name": "AUROCLAZ 60 (Gliclazide Modified Release Tablets 60mg)",
+  "holder": "SYNERRV SDN BHD",
+  "holder_address": "SO-29-2, MENARA 1,, KL ECO CITY, JALAN BANGSAR,, KG HAJI ABDULLAH HUKUM,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Aurobindo Pharma Limited (Unit XV)",
+  "manufacturer_address": "PLOT NO: 17 A, E - BONANGI VILLAGE, JAWAHARLAL NEHRU PHARMA CITY, PARAWADA MANDAL, ANAKAPALLI DISTRICT, ANDHRA PRADESH, INDIA,",
+  "importer": "SYNERRV SDN BHD",
+  "importer_address": "SO-29-2, MENARA 1, KL ECO CITY, JALAN BANGSAR, KG HAJI ABDULLAH HUKUM, 59200, BANGSAR, MALAYSIA,",
+  "active_ingredients": [
+    "GLICLAZIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "3 x 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

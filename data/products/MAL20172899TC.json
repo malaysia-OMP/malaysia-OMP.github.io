@@ -1,0 +1,33 @@
+{
+  "registration_no": "MAL20172899TC",
+  "product_name": "Lo Hong Ka Spirulina Plus 250mg Tablet",
+  "holder": "RICH POCKETS SDN. BHD.",
+  "holder_address": "NO. 9-4, JALAN SP 2/1, TAMAN SERDANG PERDANA, SEK.2, , 43300, SERI KEMBANGAN, MALAYSIA,",
+  "manufacturer": "THE ORIGIN FOODS SDN. BHD.",
+  "manufacturer_address": "LOT 1 JALAN INDUSTRI PBP 11, TAMAN PERINDUSTRIAN PUSAT BANDAR PUCHONG, 47100, PUCHONG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "SPIRULINA PLATENSIS",
+    "Triticum Aesticum",
+    "Oryza sativa"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL19076108NC",
+  "product_name": "CELLGEVITY CAPSULES",
+  "holder": "Max Health & Living Worldwide (Malaysia) Sdn Bhd",
+  "holder_address": "C-11-7, 3 TWO SQUARE,, 2, JALAN 19/1,, 46300, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Capstone Nutrition",
+  "manufacturer_address": "900 S. DEPOT DRIVE  OGDEN, UTAH, 84404, UNITED STATES,",
+  "importer": "Max Health & Living Worldwide (Malaysia) Sdn Bhd",
+  "importer_address": "C-11-7, 3 TWO SQUARE,, 2, JALAN 19/1, 46300, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "CORDYCEPS SINENSIS CONCENTRATE",
+    "D-RIBOSE-L-CYSTEINE",
+    "CURCUMA LONGA EXTRACT (TURMERIC)",
+    "CALCIUM ASCORBATE",
+    "POLYGONUM CUSPIDATUM EXTRACT",
+    "ALPHA LIPOIC ACID",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "QUERCETIN DIHYDRATE",
+    "SILYBUM MARIANUM EXTRACT (MILK THISTLE)",
+    "BRASSICA OLERACEA ITALICA EXTRACT (BROCCOLI)",
+    "ALOE VERA",
+    "PIPER NIGRUM FRUIT EXTRACT (BLACK PEPPER)",
+    "L-SELENOMETHIONINE"
+  ],
+  "sku": [
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

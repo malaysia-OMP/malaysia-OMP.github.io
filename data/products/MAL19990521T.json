@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL19990521T",
+  "product_name": "QING DAI WANCO (INDIGO)",
+  "holder": "CHINESE PATENT MEDICINES & MEDICATED LIQUORS CENTRE (PENANG) SDN. BHD.",
+  "holder_address": "16,, DATO KOYAH ROAD,, 10050, MALAYSIA,",
+  "manufacturer": "YULIN AREA CHINESE HERBAL DRUG FTY",
+  "manufacturer_address": "XINMIN DISTRICT MINGZHOU TOWN SUIDE COUNTRY, CHINA,",
+  "importer": "CHINESE PATENT MEDICINES & MEDICATED LIQUORS CENTRE (PENANG) SDN. BHD.",
+  "importer_address": "16, JALAN DATO KOYAH , 10050, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "INDIGO NATURALIS",
+    "SALVIAE MILTIORRHIZAE RADIX",
+    "Poria cocos",
+    "PRUNUS MUME S ET Z",
+    "MASSA MEDICATA FERMENTATA",
+    "HERBA TARAXACI/TARAXACUM MONGOLICUM",
+    "FRUCTUS SCHISANORAE",
+    "CORTEX DICTAMNI RADICIS"
+  ],
+  "sku": [
+    {
+      "package_description": "6gmUnits Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 6,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,36 @@
+{
+  "registration_no": "MAL20172949N",
+  "product_name": "NoriCal-D Plus Tablet",
+  "holder": "Noripharma Sdn. Bhd.",
+  "holder_address": "LOT 5030, JALAN TERATAI, \n, 5 1/2 MILE OFF JALAN MERU, 41050, KLANG, MALAYSIA,",
+  "manufacturer": "Noripharma Sdn. Bhd.",
+  "manufacturer_address": "LOT 5030, JALAN TERATAI,\n5 1/2 MILE OFF JALAN MERU, 41050, KLANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "CALCIUM CARBONATE",
+    "MANGANESE SULPHATE MONOHYDRATE",
+    "COPPER GLUCONATE",
+    "MAGNESIUM OXIDE",
+    "ZINC OXIDE",
+    "CHOLECALCIFEROL"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,140 @@
+{
+  "registration_no": "MAL21106095NC",
+  "product_name": "SWISSE ULTIBOOST GRAPE SEED EXTRACT PLUS TABLET",
+  "holder": "HEALTH AND HAPPINESS (H&H) MALAYSIA SDN. BHD.",
+  "holder_address": "1603,, LEVEL 16,, 1 SENTRAL, JALAN STESEN SENTRAL 5,, 50470, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Vitex Pharmaceuticals Pty Ltd",
+  "manufacturer_address": "4 ALSPEC PLACE EASTERN CREEK NSW 2766, AUSTRALIA,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "NICOTINAMIDE",
+    "TOCOPHERYL ACID SUCCINATE, D-ALPHA",
+    "CALCIUM ASCORBATE DIHYDRATE",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "180 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

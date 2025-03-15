@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL19986950ARZ",
+  "product_name": "AUGMENTIN SUSPENSION 228MG/5ML",
+  "holder": "GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "HZ.01, HORIZON PENTHOUSE, , 1 POWERHOUSE, , 1, PERSIARAN BANDAR UTAMA, BANDAR UTAMA, , 47800, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "GLAXO WELLCOME PRODUCTION",
+  "manufacturer_address": "ZL DE LA PEYENNIERE, 53100 MAYENNE CEDEX,, FRANCE,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "AMOXYCILLIN",
+    "POTASSIUM CLAVULANATE"
+  ],
+  "sku": [
+    {
+      "package_description": "70 mL",
+      "sku_unit": "mL",
+      "quantity_per_sku": 70,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "70 mL BOTTLE",
+      "sku_unit": "mL",
+      "quantity_per_sku": 70,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

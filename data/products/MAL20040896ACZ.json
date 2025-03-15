@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL20040896ACZ",
+  "product_name": "CLARINASE 24HR EXTENDED RELEASE TABLETS",
+  "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+  "holder_address": "25-03 &amp; 25-04, LEVEL 25, IMAZIUM,, NO. 8, JALAN SS21/37,, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "SAG MANUFACTURING, S.L.U",
+  "manufacturer_address": "CARRETERA NACIONAL 1 KM 36, SAN AGUSTIN DEL GUADALIX, 28750 MADRID, SPAIN,",
+  "importer": "BAYER CO. (MALAYSIA) SDN. BHD.",
+  "importer_address": "25-03 &amp; 25-04, LEVEL 25, IMAZIUM  , NO 8, JALAN SS21/37, DAMANSARA UPTOWN  , 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "LORATADINE",
+    "PSEUDOEPHEDRINE SULPHATE"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

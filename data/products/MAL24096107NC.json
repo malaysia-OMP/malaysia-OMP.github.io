@@ -1,0 +1,109 @@
+{
+  "registration_no": "MAL24096107NC",
+  "product_name": "Bonday Tablets",
+  "holder": "Synercam (M) Sdn Bhd",
+  "holder_address": "A-17-7, BLOCK A, JAYA ONE,, NO. 72A, JALAN PROFESOR DIRAJA UNGKU AZIZ,, SEKSYEN 13, , 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Swiss Garnier Life Sciences",
+  "manufacturer_address": "21-23, INDUSTRIAL AREA, MEHATPUR, UNA DIST., HIMACHAL PRADESH, 174315,, INDIA,",
+  "importer": "Synercam (M) Sdn Bhd",
+  "importer_address": "A-17-7, BLOCK A, JAYA ONE, NO. 72A, JALAN PROFESOR DIRAJA UNGKU AZIZ, SEKSYEN 13, 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "CHICKEN CARTILAGE EXTRACT",
+    "ASCORBIC ACID (VITAMIN C)",
+    "CALCIUM CARBONATE",
+    "MAGNESIUM OXIDE HEAVY",
+    "Vitamin D3 (Cholecalciferol)",
+    "ZINC OXIDE",
+    "Cupric Sulfate Pentahydrate",
+    "MANGANESE SULPHATE MONOHYDRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "3 x 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

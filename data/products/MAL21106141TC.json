@@ -1,0 +1,112 @@
+{
+  "registration_no": "MAL21106141TC",
+  "product_name": "ZBT 360 TM CAPSULES",
+  "holder": "ZBT FAR EAST SDN. BHD.",
+  "holder_address": "NO. 115, BLOK P/B \n, TAMAN CHERAS, OFF JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Baoding Tianhao Pharmaceutical Co., Ltd",
+  "manufacturer_address": "NO.128, XINGHUA ROAD, DINGXING, HEBEI PROVINCE, , CHINA,",
+  "importer": "ZBT FAR EAST SDN. BHD.",
+  "importer_address": "17-1-2, JALAN 2/105, TAMAN MIDAH, 56000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Pseudostellaria heterophylla",
+    "Salvia miltiorrhiza",
+    "Coptis chinensis",
+    "Astragalus membranaceus",
+    "Gynostemma pentaphyllum",
+    "Dioscorea opposita",
+    "Atractylodes lancea",
+    "Scrophularia ningpoensis",
+    "Malva verticillata",
+    "Pueraria lobata",
+    "Whitmania pigra"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "300 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

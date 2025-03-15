@@ -1,0 +1,182 @@
+{
+  "registration_no": "MAL09021127T",
+  "product_name": "Chai Hu Jia Long Gu Mu Li Tang \"Sun Ten\" Tablets 300mg",
+  "holder": "SUN TEN PHARMACEUTICAL MFG (M) SDN. BHD.",
+  "holder_address": "LEVEL 22, MENARA LGB, NO 1, JALAN WAN KADIR, TAMAN TUN DR ISMAIL, , 60000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "SUN TEN PHARMACEUTICAL CO. LTD.",
+  "manufacturer_address": "16, 42ND ROAD, TAICHUNG INDUSTRIAL PARK,, TAIWAN,",
+  "importer": "SUN TEN PHARMACEUTICAL MFG (M) SDN. BHD.",
+  "importer_address": "LEVEL 22, , MENARA LGB, NO 1 JALAN WAN KADIR,, TAMAN TUN DR ISMAIL, 60000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "RHIZOMA ZINGIBERIS RECENS",
+    "RHEUM TANGUTICUM",
+    "Rhizoma Pinelliae ternata preparatum",
+    "Ramulus Cinnamomi Cassia",
+    "Radix Scutellariae baicalensis extract",
+    "Radix Panax Ginseng Extract",
+    "Poria Cocos Extract",
+    "Os Draconis (Fossilia Ossis Mastodi)",
+    "Fructus Zizyphi Jujubae",
+    "Concha Ostreae gigas (extract)",
+    "RADIX BUPLEURI CHINENSE"
+  ],
+  "sku": [
+    {
+      "package_description": "1000Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "300Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "180Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "500Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

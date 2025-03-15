@@ -1,0 +1,139 @@
+{
+  "registration_no": "MAL20106089TC",
+  "product_name": "MEBO WOUND OINTMENT",
+  "holder": "Mebo Healthcare Sdn Bhd",
+  "holder_address": "LOT 4-401 &amp; 4-402, LEVEL 4, THE STARLING MALL,, NO.6, JALAN SS21/37, , DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Shantou MEBO Pharmaceutical Co., Ltd.",
+  "manufacturer_address": "NO. 13, SOUTHERN YUJIN ROAD, ZHUJIN INDUSTRIAL DISTRICT, SHANTOU CITY, GUANGDONG, , CHINA,",
+  "importer": "Mebo Healthcare Sdn Bhd",
+  "importer_address": "LOT 4-401 &amp; 4-402, LEVEL 4,, THE STARLING MALL,, NO. 6, JALAN SS21/37, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Coptis chinensis",
+    "Phellodendron chinense",
+    "Scutellaria baicalensis"
+  ],
+  "sku": [
+    {
+      "package_description": "20 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "40 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 40,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

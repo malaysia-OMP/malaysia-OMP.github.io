@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL21116027AZ",
+  "product_name": "TAFICITA (Emtricitabine and Tenofovir Alafenamide Film Coated Tablets 200mg/25mg)",
+  "holder": "MYLAN HEALTHCARE SDN. BHD.",
+  "holder_address": "15-03 &amp; 15-04, LEVEL 15, IMAZIUM,, NO. 8, JALAN SS 21/37, , DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Mylan Laboratories Limited",
+  "manufacturer_address": "PLOT NO. 11,12 &amp; 13,, INDORE SEZ, PHARMA ZONE,, PHASE II, SECTOR-III, PITHAMPUR - 454 775, DIST. - DHAR (MP),, INDIA,",
+  "importer": "PAHANG PHARMACY SDN. BHD.",
+  "importer_address": "LOT 5016, JALAN TERATAI, 5 1/2 MILE OFF JALAN MERU , 41050 , KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "EMTRICITABINE",
+    "TENOFOVIR ALAFENAMIDE FUMARATE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL22036011ACZ",
+  "product_name": "Tigelat 50mg  (Tigecycline Lyophilised Powder for Intravenous Infusion 50mg/Vial)",
+  "holder": "ZULAT PHARMACY SDN. BHD.",
+  "holder_address": "NO. 23A (1ST FLOOR), JALAN BANDAR 3\n, TAMAN MELAWATI, 53100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "M/s Gland Pharma Limited",
+  "manufacturer_address": "SURVEY NO. 143-148, 150 &amp;151,, NEAR GANDIMAISAMMA CROSS ROADS,  D.P. PALLY, DUNDIGAL POST,  DUNDIGAL- GANDIMAISAMMA MANDAL ,  MEDCHAL - MALKAJGIRI DISTRICT, ,  HYDERABAD - 500043, TELANGANA,, INDIA,",
+  "importer": "ZULAT PHARMACY SDN. BHD.",
+  "importer_address": "NO.23 &amp; 23A, JALAN BANDAR 3, TAMAN MELAWATI,, 53100 , KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "TIGECYCLINE"
+  ],
+  "sku": [
+    {
+      "package_description": "1  Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

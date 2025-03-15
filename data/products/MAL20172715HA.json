@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20172715HA",
+  "product_name": "Tylolide Granules for Oral Solution 100% w/w",
+  "holder": "Weissen Company (m) Sdn. Bhd.",
+  "holder_address": "LOT 105, NO. 84, JALAN VELOX 23, TAMAN VELOX, , 48000, RAWANG, MALAYSIA,",
+  "manufacturer": "Laboratoires BIOVE",
+  "manufacturer_address": "3,RUE DE LORRAINE,B.P. 45, ARQUES, 62510, FRANCE,",
+  "importer": "Weissen Company (m) Sdn. Bhd.",
+  "importer_address": "LOT 105, NO. 84, JALAN VELOX 23, TAMAN VELOX, 48000, RAWANG, MALAYSIA,",
+  "active_ingredients": [
+    "Tylosin (as tartrate)"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

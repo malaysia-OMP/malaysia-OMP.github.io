@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL21046014AZ",
+  "product_name": "IRINOL (IRINOTECAN CONCENTRATE FOR SOLUTION FOR INFUSION 20MG/ML)",
+  "holder": "UNIMED SDN. BHD.",
+  "holder_address": "53, JALAN TEMBAGA SD 5/2B,, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Venus Remedies Limited",
+  "manufacturer_address": "HILL TOP INDUSTRIAL ESTATE, JHARMAJRI, EPIP PHASE-I (EXTN.), BHATOLI KALAN, BADDI, DISTT. SOLAN, HIMACHAL PRADESH 173205,, INDIA,",
+  "importer": "UNIMED SDN. BHD.",
+  "importer_address": "NO. 53, JALAN TEMBAGA SD5/2B, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Irinotecan Hydrochloride Trihydrate"
+  ],
+  "sku": [
+    {
+      "package_description": "2ml X 1 Vials",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5ml X 1 Vials",
+      "sku_unit": "ml",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL22126139NC",
+  "product_name": "Nano Singapore Probiotic 40 Billion CFU with Prebiotic Capsule",
+  "holder": "Nano Wellness Sdn. Bhd.",
+  "holder_address": "SUITE 51-17-D2, MENARA BHL JALAN SULTAN AHMAD SHAH, 10050, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "US PHARMATECH INC.",
+  "manufacturer_address": "2927 LOMITA BOULEVARD,, TORRANCE, CA,, 90505,, UNITED STATES,",
+  "importer": "Nano Wellness Sdn. Bhd.",
+  "importer_address": "SUITE 32, BLOCK C, LEVEL 3A, THE FIVE @ KPD,, KOMPLEKS PEJABAT DAMASARA, NO.49 JALAN DUNGUN BUKIT DAMANSARA, 50490, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "BIFIDOBACTERIUM LACTIS",
+    "LACTOBACILLUS ACIDOPHILUS",
+    "LACTOBACILLUS PLANTARUM",
+    "LACTOBACILLUS PARACASEI SPP. PARACASEI",
+    "INULIN",
+    "FRUCTOOLIGOSACCHARIDES"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

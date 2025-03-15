@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL16065032N",
+  "product_name": "Reneogen Powder",
+  "holder": "Wells Products Industry Sdn Bhd",
+  "holder_address": "NO.6, LORONGSERULING 59/2 KS2,, TAMAN PERINDUSTRIAN, KLANG JAYA, 42100, KLANG, MALAYSIA,",
+  "manufacturer": "Wells Products Industry Sdn Bhd",
+  "manufacturer_address": "NO. 3, LOT 6, LORONG SERULING 59/2, KS2, TAMAN PERINDUSTRIAN KLANG JAYA, 41200, KLANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "ASCORBIC ACID (VITAMIN C)",
+    "INULIN",
+    "L-GLUTATHIONE",
+    "COENZYME Q10 (UBIQUINONE)",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "COLLAGEN PEPTIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "15g x 15sachet Sachets",
+      "sku_unit": "g",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL20032154ACRZ",
+  "product_name": "XALACOM EYE DROP 0.005%",
+  "holder": "VIATRIS SDN. BHD.",
+  "holder_address": "15-03 &amp; 15-04, LEVEL 15, IMAZIUM,, NO.8, JALAN SS21/37, , DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Pfizer Manufacturing Belgium NV",
+  "manufacturer_address": "RIJKSWEG 12, 2870 PUURS-SINT-AMANDS, , BELGIUM,",
+  "importer": "VIATRIS SDN. BHD.",
+  "importer_address": "15-03 &amp; 15-04, LEVEL 15, IMAZIUM, , NO.8, JALAN SS21/37,   DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "LATANOPROST",
+    "TIMOLOL MALEATE"
+  ],
+  "sku": [
+    {
+      "package_description": "5ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2.5 ml mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

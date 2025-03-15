@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL09072759TC",
+  "product_name": "ENSO Shuang Liao Bird Nest Pearl Pak Fong Pill Plus",
+  "holder": "SIHAT MESRA SDN. BHD.",
+  "holder_address": "NO. 70E, TAMAN MAHAWANGSA \n, SEBERANG JALAN PUTRA, 05150, ALOR SETAR, MALAYSIA,",
+  "manufacturer": "EASY PLUS PHARMACEUTICAL (M) SDN. BHD.",
+  "manufacturer_address": "NO. 104 &amp; 105, JALAN TIMOR 6, MERGONG BARRAGE, LENCONG BARAT, 05400, ALOR SETAR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Pteria martensii",
+    "Tachycineta bicolor Saliva (Bird Nest)",
+    "RHIZOMA LIGUSTICUM CHUANXIONG",
+    "Rhizoma Dioscorea Opposita",
+    "Radix Trichosanthes kirilowii",
+    "radix rehmania glutinosa",
+    "Radix Codonopsis Pilosula",
+    "Poria Cocos (Schw) Wolf",
+    "Herba Leonurus japonicus",
+    "FRUCTUS LYCIUM BARBARUM",
+    "Cortex Eucommia Ulmoides.",
+    "RADIX ANGELICA SINENSIS",
+    "Rhizoma Atractylodes Macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "6gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 6,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

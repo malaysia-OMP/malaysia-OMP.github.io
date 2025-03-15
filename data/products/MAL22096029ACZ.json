@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL22096029ACZ",
+  "product_name": "COLSYN (Colchicine Tablets USP 500 mcg)",
+  "holder": "UNIMED SDN. BHD.",
+  "holder_address": "53, JALAN TEMBAGA SD 5/2B,, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "XL Laboratories Pvt. Ltd.",
+  "manufacturer_address": "E-1223, PHASE-I, EXTN. (GHATAL), RIICO INDUSTRIAL AREA, BHIWADI-301019, DIST. ALWAR (RAJ.),, INDIA,",
+  "importer": "UNIMED SDN. BHD.",
+  "importer_address": "NO. 53, JALAN TEMBAGA SD5/2B, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "COLCHICINE"
+  ],
+  "sku": [
+    {
+      "package_description": "10 x 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

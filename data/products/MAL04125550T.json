@@ -1,0 +1,77 @@
+{
+  "registration_no": "MAL04125550T",
+  "product_name": "Wykon Bo Ying Complex 800mg",
+  "holder": "WYKON MEDICAL SDN. BHD.",
+  "holder_address": "NO. 177,  JALAN BESAR, 31100, SUNGAI SIPUT, MALAYSIA,",
+  "manufacturer": "WAN YEEN TRADING SDN. BHD.",
+  "manufacturer_address": "NO. 24, PERSIARAN INDUSTRI BERCHAM 11, KAWASAN PERINDUSTRIAN RINGAN BERCHAM, 31400, IPOH , MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Succinum",
+    "Radix Saposhnikoviae Divaricta",
+    "PERIOSTRACUM CRYPTOTYMPANA PUSTULATA",
+    "HERBA POGOSTEMON CABLIN (BLANCO) BENTH",
+    "CONCRETIO SILICEA BAMBUSAE",
+    "CONCHA HYRIOPSIS CUMINGII",
+    "Bulbus Fritillariae cirrhosa",
+    "Radix Glycyrrhiza Uralensis",
+    "Lignum Aquilaria sinensis",
+    "Rhizoma Gastrodia elate",
+    "Rhizoma Atractylodes Macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "0.8 gm x 5 Sachets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

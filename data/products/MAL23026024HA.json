@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL23026024HA",
+  "product_name": "Topizole Medicated Shampoo",
+  "holder": "WILTOP ENTERPRISE",
+  "holder_address": "NO 8, JALAN SILC 1/2, KAWASAN PERINDUSTRIAN SILC,, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "manufacturer": "Mavlab Pty Ltd",
+  "manufacturer_address": "29-33 ROWLAND STREET, SLACKS CREEK,, QUEENSLAND, 4127, AUSTRALIA,",
+  "importer": "WILTOP ENTERPRISE",
+  "importer_address": "9, JALAN PERJIRANAN 12/29, BANDAR DATO ONN, 81100, JOHOR BAHRU, MALAYSIA,",
+  "active_ingredients": [
+    "CHLORHEXIDINE GLUCONATE",
+    "MICONAZOLE NITRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "250 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

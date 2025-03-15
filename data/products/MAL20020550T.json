@@ -1,0 +1,89 @@
+{
+  "registration_no": "MAL20020550T",
+  "product_name": "PEKING TONGRENTANG BRAND KUO KONG CHIEW",
+  "holder": "HAI-O ENTERPRISE BERHAD",
+  "holder_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "BEIJING TONG REN TANG CHINESE MEDICINAL WINE FTY",
+  "manufacturer_address": "NO.49,GUOYUAN TONGZHOU DISTRICT,BEIJING 101149,, CHINA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Ophiopogon japonicus",
+    "SAPOSHNIKOVIA DIVARICATA RADIX",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA ATRACTYLODIS MACROCEPHALAE",
+    "RADIX LINDERAE",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "POLYGONUM CUSPIDATUM RHIZOMA",
+    "PERICARPIUM CITRI RETICULATAE",
+    "PAEONIA SUFFRUTICOSA CORTEX",
+    "NOTOPTERYGIUM INCISIUM N.FROBESII",
+    "LYCIUM BARBARUM FRUCTUS",
+    "HERBA POGOSTEMON CABLIN (BLANCO) BENTH",
+    "GARDENIAE JASMINOIDES FRUCTUS",
+    "FRUCTUS CITRUS AURANTIUM LANG",
+    "FRUCTUS CITRI MEDICA L",
+    "FRUCTUS CHAENOMELIS",
+    "CATECHU",
+    "CARTHAMUS TINCTORIUS LINNE FLOS",
+    "ARISAEMATIS ERUBESCENS RHIZOMA",
+    "ANGELICAE DAHURICAE RADIX",
+    "ANGELICA SINESIS + ANGELICA PUBESCENS",
+    "ACANTHOPANAX GRACILISTYLUS",
+    "ACHYRANTHES BIDENTATA RADIX"
+  ],
+  "sku": [
+    {
+      "package_description": "0656ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 656,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

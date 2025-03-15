@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL07011000TC",
+  "product_name": "4Life TF CV Capsule 438.17 mg",
+  "holder": "Forlife Research Imports Sdn. Bhd.",
+  "holder_address": "LEVEL 3, TOWER 2, AVENUE 3,, THE HORIZON, BANGSAR SOUTH,, NO. 8, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Biomedical Research Laboratories, LC",
+  "manufacturer_address": "9850 SOUTH 300 WEST, 84070, UNITED STATES,",
+  "importer": "Forlife Research Imports Sdn. Bhd.",
+  "importer_address": "LEVEL 3, TOWER 2,  AVENUE 3, THE HORIZON, BANGSAR SOUTH, NO. 8, JALAN KERINCHI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Ruscus aculeatus extract (root)",
+    "Polygonum cuspidatum extract (root)",
+    "Monascus pilosus fungus extract (resin)",
+    "Ginkgo Biloba Extract (Leaf)",
+    "Crataegus oxycantha L extract (flower and leaf)",
+    "Beta vulgaris L. (tuber)",
+    "Allium sativum (bulb)",
+    "A concentrate of egg yolk"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

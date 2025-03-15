@@ -1,0 +1,82 @@
+{
+  "registration_no": "MAL20032098T",
+  "product_name": "PILL NING SUN CHOP SENG LIAN",
+  "holder": "SENG LIAN TRADING",
+  "holder_address": "NO. 20-22 , JALAN JELAPANG MAJU 4\n, TAMAN PERINDUSTRIAN JELAPANG MAJU, 30020, IPOH , MALAYSIA,",
+  "manufacturer": "SENG LIAN TRADING",
+  "manufacturer_address": "NO. 20-22 , JALAN JELAPANG MAJU 4, TAMAN PERINDUSTRIAN JELAPANG MAJU, 30020, IPOH , MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Cordyceps sinensis",
+    "Euryale ferox",
+    "Ophiopogon japonicus",
+    "Ziziphus jujuba",
+    "ZIZIPHUS SPINOSUS FRUCTUS",
+    "RADIX SALVIAE MILTIORRHIZAE EXTRACT",
+    "RADIX REHMANNIAE GLUTINOSA",
+    "RADIX CODONOPSIS PILOSULAE",
+    "PORIA COCOS WOLF",
+    "POLYGALAE TENUIFOLIA RADIX",
+    "PERICARPIUM CITRI RETICULATAE",
+    "NELUMBO NUCIFERA SEMEN",
+    "MADU LEBAH ASLI/HONEY",
+    "DIOSCOREAE OPPOSITA RHIZOMA",
+    "BULBUS LILIUM LANCIFOLIUM",
+    "ATRACTYLODES MACROCEPHALA RHIZOMA"
+  ],
+  "sku": [
+    {
+      "package_description": "1 box x 2.5g x 6 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

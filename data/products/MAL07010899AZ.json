@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL07010899AZ",
+  "product_name": "Momate Ointment  0.1%w/w",
+  "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+  "holder_address": "D-31-02, MENARA SUEZCAP 1,, NO.2, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "GLENMARK PHARMACEUTICALS LTD",
+  "manufacturer_address": "PLOT NO.E37,39, \nMIDC AREA,SATPUR, \nNASIK-422007, \nMAHARASHTRA, INDIA,",
+  "importer": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+  "importer_address": "D-31-02, MENARA SUEZCAP 1, NO. 2, JALAN KERINCHI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Mometasone Furoate USP"
+  ],
+  "sku": [
+    {
+      "package_description": "15 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

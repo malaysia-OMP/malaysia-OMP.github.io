@@ -1,0 +1,35 @@
+{
+  "registration_no": "MAL20172710TC",
+  "product_name": "HAWALIN CAPSULE",
+  "holder": "Naturemedics Laboratories Sdn Bhd",
+  "holder_address": "PT 3313, TERENGGANU HALAL HUB, KAWASAN PERINDUSTRIAN CHENDERING,, 21080, KUALA TERENGGANU, MALAYSIA,",
+  "manufacturer": "SARI TANI DESA SDN. BHD.",
+  "manufacturer_address": "NO. 21, JALAN APOLLO U5/188,, BANDAR PINGGIRAN SUBANG, , SEK. U5 , 40150, SHAH ALAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Momordica charantia",
+    "Cinnamomum verum",
+    "Curcuma xanthorrhiza",
+    "Orthosiphon stamineus",
+    "SYZYGIUM POLYANTHUM"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

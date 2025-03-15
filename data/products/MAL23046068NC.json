@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL23046068NC",
+  "product_name": "Medronys epato capsule",
+  "holder": "BIO-SCIENCE MARKETING SDN. BHD.",
+  "holder_address": "20 JALAN METRO PERDANA BARAT 13, SRI EDARAN LIGHT INDUSTRIAL PARK, OFF JALAN KEPONG, 52100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "PHARMA FOOD MANUFACTURING ITALIA S.r.l.",
+  "manufacturer_address": "VIA MONTE NUOVO LICOLA PATRIA 1/B - 80078 POZZUOLI (NA), ITALY,",
+  "importer": "BIO-SCIENCE MARKETING SDN. BHD.",
+  "importer_address": "20-1,  JALAN METRO PERDANA BARAT 13, , SRI EDARAN LIGHT INDUSTRIAL PARK, OFF JALAN KEPONG, 52100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Vitamin C (Ascorbic Acid)",
+    "DL-ALPHA TOCOPHERYL ACETATE",
+    "L-SELENOMETHIONINE",
+    "Milk Thistle Extract (Silybum Marianum)",
+    "COENZYME Q10 (UBIDECARENONE)"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

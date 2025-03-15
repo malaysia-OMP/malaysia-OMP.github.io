@@ -1,0 +1,51 @@
+{
+  "registration_no": "MAL17086019T",
+  "product_name": "BAN KAH CHAI GOLD BRAND PEARL PLUS CHIN CHING SAN",
+  "holder": "BAN KAH CHAI PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "LOT 427~430, LORONG IKS TASEK 5, JALAN INDUSTRI, PADANG LALLANG,, 14120, SIMPANG AMPAT, MALAYSIA,",
+  "manufacturer": "BAN KAH CHAI PHARMACEUTICAL SDN. BHD.",
+  "manufacturer_address": "LOT 427~430, LORONG IKS TASEK 5, JALAN INDUSTRI, PADANG LALLANG, 14120, SIMPANG AMPAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Fructus Amomum Villosum.",
+    "CONCHA HYRIOPSIS CUMINGII",
+    "Radix Scutellaria Baicalensis",
+    "Rhizoma Pinellia Ternata",
+    "Exocarpium Citrus Grandis",
+    "Radix Glycyrrhizae Uralensis.",
+    "Radix Saposhnikovia divaricata",
+    "Herba Pogostemon cablin",
+    "RADIX TRICHOSANTHES KIRILOWII.",
+    "Rhizoma Gastrodiae Elata",
+    "HERBA MENTHA HAPLOCALYX",
+    "Pheretima aspergillum",
+    "Folium Perilla frutescens",
+    "Concretio silicea bambusae",
+    "BOMBYX MORI",
+    "Rhizoma Notopterygium incisum",
+    "Radix Angelica pubescens",
+    "Herba schizonepeta tenuifolia",
+    "Pericarpium Citrus reticulate",
+    "Ramulus Uncaria rhyncophylla",
+    "bulbus fritillarria cirrhosae"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

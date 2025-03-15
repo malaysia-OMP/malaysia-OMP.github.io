@@ -1,0 +1,32 @@
+{
+  "registration_no": "MAL20132320XCE",
+  "product_name": "OLIVA FORTE EASEFLEX CAPSULE",
+  "holder": "Creagri International Sdn Bhd",
+  "holder_address": "L03-06, WISMA BU 8, 11 LEBUH BANDAR UTAMA, 47800, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "UNISON NUTRACEUTICALS SDN. BHD.",
+  "manufacturer_address": "NO. 13, JALAN TASIK UTAMA 52,  , KAWASAN PERINDUSTRIAN TASIK UTAMA,, 75450, AYER KEROH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Glucosamine HCl",
+    "Olea Europaea"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

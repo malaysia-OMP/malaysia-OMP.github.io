@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24016159T",
+  "product_name": "THP GARLIC 10MG SOFTGEL CAPSULE",
+  "holder": "Zas Pharma Sdn Bhd",
+  "holder_address": "LEVEL 16, MENARA ETIQA,,  NO. 3, JALAN BANGSAR UTAMA 1,,  5900, BANGSAR, MALAYSIA,",
+  "manufacturer": "Drug International Limited (Herbal Division)",
+  "manufacturer_address": "NO 2, BOKRAN, MONIPUR, MIRZAPUR, JAYDEPBUR, GAZIPUR, BANGLADESH,",
+  "importer": "Zas Pharma Sdn Bhd",
+  "importer_address": "LEVEL 16, MENARA ETIQA, NO. 3, JALAN BANGSAR UTAMA 1, BANGSAR BARU, 59000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Allium sativum"
+  ],
+  "sku": [
+    {
+      "package_description": "5x10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,86 @@
+{
+  "registration_no": "MAL18116015T",
+  "product_name": "HONGJITANG WUJI BAIFENG PILL (SMALL HONEYED PILL)",
+  "holder": "HAI-O MEDICINE SDN. BHD.",
+  "holder_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "Shandong Hongjitang Pharmaceutical Group Co., Ltd.",
+  "manufacturer_address": "NO.30766, EAST JINGSHI ROAD, LICHENG DISTRICT, JINAN CITY, SHANDONG PROVINCE,  ,  ,  , CHINA,",
+  "importer": "HAI-O MEDICINE SDN. BHD.",
+  "importer_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Gallus gallus domesticus Brisson",
+    "Cervi cornus colla",
+    "Trionyx sinensis",
+    "Ostrea talienwhanensis",
+    "Tenodera sinensis",
+    "Panax ginseng",
+    "Astragalus membranaceus",
+    "RADIX ANGELICA SINENSIS",
+    "Paeonia lactiflora",
+    "Rhizoma Cyperus Rotundus.",
+    "Asparagus cochinchinensis",
+    "Glycyrrhiza uralensis",
+    "Radix Rehmannia Glutinosa",
+    "Radix Rehmannia Praeparata",
+    "Ligusticum chuanxiong",
+    "Stellaria dichotoma",
+    "Salvia miltiorrhiza",
+    "Dioscorea opposita",
+    "Euryale ferox",
+    "Cornu cervi degelatinatum"
+  ],
+  "sku": [
+    {
+      "package_description": "10 x 9 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

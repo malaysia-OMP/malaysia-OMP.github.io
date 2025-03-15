@@ -1,0 +1,78 @@
+{
+  "registration_no": "MAL23126073T",
+  "product_name": "Longma Shu Xin Ning Pian Tablet",
+  "holder": "LONGMA IMPORT & EXPORT SDN. BHD.",
+  "holder_address": "178, JALAN PARAMESWARA, 75000, MELAKA TENGAH, MALAYSIA,",
+  "manufacturer": "Gansu Longshenrongfa Pharmaceutical Industry Co., Ltd.",
+  "manufacturer_address": "NO.10 GUOFANG ROAD, DINGYUAN TOWN, YUZHONG COUNTY, LANZHOU CITY, GANSU PROVINCE, CHINA,",
+  "importer": "SHEN LOON SHE ENTERPRISE SDN BHD",
+  "importer_address": "2-3-30, HARBOUR TRADE CENTRE,, LEBUH MACCALLUM, 10030, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "Salvia miltiorrhiza",
+    "Ligusticum chuanxiong",
+    "Paeonia lactiflora (Rubra)",
+    "Carthamus tinctorius",
+    "Angelica sinensis",
+    "Pseudostellaria heterophylla",
+    "Allium macrostemon",
+    "Trichosanthes kirilowii",
+    "Polygala tenuifolia",
+    "Dalbergia odorifera",
+    "Acorus tatarinowii",
+    "Glycyrrhiza uralensis"
+  ],
+  "sku": [
+    {
+      "package_description": "48 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 48,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

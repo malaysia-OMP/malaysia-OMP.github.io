@@ -1,0 +1,77 @@
+{
+  "registration_no": "MAL19970413T",
+  "product_name": "CHAN HOU WU CHIN WAN CAP FLOWERS BASKET",
+  "holder": "YI YUAN  MEDICAL SUPPLY",
+  "holder_address": "NO. 6, LEBUH PEGOH TIMUR 3\n, KAW. PERINDUSTRIAN RINGAN \n, TAMAN LAPANGAN RIA, 31650, IPOH , MALAYSIA,",
+  "manufacturer": "DYNAPHARM HERBAL (M) SDN. BHD.",
+  "manufacturer_address": "LOT 4823, MK. 1, LORONG PERUSAHAAN BARU 5,\n, KAWASAN PERUSAHAAN PERAI 3, 13600, PERAI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Rheum officinale",
+    "CYPERUS ROTUNDUS",
+    "RHIZOMA CORYDALIS AMBIGUA",
+    "Resina Pistacia lentiscus",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "HERBA LEONURUS SIBIRICUS",
+    "CORTEX CINNAMOMUM.",
+    "Radix Lindera strychnifolia",
+    "SEMEN PRUNUS PERSICA",
+    "Resina Commiphora myrrha",
+    "Radix Inula Helenium"
+  ],
+  "sku": [
+    {
+      "package_description": "60gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,86 @@
+{
+  "registration_no": "MAL18046071T",
+  "product_name": "Ho Yan Hor Everyday Calming Tea",
+  "holder": "HOVID BERHAD",
+  "holder_address": "121, JALAN TUNKU ABDUL RAHMAN \n, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "manufacturer": "HOVID BERHAD",
+  "manufacturer_address": "121, JALAN TUNKU ABDUL RAHMAN, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Morus alba",
+    "Glycyrrhiza uralensis",
+    "Cleistocalyx operculatus",
+    "Rheum officinale",
+    "Prunella vulgaris",
+    "Ilex rotunda",
+    "Vitex trifolia",
+    "Rehmannia Glutinosa",
+    "Scrophularia ningpoensis",
+    "Gardenia jasminoides",
+    "Phragmites communis",
+    "Ligusticum wallichii",
+    "Schizonepeta tenuifolia",
+    "Agastache rugosa",
+    "Forsythia suspensa",
+    "Cimicifuga heracleifolia",
+    "Platycodon grandiflorum",
+    "Ledebouriella divaricata",
+    "Bupleurum chinense",
+    "Gentiana scabra"
+  ],
+  "sku": [
+    {
+      "package_description": "25 Teabags",
+      "sku_unit": "Units",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

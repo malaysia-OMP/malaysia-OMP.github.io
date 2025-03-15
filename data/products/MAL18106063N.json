@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL18106063N",
+  "product_name": "Organika Health Coenzyme Q10 120mg capsule",
+  "holder": "Sunwish Merchant Sdn Bhd",
+  "holder_address": "52A, PERSIARAN BERCHAM SELATAN 2,, TAMAN DESA KENCANA,, 31400, IPOH , MALAYSIA,",
+  "manufacturer": "ORGANIKA HEALTH PRODUCTS INC.",
+  "manufacturer_address": "2580 VISCOUNT WAY, RICHMOND, B.C. V6V 1N1,  ,,  , -, CANADA,",
+  "importer": "Sunwish Merchant Sdn Bhd",
+  "importer_address": "52A, PERSIARAN BERCHAM SELATAN 2,, TAMAN DESA KENCANA,, 31400, IPOH , MALAYSIA,",
+  "active_ingredients": [
+    "COENZYME Q10 (UBIQUINONE)"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

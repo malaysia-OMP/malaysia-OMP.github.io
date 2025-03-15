@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL21096095TC",
+  "product_name": "4LIFE TEA4LIFE HERBAL TEA",
+  "holder": "Forlife Research Imports Sdn. Bhd.",
+  "holder_address": "LEVEL 3, TOWER 2, AVENUE 3,, THE HORIZON, BANGSAR SOUTH,, NO. 8, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "BIOMEDICAL RESEARCH LAB, LLC",
+  "manufacturer_address": "9850 S 300 W, SANDY UT 84070, UNITED STATES,",
+  "importer": "Forlife Research Imports Sdn. Bhd.",
+  "importer_address": "LEVEL 3, TOWER 2,  AVENUE 3, THE HORIZON, BANGSAR SOUTH, NO. 8, JALAN KERINCHI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Cinnamomum cassia",
+    "Cassia angustifolia",
+    "Zingiber officinale",
+    "Rhamnus frangula",
+    "Citrus sinensis",
+    "Echinacea purpurea",
+    "Aspalathus linearis",
+    "Astragalus membranaceus",
+    "Citrus aurantium"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,145 @@
+{
+  "registration_no": "MAL24046069TC",
+  "product_name": "CuraLin vegetable capsule",
+  "holder": "LYC NUTRIHEALTH SDN. BHD.",
+  "holder_address": "LEVEL 2, PODIUM BLOCK PLAZA VADS, 1, JALAN TUN MOHD FUAD,TAMAN TUN DR ISMAIL, 60000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Nutrastar, Inc",
+  "manufacturer_address": "700 CENTRAL AVE., FARMINGDALE, NEW JERSEY, 07727, UNITED STATES,",
+  "importer": "AQURATE INGREDIENTS INTL (M) SDN. BHD.",
+  "importer_address": "LOT 31 &amp; 33, JALAN AWANA 15,, TAMAN CHERAS AWANA, BATU 9,, 43200, CHERAS, MALAYSIA,",
+  "active_ingredients": [
+    "Momordica charantia",
+    "Syzygium cumini",
+    "Swertia chirata",
+    "Trigonella foenum-graecum",
+    "Gymnema sylvestre",
+    "Emblica officinalis",
+    "Picrorhiza kurroa",
+    "Curcuma longa",
+    "Cinnamomum zeylanicum"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "180 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "42 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 42,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

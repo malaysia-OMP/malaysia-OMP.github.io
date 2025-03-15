@@ -1,0 +1,104 @@
+{
+  "registration_no": "MAL05092343T",
+  "product_name": "AO Plus, Powder, 175g",
+  "holder": "Perfect Pentagon Sdn Bhd",
+  "holder_address": "5TH FLOOR, MENARA AMFIRST,, NO 1 JALAN 19/3, , 46300, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PERFECT (CHINA) CO., LTD.",
+  "manufacturer_address": "DONGMING NORTH ROAD, SHIQI DISTRICT,, 528402, CHINA,",
+  "importer": "Perfect Pentagon Sdn Bhd",
+  "importer_address": "5TH FLOOR, MENARA AMFIRST, NO. 1, JALAN 19/3, 46300, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Sea buckthorn, Hippophae rhamnoides, ext. Extractives a",
+    "Cichorium Intybus (Chicory) Root Extract",
+    "Camellia sinesis ( Black Tea)"
+  ],
+  "sku": [
+    {
+      "package_description": "175gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 175,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5gm30Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

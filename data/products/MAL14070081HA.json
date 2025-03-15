@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL14070081HA",
+  "product_name": "INVEMOX 15%W/V LA  Amoxicillin Long-Acting Injectable Suspension",
+  "holder": "Taseen Trading Sdn Bhd",
+  "holder_address": "NO.8, JALAN ASTANA 1F/KU2,, BANDAR BUKIT RAJA, 41050, KLANG, MALAYSIA,",
+  "manufacturer": "Industrial Veterinaria, S.A. (INVESA)",
+  "manufacturer_address": "C/ ESMERALDA, 19, PISO 4 ESPLUGUES DE LLOBREGAT, -, SPAIN,",
+  "importer": "Taseen Trading Sdn Bhd",
+  "importer_address": "NO. 8,, JALAN ASTANA 1F/KU 2,, BANDAR BUKIT RAJA,, 41050, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "AMOXICILLIN TRIHYDRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "100.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

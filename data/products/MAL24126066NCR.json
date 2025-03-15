@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL24126066NCR",
+  "product_name": "AI LUTEIN PLUS SOFTGEL",
+  "holder": "MIRAI WELLNESS SDN. BHD.",
+  "holder_address": "NO 9 , JALAN SS3/37,, 47300, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "SUNSHO PHARMACEUTICAL CO., LTD.",
+  "manufacturer_address": "12 NANRYO, FUJINOMIYA-SHI, SHIZUOKA,, JAPAN,",
+  "importer": "Special Enhancement Sdn Bhd",
+  "importer_address": "D-20-03 MENARA MITRALAND, NO. 13A, JALAN PJU 5/1, KOTA DAMANSARA, PJU 5, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "DOCOSAHEXAENOIC ACID (DHA) OIL",
+    "HAEMATOCOCCUS PLUVIALIS EXTRACT",
+    "VACCINIUM MYRTILLUS FRUIT EXTRACT (BILBERRY)",
+    "BLACKCURRANT FRUIT EXTRACT (RIBES NIGRUM)",
+    "VITAMIN E (D-ALPHA TOCOPHEROL)",
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "BETACAROTENE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "RIBOFLAVIN",
+    "THIAMINE MONONITRATE",
+    "CYANOCOBALAMIN",
+    "LYCOPERSICON ESCULENTUM (TOMATO)",
+    "OLIVE OIL (OLEA EUROPAEA)"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

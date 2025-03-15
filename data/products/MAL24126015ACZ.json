@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24126015ACZ",
+  "product_name": "Yesafili 40mg/mL solution for injection in a vial",
+  "holder": "BIOCON SDN BHD",
+  "holder_address": "NO. 1, JALAN BIOTEKNOLOGI 1, KAWASAN PERINDUSTRIAN SILC, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "manufacturer": "Biocon Biologics Limited",
+  "manufacturer_address": "BLOCK NO. B1, B2, B3, Q13, OF Q1 AND W20 &amp; UNIT S18, 1ST FLOOR,  BLOCK B4,SPECIAL ECONOMIC ZONE, PLOT NO 2,3,4 &amp; 5, PHASE IV,  , BOMMASANDRA -JIGANI LINK ROAD, , BOMMASANDRA POST  BENGALURU 560099,, INDIA,",
+  "importer": "BIOCON SDN BHD",
+  "importer_address": "NO.1, JALAN BIOTEKNOLOGI 1, KAWASAN PERINDUSTRIAN SILC,, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "active_ingredients": [
+    "AFLIBERCEPT"
+  ],
+  "sku": [
+    {
+      "package_description": "1 Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

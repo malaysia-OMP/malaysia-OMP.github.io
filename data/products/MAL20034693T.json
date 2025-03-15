@@ -1,0 +1,187 @@
+{
+  "registration_no": "MAL20034693T",
+  "product_name": "timo Cordyceps Plus Tonic Liquid",
+  "holder": "BIOFACT LIFE SDN. BHD.",
+  "holder_address": "LOT 5094, PERINDUSTRIAN PARIT JAMIL, 84150, MUAR, MALAYSIA,",
+  "manufacturer": "BIOFACT LIFE SDN. BHD.",
+  "manufacturer_address": "LOT 5094, KAWASAN PERINDUSTRIAN PARIT JAMIL, 84150, MUAR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Panax ginseng",
+    "CORTEX EUCOMMIAE",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX POLYGONI MULTIFLORI",
+    "RADIX ASTRAGALI SEU HEDYSARI",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PORIA COCOS WOLF",
+    "MORINDAE OFFICINALIS RADIX",
+    "MORINDA OFFICINALIS HOW",
+    "GLYCYRRHIZAE RADIX",
+    "GANODERMA LUCIDUM/MYCELIUM REISHI",
+    "FRUCTUS LYCII/LYCIUM CHINESE,MILL",
+    "CORDYCEPS",
+    "AUCKLANIAE SEU VLADMIRIAE RADIX",
+    "ATRACTYLODES MACROCEPHALA RHIZOMA"
+  ],
+  "sku": [
+    {
+      "package_description": "750 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 750,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "420 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 420,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "500 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "700 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 700,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,35 @@
+{
+  "registration_no": "MAL20034148T",
+  "product_name": "SURIMAS OIL",
+  "holder": "ELPAR HERBS SDN. BHD.",
+  "holder_address": "NO. C35, JALAN 2A-4 \n, KAWASAN PERUSAHAAN SUNGAI LALANG, 08000, SUNGAI PETANI, MALAYSIA,",
+  "manufacturer": "ELPAR HERBS SDN. BHD.",
+  "manufacturer_address": "NO. C35, JALAN 2A-4 , KAWASAN PERUSAHAAN SUNGAI LALANG, 08000, SUNGAI PETANI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Mentha sylvestris",
+    "Myrtus caryophyllus",
+    "RICINUS CUMMUNIS LINN (SEED)",
+    "RICINUS COMMUNIS OIL",
+    "QUERCUS IMFECTORIA FRUCTUS/MANJAKANI"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

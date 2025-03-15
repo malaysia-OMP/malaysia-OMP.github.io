@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL20106038NC",
+  "product_name": "INCA  ESSENTIALS SACHA INCHI OIL PLUS LIQUID",
+  "holder": "INCA ESSENTIAL RESOURCES",
+  "holder_address": "NO 39-1, , JALAN DAMAI NIAGA,, ALAM DAMAI, CHERAS,, 56000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "ORI BIONATURE (M) SDN BHD",
+  "manufacturer_address": "NO. 5, JALAN MJ 16, TAMAN INDUSTRI MERANTI JAYA, 47120, PUCHONG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Plukenetia Volubilis (Sacha Inchi) Seed Oil",
+    "DL-ALPHA TOCOPHERYL ACETATE",
+    "COENZYME Q10 (UBIQUINONE)"
+  ],
+  "sku": [
+    {
+      "package_description": "225 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 225,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

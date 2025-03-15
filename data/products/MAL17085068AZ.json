@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL17085068AZ",
+  "product_name": "Foster Nexthaler 100 micrograms/6 micrograms per dose inhalation powder",
+  "holder": "Orient Europharma (M) Sdn Bhd",
+  "holder_address": "E-08, GARDEN SHOPPE,, ONE CITY,, JALAN USJ 25/1C,, 47650, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "CHIESI FARMACEUTICI SPA",
+  "manufacturer_address": "VIA SAN LEONARDO 96,, 43122 PARMA , ITALY,",
+  "importer": "Orient Europharma (M) Sdn Bhd",
+  "importer_address": "E-08, GARDEN SHOPPE, ONE CITY, JALAN USJ 25/1C,, 47650, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "BECLOMETHASONE DIPROPIONATE",
+    "FORMOTEROL FUMARATE"
+  ],
+  "sku": [
+    {
+      "package_description": "1units Units",
+      "sku_unit": "units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1 Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

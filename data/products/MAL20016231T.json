@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL20016231T",
+  "product_name": "'S.T.T.' GUEI JHIH FU LING WAN EXTRACT GRANULE",
+  "holder": "Yo Ho Lifestyle Sdn Bhd",
+  "holder_address": "3-1, 1ST FLOOR,, JALAN EHSAN PERDANA 3,, TAMAN EHSAN JAYA, , 42000, PORT KLANG, MALAYSIA,",
+  "manufacturer": "SAN TSAI TANG PHARMACEUTICAL CO., LTD.",
+  "manufacturer_address": "NO 9, ALLEY 61, LANE 209, SEC.2, XINNONG ST., YANGMEI, TAOYUAN326,, TAIWAN,",
+  "importer": "Yo Ho Lifestyle Sdn Bhd",
+  "importer_address": "3-1, 1ST FLOOR, JALAN EHSAN PERDANA 3, TAMAN EHSAN JAYA, 42000, PORT KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Cinnamomum cassia",
+    "Poria cocos",
+    "Paeonia suffruticosa",
+    "Prunus persica",
+    "Paeoniae rubra"
+  ],
+  "sku": [
+    {
+      "package_description": "200 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

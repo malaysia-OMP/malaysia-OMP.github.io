@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL14055023X",
+  "product_name": "CELEPID 20% Intravenous Fat Emulsion",
+  "holder": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "holder_address": "NO.28G,28-1 &amp;28-2 ,, PUSAT DAGANGAN PJCC, , JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Otsuka Pharmaceutical India Private Limited",
+  "manufacturer_address": "SURVEY NO. 199 TO 201 &amp; 208 TO 210 VILLAGE- VASANA CHACHARWADI, TAL SANAND DIST: AHMEDABAD 382 213,, INDIA,",
+  "importer": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "importer_address": "NO.28G, 28-1 &amp; 28-2, PUSAT DAGANGAN PJCC, JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SOYBEAN OIL"
+  ],
+  "sku": [
+    {
+      "package_description": "500ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "250ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

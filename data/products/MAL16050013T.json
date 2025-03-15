@@ -1,0 +1,109 @@
+{
+  "registration_no": "MAL16050013T",
+  "product_name": "TAKABB COUGH PILL (ORIGINAL FLAVOUR)",
+  "holder": "TWINS HEALTHCARE PRODUCT",
+  "holder_address": "264, VICTORIA STREET,, 10300, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "HATAKABB (SIM TIEN HOR) CO LTD",
+  "manufacturer_address": "1 SOI 44, RAMA 2 ROAD, TAKHAM, BANGKUNTIEN, BANGKOK 10150, -, THAILAND,",
+  "importer": "TWINS HEALTHCARE PRODUCT",
+  "importer_address": "264, VICTORIA STREET,, 10300, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "Cinnamomum cassia",
+    "Drynaria fortunei",
+    "Galla chinensis",
+    "Glycyrrhiza glabra",
+    "Nelumbo nucifera",
+    "Ophiopogon japonicus",
+    "Polygonatum odoratum",
+    "Prunus armeniaca"
+  ],
+  "sku": [
+    {
+      "package_description": "30 pills X 12 sachets Sachets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "80 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 80,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

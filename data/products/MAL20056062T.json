@@ -1,0 +1,80 @@
+{
+  "registration_no": "MAL20056062T",
+  "product_name": "ALLERSOL SYRUP",
+  "holder": "PHARMEX SDN BHD",
+  "holder_address": "LOT 11-15, WK COMMERCIAL CENTRE,, JALAN BUNDUSAN, , KM 8, PENAMPANG, 88300, KOTA KINABALU, MALAYSIA,",
+  "manufacturer": "Matxin Labs Pvt. Ltd.",
+  "manufacturer_address": "PLOT.NO.M-11,, 1 PHASE, 7TH CROSS,, PEENYA INDUSTRIAL AREA PEENYA BANGALORE 560058,, INDIA,",
+  "importer": "PHARMEX SDN BHD",
+  "importer_address": "LOT 11 -15, WK COMMERCIAL CENTRE,, KM 8, JALAN BUNDUSAN, PENAMPANG, 88300, KOTA KINABALU, MALAYSIA,",
+  "active_ingredients": [
+    "Emblica officinalis",
+    "Curcuma longa",
+    "Ocimum sanctum",
+    "Adhatoda vasica",
+    "Piper nigrum",
+    "Piper longum",
+    "Zingiber officinale",
+    "Terminalia chebula",
+    "Terminalia belerica",
+    "Cyperus rotundus",
+    "Embelia ribes",
+    "Cinnamomum tamala",
+    "Mesua ferrea",
+    "Cinnamomum cassia"
+  ],
+  "sku": [
+    {
+      "package_description": "100 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

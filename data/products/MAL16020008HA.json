@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL16020008HA",
+  "product_name": "E-FORTE 10% INJECTABLE",
+  "holder": "Vemedim Sdn Bhd",
+  "holder_address": "15, JALAN USJ 1/31, 47600, SUBANG, MALAYSIA,",
+  "manufacturer": "Vemedim Vietnam",
+  "manufacturer_address": "NO. 7, APRIL 30TH STREET, -, VIETNAM,",
+  "importer": "Vemedim Sdn Bhd",
+  "importer_address": "15, JALAN USJ 1/31,, 47600, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "ENROFLOXACIN"
+  ],
+  "sku": [
+    {
+      "package_description": "100.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

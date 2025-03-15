@@ -1,0 +1,113 @@
+{
+  "registration_no": "MAL24046161NC",
+  "product_name": "VIGORACE LIFE SCIENCE ENER-B PLUS CAPSULE",
+  "holder": "VIGORACE SDN BHD",
+  "holder_address": "E-10-01, MENARA MELAWANGI\n, PUSAT PERDAGANGAN AMCORP\n, NO.18, JALAN PERSIARAN BARAT, 46050, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Nature's Choice, Inc.",
+  "manufacturer_address": "186 E. GISH ROAD, SAN JOSE, CA95112, UNITED STATES,",
+  "importer": "VIGORACE SDN BHD",
+  "importer_address": "E-10-01, MENARA MELAWANGI\n, PUSAT PERDAGANGAN AMCORP\n, NO.18, JALAN PERSIARAN BARAT, 46050, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Vitamin B2 (Riboflavin)",
+    "THIAMINE HYDROCHLORIDE",
+    "NIACINAMIDE",
+    "NIACIN",
+    "D-CALCIUM PANTOTHENATE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "Vitamin B12 (Cyanocobalamin)",
+    "FOLIC ACID",
+    "CHOLINE BITARTRATE",
+    "PARA AMINO BENZOIC ACID (PABA)",
+    "BIOTIN",
+    "INOSITOL"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

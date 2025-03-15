@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL06111356T",
+  "product_name": "MANIBHADRALEHAM",
+  "holder": "SRI KOTTAKKAL ARYA VAIDYA SALA SDN. BHD.",
+  "holder_address": "LOT NO. 2,, JALAN PERINDUSTRIAN DESA AMAN 1A,, TAMAN PERINDUSTRIAN DESA AMAN,, 52200, KEPONG, MALAYSIA,",
+  "manufacturer": "KOTTAKKAL    ARYA      VAIDYASALA",
+  "manufacturer_address": "NO.VI/1048 TO VI /1052, VI/1054 TO  VI1059, 1060, 1062, 1063,1064, 1066, 1067, 1069  TO 1073, VI/1076, 1079  &amp;1080, 676503, INDIA,",
+  "importer": "SRI KOTTAKKAL ARYA VAIDYA SALA SDN. BHD.",
+  "importer_address": "34 (TINGKAT BAWAH), LEBUH PENANG, 10200, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "HONEY",
+    "SEMEN INDIGOFERA  TRIFOLIATA",
+    "RHIZOMA  CURCUMA  ZEDOARIA",
+    "RADIX  TYLOPHORA  ASTHMATICA",
+    "RADIX  TRAGIA  INVOLUCRATA",
+    "FRUCTUS  TERMINALIA  CHEBULA",
+    "FOLIUM  UNONA  NARUM"
+  ],
+  "sku": [
+    {
+      "package_description": "500gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

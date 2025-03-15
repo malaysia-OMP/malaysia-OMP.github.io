@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL06041541T",
+  "product_name": "Lady Essentials LD Venus Gold",
+  "holder": "ELKEN SDN. BHD.",
+  "holder_address": "NO. 11, TINGKAT 2,, JALAN TP5,, TAMAN PERINDUSTRIAN UEP,, 47620, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "TONGHUA DONGBAO THE 5TH PHARMACEUTICAL CO., LTD",
+  "manufacturer_address": "DONGBAO NEW VILLAGE, TONGHUA COUNTY, 00000, CHINA,",
+  "importer": "HBL (M) SDN BHD",
+  "importer_address": "SUITE 102, LEVEL 1, WISMA CHINESE CHAMBER, 258, JALAN AMPANG, 50450, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Leonurus japonicus",
+    "Radix Salviae Miltiorrhiza",
+    "Radix Codonopsis Pilosulae",
+    "RADIX ASTRAGALI SEU HEDYSARI",
+    "Herba Patrinia scabiosaefolia",
+    "Angelicae Sinensis"
+  ],
+  "sku": [
+    {
+      "package_description": "10ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

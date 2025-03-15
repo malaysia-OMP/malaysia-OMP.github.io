@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL14115031ACZ",
+  "product_name": "NESP INJECTION PLASTIC SYRINGE 30 mcg/0.5ml",
+  "holder": "Kyowa Kirin Malaysia Sdn. Bhd.",
+  "holder_address": "SUITE A501, 5TH FLOOR, WEST WING, , WISMA CONSPLANT 2,, NO 7 JALAN SS 16/1,, 47500, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "Kyowa Kirin Co., Ltd., Takasaki Plant",
+  "manufacturer_address": "100-1 HAGIWARA-MACHI, TAKASAKI-SHI GUNMA, 370-0013, , JAPAN,",
+  "importer": "APEX PHARMACY MARKETING SDN. BHD.",
+  "importer_address": "NO. 2,, JALAN SS 13/5, 47500, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "DARBEPOETIN ALFA",
+    "DARBEPOETIN ALFA"
+  ],
+  "sku": [
+    {
+      "package_description": "0.5ml mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

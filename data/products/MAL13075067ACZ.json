@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL13075067ACZ",
+  "product_name": "Vectibix 100mg Concentrate for Solution for Infusion",
+  "holder": "Amgen Biopharmaceuticals Malaysia Sdn Bhd",
+  "holder_address": "COMMON GROUND, 1 POWERHOUSE, HORIZON PENTHOUSE, NO. 1, PERSIARAN BANDAR UTAMA, BANDAR UTAMA,, 47800, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Amgen Manufacturing Limited LLC",
+  "manufacturer_address": "STATE ROAD 31, KM 24.6 JUNCOS, PUERTO RICO 00777-4060,, UNITED STATES,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "PANITUMUMAB"
+  ],
+  "sku": [
+    {
+      "package_description": "5ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

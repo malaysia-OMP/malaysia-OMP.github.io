@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL24086016AZ",
+  "product_name": "DUTABIT PLUS 0.5/0.4 (Dutasteride 0.5mg and Tamsulosin Hydrochloride 0.4mg Hard Capsules)",
+  "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+  "holder_address": "NO. 74-3,, JALAN WANGSA DELIMA 6, KLSC WANGSA MAJU, 53300, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Aurobindo Pharma Limited",
+  "manufacturer_address": "UNIT VII, SPECIAL ECONOMIC ZONE TSIIC, PLOT NO S1, SY NOS 411/P 425/P 434/P 435/P AND 458/P GREEN INDUSTRIAL PARK, JADCHERLA MANDAL, MAHABUBNAGAR DISTRICT, POLEPALLY VILLAGE, 509302, INDIA,",
+  "importer": "HEALOL PHARMACEUTICALS SDN. BHD.",
+  "importer_address": "NO. 74-3,, JALAN WANGSA DELIMA 6, KLSC WANGSA MAJU, 53300, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "DUTASTERIDE",
+    "TAMSULOSIN HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "3 x 10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

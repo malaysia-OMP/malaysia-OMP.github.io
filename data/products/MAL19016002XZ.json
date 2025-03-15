@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL19016002XZ",
+  "product_name": "HAPACOL Junior Effervescent Powder 250mg",
+  "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+  "holder_address": "LOT 10, JALAN SULTAN MOHAMED 6,, BANDAR SULTAN SULEIMAN, , 42000, PORT KLANG, MALAYSIA,",
+  "manufacturer": "DHG PHARMACEUTICAL JOINT-STOCK COMPANY - DHG PHARMACEUTICAL PLANT BRANCH IN HAU GIANG",
+  "manufacturer_address": "LOT B2-B3 TAN PHU THANH INDUSTRIAL ZONE – PHASE 1,, TAN PHU THANH COMMUNE, CHAU THANH A DISTRICT, HAU GIANG PROVINCE,, VIETNAM,",
+  "importer": "HOE PHARMACEUTICALS SDN. BHD.",
+  "importer_address": "LOT 10, JALAN SULTAN MOHAMED 6,, BANDAR SULTAN SULEIMAN, 42000, PORT KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Paracetamol"
+  ],
+  "sku": [
+    {
+      "package_description": "1.5 gm",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1.5g x 24 Sachets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

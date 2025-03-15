@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL16045011TC",
+  "product_name": "Natural Life PROPOLIS 200MG/ML LIQUID",
+  "holder": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "holder_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Ferngrove Pharmaceuticals Pty Ltd",
+  "manufacturer_address": "5 FERNGROVE PLACE GRANVILLE, NSW 2142 , AUSTRALIA,",
+  "importer": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "importer_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "PROPOLIS"
+  ],
+  "sku": [
+    {
+      "package_description": "25ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

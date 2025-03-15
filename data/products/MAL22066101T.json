@@ -1,0 +1,146 @@
+{
+  "registration_no": "MAL22066101T",
+  "product_name": "San-Tronic Muscle Sprain Ointment",
+  "holder": "San-tronic Medical Devices Sdn Bhd",
+  "holder_address": "NO. 37, JALAN PJS 1/48, PETALING UTAMA, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Taiwan Shuenn-An Biotechnology  Pharmaceutical Co. Ltd",
+  "manufacturer_address": "NO.876, FENGLIN 2ND RD,, DALIAO DISTRICT,, KAOHSIUNG CITY 831,, TAIWAN,",
+  "importer": "San-tronic Medical Devices Sdn Bhd",
+  "importer_address": "NO. 37, JALAN PJS 1/48, PETALING UTAMA, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Scrophularia ningpoensis",
+    "Gleditsia sinensis",
+    "Allium fistulosum",
+    "Angelica dahurica",
+    "Prunus armeniaca",
+    "Angelica sinensis",
+    "Liquidambar formosana",
+    "Boswellia carterii",
+    "Commiphora myrrha",
+    "Pinus massoniana"
+  ],
+  "sku": [
+    {
+      "package_description": "600 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 600,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1800 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 1800,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1200 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 1200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

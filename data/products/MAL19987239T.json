@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL19987239T",
+  "product_name": "CAP AYAM HITAM SENG CHAU POH LENG TAN (SPHERICAL PILL) 2GM",
+  "holder": "DYNAPHARM HERBAL (M) SDN. BHD.",
+  "holder_address": "LOT 4823, MK. 1, LORONG PERUSAHAAN BARU 5,\n, KAWASAN PERUSAHAAN PERAI 3, 13600, PERAI, MALAYSIA,",
+  "manufacturer": "DYNAPHARM HERBAL (M) SDN. BHD.",
+  "manufacturer_address": "LOT 4823, MK. 1, LORONG PERUSAHAAN BARU 5,\n, KAWASAN PERUSAHAAN PERAI 3, 13600, PERAI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Citrus reticulata",
+    "Curcuma aromatica",
+    "Pistacia lentiscus",
+    "SEMEN RAPHANI",
+    "RHIZOMA CYPERI",
+    "RHIZOMA CORYDALIS",
+    "RHIZOMA ATRACTYLODIS ALBA",
+    "RADIX SAUSSUREAE",
+    "Paeonia alba",
+    "RADIX GLYCYRRHIZAE",
+    "PERICARPIUM AREACAE",
+    "LIGNUM AQUILARIAE",
+    "FRUCTUS SEU SEMEN AMOMI"
+  ],
+  "sku": [
+    {
+      "package_description": "2gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

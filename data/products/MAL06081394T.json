@@ -1,0 +1,83 @@
+{
+  "registration_no": "MAL06081394T",
+  "product_name": "K-Ayurveda Ayuvita Forte",
+  "holder": "K-LINK INTERNATIONAL SDN. BHD.",
+  "holder_address": "WISMA K-LINK,, NO. 45, JALAN KUCHAI MAJU 2,, OFF JALAN KUCHAI LAMA,, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "WELEX LABORATORIES PVT LTD",
+  "manufacturer_address": "PLOT NO. J-134, M.I.D.C., OFF NAVAPUR ROAD, TARAPUR, BOISAR, DIST: THANE, 401506, INDIA,",
+  "importer": "K-LINK INTERNATIONAL SDN. BHD.",
+  "importer_address": "WISMA K-LINK,, NO. 45, JALAN KUCHAI MAJU 2,, OFF JALAN KUCHAI LAMA,, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Semen Sida cordifolia extract",
+    "Semen Mucuna prurita extract",
+    "Rhizoma Tinospora cordifolia",
+    "Rhizoma Asparagus adscendens",
+    "Radix Withania somnifera extract",
+    "Radix Pueraria tuberosa extract",
+    "Radix Leptadenia raticulata extract",
+    "Radix Asparagus racemosus extract",
+    "Mineral Mandur Bhasma",
+    "Mineral Godanti Bhasma",
+    "Herba Convolvulus pluricaulis extract",
+    "Fructus Emblica officinale",
+    "Flos Mesua ferrea",
+    "Cortex Symplocos paniculata extract",
+    "Cortex Saraca indica extract",
+    "Radix Glycyrrhiza Glabra",
+    "Resina Commiphora myrrha"
+  ],
+  "sku": [
+    {
+      "package_description": "60Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

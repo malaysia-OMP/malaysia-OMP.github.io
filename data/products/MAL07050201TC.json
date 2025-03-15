@@ -1,0 +1,113 @@
+{
+  "registration_no": "MAL07050201TC",
+  "product_name": "Zhuanggu Guanjie Yin",
+  "holder": "E-PHARMA (M) SDN. BHD.",
+  "holder_address": "16 &amp;18, JALAN SB JAYA 11\n, TAMAN INDUSTRI SB JAYA, 47000, SUNGAI BULOH, MALAYSIA,",
+  "manufacturer": "YANLING NATURAL HYGIENE SDN. BHD.",
+  "manufacturer_address": "LOT 6, 8, 10, 12, 12A, 16, 18, 20 &amp; 22, JALAN SB JAYA 11,, TAMAN INDUSTRI SB JAYA,, 47000, SUNGAI BULOH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Rhizoma Drynariae fortunei",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX DIPSACUS ASPEROIDES",
+    "RADIX AUCKLANDIAE LAPPA",
+    "RADIX ANGELICAE PUBESCENTIS",
+    "Olibanum Boswellia Carterii",
+    "Herba Taxillus chinensis",
+    "HERBA EPIMEDIUM BREVICORNUM",
+    "fructus psoralea corylifolia",
+    "CAULIS SPATHOLOBI SUBERECTUS",
+    "Rhizoma Cibotium barometz",
+    "Resina Commiphora myrrha"
+  ],
+  "sku": [
+    {
+      "package_description": "5gm20Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100gm1Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

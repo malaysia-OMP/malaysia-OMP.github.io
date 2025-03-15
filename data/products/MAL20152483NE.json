@@ -1,0 +1,32 @@
+{
+  "registration_no": "MAL20152483NE",
+  "product_name": "COLLAGEN C POWDER",
+  "holder": "GREEN HEALTH MANUFACTURE",
+  "holder_address": "LOT NO.3983/1,, JLN HARUAN 1 OAKLAND , INDUSTRIAL PARK, 70300, SEREMBAN, MALAYSIA,",
+  "manufacturer": "GREEN HEALTH MANUFACTURE",
+  "manufacturer_address": "LOT NO.3983/1,JLN HARUAN 1 , OAKLAND INDUSTRIAL PARK, 70300, SEREMBAN, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Collagen",
+    "Vitamin C"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL17127026T",
+  "product_name": "ERA ROOIBOS 2.5G SOD TEA",
+  "holder": "ERA HERBAL PRODUCTS SDN. BHD.",
+  "holder_address": "2ND FLOOR, LOT 2218 \n, KAMPONG JAYA INDUSTRIAL AREA\n, JALAN KUSTA, 47000, SUNGAI BULOH, MALAYSIA,",
+  "manufacturer": "ERA HERBAL PRODUCTS SDN. BHD.",
+  "manufacturer_address": "NO. 8, JALAN S.B. JAYA 5, TAMAN INDUSTRI S.B. JAYA, 47000, SUNGAI BULOH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Aspalathus linearis"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

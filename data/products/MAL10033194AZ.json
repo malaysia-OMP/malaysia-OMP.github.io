@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL10033194AZ",
+  "product_name": "LATANDROPS 0.005%W/V EYE DROPS",
+  "holder": "MMS PHARMA (MALAYSIA) SDN. BHD.",
+  "holder_address": "B-5-9, IMPIAN HEIGHTS, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "VIANEX S.A. - Plant A",
+  "manufacturer_address": "12TH KM. ATHENS LAMIA NATIONAL ROAD,, 14451, GREECE,",
+  "importer": "DCH AURIGA (MALAYSIA) SDN. BHD.",
+  "importer_address": "LOT 6, PERSIARAN PERUSAHAAN,, SEKSYEN 23,, 40300, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "LATANOPROST"
+  ],
+  "sku": [
+    {
+      "package_description": "2.5ml mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

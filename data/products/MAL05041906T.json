@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL05041906T",
+  "product_name": "Pearl Brand Pak Fong Pill 8gm",
+  "holder": "NCHK MEDICINE ENTERPRISE SDN BHD",
+  "holder_address": "NO. 21G, , JALAN SL 11/7,, BANDAR SG. LONG,, 43000, KAJANG, MALAYSIA,",
+  "manufacturer": "TJ-TYT PHARMACEUTICALS (M) SDN. BHD.",
+  "manufacturer_address": "1 &amp; 3, PERSIARAN PERINDUSTRIAN PENGKALAN 12, KAWASAN PERINDUSTRIAN PENGKALAN, 31500, LAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Radix Salvia Miltiorrhizae",
+    "Paeonia alba",
+    "Radix Dipsacus asper Wall.",
+    "Ligusticum chuanxiong rhizoma",
+    "CONCHA MARGARITIFERA USTA",
+    "RADIX ANGELICA SINENSIS",
+    "radix panax ginsen",
+    "Radix Rehmannia Glutinosa",
+    "Cordyceps Sinensis",
+    "Radix Glycyrrhiza glabra",
+    "Herba Leonurus heterophyclus",
+    "Folium Artemisia Vulgaris",
+    "Rhizoma Cyperus Rotundus L."
+  ],
+  "sku": [
+    {
+      "package_description": "8 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 8,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

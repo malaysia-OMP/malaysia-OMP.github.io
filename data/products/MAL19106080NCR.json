@@ -1,0 +1,156 @@
+{
+  "registration_no": "MAL19106080NCR",
+  "product_name": "Nutrinlife Multivitamins and Minerals Complex Film Coated Tablet",
+  "holder": "BIOFUNCTION MARKETING SDN. BHD.",
+  "holder_address": "NO. 20, JALAN 51A/225A, , SECTION 51A, , ZON PERINDUSTRIAN PJCT,, 46100, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "NUTRALAB CANADA LTD.",
+  "manufacturer_address": "980 TAPSCOTT ROAD,, TORONTO, ON M1X 1C3,, CANADA,",
+  "importer": "Esprit Care Sdn. Bhd.",
+  "importer_address": "NO. 65, 67 &amp; 69, JALAN  TPP 1/13,, TAMAN PERINDUSTRIAN PUCHONG, BATU 12,, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Retinyl Acetate (Vitamin A)",
+    "BETACAROTENE",
+    "DL ALPHA TOCOPHERYL ACETATE",
+    "ASCORBIC ACID (VITAMIN C)",
+    "FOLIC  ACID",
+    "THIAMINE MONONITRATE",
+    "RIBOFLAVIN",
+    "NIACINAMIDE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "CYANOCOBALAMIN",
+    "CHOLECALCIFEROL",
+    "BIOTIN",
+    "CALCIUM D-PANTOTHENATE",
+    "CALCIUM CARBONATE",
+    "POTASSIUM IODIDE",
+    "Dibasic calcium phosphate",
+    "FERROUS FUMARATE",
+    "MAGNESIUM OXIDE",
+    "CUPRIC CITRATE*",
+    "LUTEIN"
+  ],
+  "sku": [
+    {
+      "package_description": "180 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "90 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,105 @@
+{
+  "registration_no": "MAL20066034NCR",
+  "product_name": "MFIII SQ10 PLUS SOFTGELS",
+  "holder": "VOGUE MARKETING INTERNATIONAL",
+  "holder_address": "LOT 29, INDUSTRIAL ZONE 2,, KOTA KINABALU INDUSTRIAL PARK (KKIP),, JALAN SEPANGAR, MENGGATAL,, 88460, KOTA KINABALU, MALAYSIA,",
+  "manufacturer": "Eckhart Corporation.",
+  "manufacturer_address": "11751 VOSE ST. NORTH HOLLYWOOD,, CALIFORNIA 91605, UNITED STATES,",
+  "importer": "VOGUE MARKETING INTERNATIONAL",
+  "importer_address": "LOT 29, INDUSTRIAL ZONE 2, KOTA KINABALU INDUSTRIAL PARK (KKIP),, JALAN SEPANGAR, MENGGATAL,, 88460, KOTA KINABALU, MALAYSIA,",
+  "active_ingredients": [
+    "L-GLUTATHIONE",
+    "COENZYME Q10 (UBIDECARENONE)",
+    "SOY EXTRACT",
+    "ASCORBIC ACID (VITAMIN C)"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,80 @@
+{
+  "registration_no": "MAL19988034T",
+  "product_name": "PO CHAI PILL",
+  "holder": "PO CHAI HERBAL TECHNOLOGY (M) SDN BHD",
+  "holder_address": "29 &amp; 31, JALAN SBC 8\n, TAMAN SRI BATU CAVES, 68100, BATU CAVES, MALAYSIA,",
+  "manufacturer": "LI CHUNG SHING TONG (HOLDINGS) LIMITED",
+  "manufacturer_address": "2/F, 3/F, FLAT C&amp;D, 4/F, COMPLEX 1&amp;3, NO. 5 DAI FU ST, TAI PO INDL EST, TAI PO, NT, HONG KONG,",
+  "importer": "POH TAI TRADING SDN. BHD.",
+  "importer_address": "29 &amp; 31, JALAN SBC 8\n, TAMAN SRI BATU CAVES, 68100, BATU CAVES, MALAYSIA,",
+  "active_ingredients": [
+    "Halloysitum rubrum",
+    "RHIZOMA ATRACTYLODIS",
+    "RADIX TRICHOSANTHIS",
+    "RADIX AUCKLANDIAE",
+    "ANGELICAE DAHURICAE",
+    "PORIA COCOS WOLF",
+    "MASSA MEDICATA FERMENTATA",
+    "HERBA POGOSTEMONIS",
+    "HERBA MENTHAE",
+    "FRUCTUS ORYZAE GERMINATUS",
+    "FLOS CHRYSANTHEMUM MORIFOLIUM",
+    "COICIS SEMEN",
+    "Exocarpium Citri Grandis",
+    "RADIX PUERARIA LOBATA"
+  ],
+  "sku": [
+    {
+      "package_description": "1.75 gm",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,109 @@
+{
+  "registration_no": "MAL22016119TC",
+  "product_name": "Svelty Black Ginger Plus Tablet",
+  "holder": "NEWAGE SDN. BHD.",
+  "holder_address": "LOT 2, KAWASAN MIEL SHAH ALAM FASA 10, JALAN 23/5, SEKSYEN 23, 40300, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "AFC-HD AMS Life Science Co., Ltd",
+  "manufacturer_address": "3-6-36 TOYODA,, SURUGA-KU, SHIZUOKA-CITY,,  422-8027, JAPAN,",
+  "importer": "NEWAGE SDN. BHD.",
+  "importer_address": "LOT 2, KAWASAN MIEL SHAH ALAM FASA 10, JALAN 23/5, SEKSYEN 23, 40300, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "Allium cepa",
+    "Piper nigrum",
+    "Allium sativum",
+    "Kaempferia parviflora",
+    "Zingiber officinale",
+    "Piper longum",
+    "Garcinia cambogia",
+    "Gymnema sylvestre"
+  ],
+  "sku": [
+    {
+      "package_description": "70 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 70,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "150 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL11080038T",
+  "product_name": "Nature\"s Green Ginkgo Leaf Tablets",
+  "holder": "Tong Jum Chew (m) Sdn. Bhd.",
+  "holder_address": "ROOM 503, 5TH FLOOR, MERLIN TOWER, JALAN MELDRUM, 80000, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "Tong Jum Chew Pte. Ltd.",
+  "manufacturer_address": "21 KAKI BUKIT VIEW #04-00, 415957, SINGAPORE,",
+  "importer": "SOON SIN LEONG (M) SDN. BHD.",
+  "importer_address": "27,, JALAN ROSMERAH 2/7, TAMAN JOHOR JAYA, 81100, JOHOR BAHRU, MALAYSIA,",
+  "active_ingredients": [
+    "Ginkgo Biloba (Ginkgo) Leaf Extract"
+  ],
+  "sku": [
+    {
+      "package_description": "500Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

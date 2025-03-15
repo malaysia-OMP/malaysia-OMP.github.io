@@ -1,0 +1,83 @@
+{
+  "registration_no": "MAL06081361TR",
+  "product_name": "AV VitaArth Capsule",
+  "holder": "Amsar Enterprise",
+  "holder_address": "LEVEL 23-1, PREMIER SUITE,, 1 MONT KIARA,, NO. 1, JALAN KIARA MONT KIARA,, 50480, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "AMSAR PRIVATE LIMITED",
+  "manufacturer_address": "47, LAXMIBAI NAGAR, INDUSTRIAL ESTATE FORT,, 452 006, INDIA,",
+  "importer": "Amsar Enterprise",
+  "importer_address": "NO,.9, JALAN TPP 1/17, TAMAN PERINDUSTRIAN PUCHONG, SEKSYEN 1, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Boerhaavia diffusa",
+    "Commiphora mukul",
+    "Desmodium gangeticum",
+    "Gmelina arborea",
+    "Oroxylum indicum",
+    "Premna mucronata",
+    "Solanum indicum",
+    "Solanum surratense",
+    "Stereospermum suaveolens",
+    "Tribulus terrestris",
+    "Zingiber officinale",
+    "URARIA PICTA (ROOT)",
+    "Trigonella Foenum Graecum",
+    "Ricinus Communis (Castor)Oil",
+    "EXTS. CYPERUS SCARIOSUS",
+    "Boswellia Serrata Extract",
+    "Aegle marmelos"
+  ],
+  "sku": [
+    {
+      "package_description": "30Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

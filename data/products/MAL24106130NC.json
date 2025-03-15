@@ -1,0 +1,112 @@
+{
+  "registration_no": "MAL24106130NC",
+  "product_name": "LAC Men's MEGA MULTI GOLD Timed-Release Caplet",
+  "holder": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "holder_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "ARNET PHARMACEUTICAL CORPORATION",
+  "manufacturer_address": "2525, DAVIE RD STE 330, DAVIE, FL 33317-7403, -, UNITED STATES,",
+  "importer": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "importer_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "CALCIUM CARBONATE",
+    "CALCIUM ASCORBATE DIHYDRATE",
+    "MAGNESIUM OXIDE HEAVY",
+    "ASCORBIC ACID (VITAMIN C)",
+    "L-ARGININE HYDROCHLORIDE",
+    "THIAMINE MONONITRATE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "CUCURBITA PEPO (PUMPKIN SEED OIL)",
+    "D-CALCIUM PANTOTHENATE",
+    "PYGEUM AFRICANUM BARK EXTRACT",
+    "SERENOA REPENS BERRY EXTRACT (SAW PALMETTO)",
+    "FOLIC ACID",
+    "D-ALPHA TOCOPHERYL ACETATE",
+    "PHYTOSTEROLS",
+    "SELENOMETHIONINE",
+    "RIBOFLAVIN",
+    "BIOTIN",
+    "CHOLINE BITARTRATE",
+    "NIACINAMIDE",
+    "NIACIN",
+    "ALPHA LIPOIC ACID",
+    "ZINC OXIDE",
+    "CHROMIUM CHLORIDE HEXAHYDRATE",
+    "LINUM USITATISSIMUM (FLAXSEED OIL)",
+    "Vitamin D3 (Cholecalciferol)",
+    "INOSITOL",
+    "LYCOPENE",
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "VITAMIN K1",
+    "BETACAROTENE",
+    "COPPER SULPHATE",
+    "SODIUM MOLYBDATE",
+    "MANGANESE SULPHATE MONOHYDRATE",
+    "GINKGO BILOBA LEAF EXTRACT",
+    "PANAX GINSENG ROOT EXTRACT",
+    "CYANOCOBALAMIN",
+    "Retinyl Acetate (Vitamin A)",
+    "POTASSIUM IODIDE",
+    "SILICON DIOXIDE",
+    "EURYCOMA LONGIFOLIA EXTRACT (TONGKAT ALI)",
+    "PHOSPHATIDYLSERINE",
+    "RESVERATROL",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "CURCUMA LONGA EXTRACT (TURMERIC)",
+    "HAEMATOCOCCUS PLUVIALIS EXTRACT",
+    "SODIUM METAVANADATE"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Caplets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

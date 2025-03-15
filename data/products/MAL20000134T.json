@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL20000134T",
+  "product_name": "PEI PAH KAO",
+  "holder": "LEN FA MEDICAL SUPPLIES (M) SDN BHD",
+  "holder_address": "LOT 41, JALAN BRP 9/2B\n, KAW. PERIND. TAMAN BUKIT RAHMAN PUTRA, 47000, SUNGAI BULOH, MALAYSIA,",
+  "manufacturer": "LEN FA MEDICAL SUPPLIES (M) SDN BHD",
+  "manufacturer_address": "LOT 41, JALAN BRP 9/2B, KAWASAN PERINDUSTRIAN TAMAN BUKIT RAHMAN PUTRA, 47000, SUNGAI BULOH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Prunus pseudocerasus",
+    "ZINGIBER OFFICCINALE ROSCOE",
+    "Caesalpinia sappan",
+    "POLYGALA TENUIFOLIA WILID",
+    "PLATYCODON GRANDIFLORUS DC RADIX",
+    "MORUS BOMBYCIS KOID Z",
+    "Glycyrrhiza Glabra Extract",
+    "FRUCTUS TRICHOSANTHIS",
+    "FOLIA MENTHA",
+    "ERIOBOTRYA JAPONICA LINDL"
+  ],
+  "sku": [
+    {
+      "package_description": "300ml12Units mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

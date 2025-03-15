@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL20031985T",
+  "product_name": "INSUDIN",
+  "holder": "Farmasi R.S. Sdn Bhd",
+  "holder_address": "NO. 361 &amp; 363, JALAN SILIBIN,TAMAN SAZ, 30100, IPOH , MALAYSIA,",
+  "manufacturer": "NATTURA BIO-CARE PVT LTD",
+  "manufacturer_address": "PLOT NO 1, 34/1, \nMULTI INDUSTRIAL NAGAR,\nGERUGAMBAKKAM,, CHENAI-602101, INDIA,",
+  "importer": "Farmasi R.S. Sdn Bhd",
+  "importer_address": "361 &amp; 363, JALAN SILIBIN, TAMAN SAZ, 30100, IPOH , MALAYSIA,",
+  "active_ingredients": [
+    "Aegle marmelos",
+    "Butea superba",
+    "Eugenia jambolana",
+    "WITHANIA SOMNIFERRA RADIX",
+    "TRIGONELLA FRENUM-GRAECUM SEMEN",
+    "GYMNEMA SYLVESTRA",
+    "FD & C Yellow 6 (CI 15985)"
+  ],
+  "sku": [
+    {
+      "package_description": "100Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

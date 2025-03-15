@@ -1,0 +1,112 @@
+{
+  "registration_no": "MAL12055066TC",
+  "product_name": "Nivaranii Herbal Honey",
+  "holder": "Star Medicinal Sdn.bhd.",
+  "holder_address": "NO. 143A, 1ST FLOOR, JALAN BPJ,, ½ SEKSYEN 1, BANDAR PUTERI JAYA,, 08000, SUNGAI PETANI, MALAYSIA,",
+  "manufacturer": "PENAWAR INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "D-40, JALAN 2B-1, , KAWASAN PERUSAHAAN SUNGAI LALANG, , 08000, SUNGAI PETANI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Adhatoda vasica",
+    "Citrus aurantiifolia",
+    "Elettaria cardamomum",
+    "Glycyrrhiza glabra",
+    "Myristica fragrans",
+    "Piper nigrum",
+    "Rosa damascena",
+    "Vitis Vinifera",
+    "Zingiber officinale",
+    "Zingiber zerumbet",
+    "HONEY"
+  ],
+  "sku": [
+    {
+      "package_description": "375 mL",
+      "sku_unit": "mL",
+      "quantity_per_sku": 375,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "200 mL",
+      "sku_unit": "mL",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

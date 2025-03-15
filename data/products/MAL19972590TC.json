@@ -1,0 +1,108 @@
+{
+  "registration_no": "MAL19972590TC",
+  "product_name": "HAMMER BRAND SI CHUAN TAN (POWDER)",
+  "holder": "SYARIKAT PERNIAGAAN VISIN`S",
+  "holder_address": "32, JALAN BUNGA TANJUNG 9, TAMAN MUDA, 56100, CHERAS, MALAYSIA,",
+  "manufacturer": "SG GLOBAL BIOTECH SDN. BHD.",
+  "manufacturer_address": "LOT 1388, BLOK A, BATU 2 1/2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "RHIZOMA CHUANXIONG",
+    "Radix Saposhnikoviae Divaricata",
+    "ANGELICAE DAHURICAE",
+    "HERBA SCHIZONEPETAE",
+    "HERBA MENTHAE",
+    "FOLIUM PERILLAE",
+    "FOLIUM MORI"
+  ],
+  "sku": [
+    {
+      "package_description": "4gm2Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 4,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "4gx 2 sachets Sachets",
+      "sku_unit": "g",
+      "quantity_per_sku": 4,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

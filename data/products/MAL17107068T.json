@@ -1,0 +1,35 @@
+{
+  "registration_no": "MAL17107068T",
+  "product_name": "Bio-Hertz Capsule",
+  "holder": "BIO NICE INDUSTRY SDN BHD",
+  "holder_address": "NO. 5, JALAN SILC 1/4, KAWASAN PERINDUSTRIAN SILC,, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "manufacturer": "BIO NICE INDUSTRY SDN BHD",
+  "manufacturer_address": "NO. 5, JALAN SILC 1/4, KAWASAN PERINDUSTRIAN SILC, 79200, ISKANDAR PUTERI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Panax notoginseng",
+    "Dendrobium nobile",
+    "Rhodiola crenulata",
+    "PANAX QUINQUEFOLIUS",
+    "Salvia miltiorrhiza"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

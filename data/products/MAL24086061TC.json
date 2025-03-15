@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL24086061TC",
+  "product_name": "Soon Thye Hang Bu Yao Yang Sheng Jing Mixture",
+  "holder": "STH MARKETING SDN. BHD.",
+  "holder_address": "51, JALAN BIJEH TIMAH,, 30000, IPOH , MALAYSIA,",
+  "manufacturer": "Happy Health (m) Sdn Bhd",
+  "manufacturer_address": "NO. 7, JALAN PERINDUSTRIAN KAPAL LAYAR 1 , TAMAN PERINDUSTRIAN KAPAL LAYAR , TONGKANG PECHAH, 83010, BATU PAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Achyranthes bidentata",
+    "Cordyceps sinensis",
+    "Eucommia ulmoides",
+    "Lycium barbarum",
+    "Panax quinquefolius",
+    "Psoralea corylifolia",
+    "Ganoderma lucidum"
+  ],
+  "sku": [
+    {
+      "package_description": "750 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 750,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

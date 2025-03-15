@@ -1,0 +1,216 @@
+{
+  "registration_no": "MAL20013144X",
+  "product_name": "SOLARAY SPECTRO",
+  "holder": "PATHLAB HEALTHCARE (MALAYSIA) SDN. BHD.",
+  "holder_address": "NO. 23, JALAN TEKNOLOGI 3/3A, TAMAN SAINS SELANGOR 1,, KOTA DAMANSARA PJU 5, KOTA DAMANSARA,, 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "NUTRACEUTICAL CORPORATION",
+  "manufacturer_address": "2815,INDUSTRIAL DRIVE, \n, OGDEN,\n, UTAH 84401, UNITED STATES,",
+  "importer": "PATHLAB HEALTHCARE (MALAYSIA) SDN. BHD.",
+  "importer_address": "NO. 23, JALAN TEKNOLOGI 3/3A, TAMAN SAINS SELANGOR 1,, KOTA DAMANSARA PJU 5, KOTA DAMANSARA, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "ASCORBIC ACID",
+    "VITAMIN A",
+    "VITAMIN B12",
+    "Biotin",
+    "Calcium Carbonate",
+    "Glutamic acid",
+    "Folic Acid",
+    "Inositol",
+    "Magnesium Oxide",
+    "Manganese Gluconate",
+    "Papain",
+    "Pectin",
+    "PABA",
+    "Niacinamide",
+    "Pancreatin",
+    "Pantothenic Acid",
+    "Royal Jelly",
+    "Zinc Citrate",
+    "GTF CHROMIUM",
+    "FERROUS FUMARATE",
+    "CHOLINE BITARTRATE",
+    "ALOE VERA GEL",
+    "PARSLEY",
+    "PRO-VITAMIN A",
+    "PROPOLIS",
+    "SELENIUM",
+    "VITAMIN D",
+    "Vitamin B2",
+    "BEE POLLEN",
+    "BIOFLAVONOID COMPLEX",
+    "PHOSPHORUS",
+    "IODINE",
+    "Vitamin B6 (Pyridoxine HCI)",
+    "Potassium",
+    "SPIRULINA",
+    "BORON",
+    "Vitamin B1 (Thiamine Nitrate)",
+    "Copper Gluconate",
+    "Rosemary Extract",
+    "Lecithin\"",
+    "RUTIN COMPLEX",
+    "Carrot & yam concentrate",
+    "chloride ions",
+    "Barley juice",
+    "alfafa juice"
+  ],
+  "sku": [
+    {
+      "package_description": "50Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 50,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "250Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

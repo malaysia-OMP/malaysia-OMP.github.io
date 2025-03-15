@@ -1,0 +1,78 @@
+{
+  "registration_no": "MAL19992627TC",
+  "product_name": "GREATWALL QINGLIANG GANMAOCHA",
+  "holder": "LEE FAH TRADING CO. SDN. BHD.",
+  "holder_address": "21A, JALAN LAMBAK, TAMAN JOHOR LIGHT INDUSTRIAL ESTATE, 81200, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "S.H. UNIFLEX CHINESE MEDICAL FACTORY SDN BHD",
+  "manufacturer_address": "NO. 21A, JALAN LAMBAK\n, TAMAN JOHOR LIGHT INDUSTRIAL ESTATE, 81200, JOHOR BAHRU, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "RHIZOMA PHRAGMITIS",
+    "RADIX PLATYCODI",
+    "RADIX PEUCEDANI",
+    "PORIA",
+    "PERICARPIUM CITRI RETICULATAE",
+    "IMPERATAE RHIZOMA EXTRACT",
+    "FRUCTUS FORSYTHIAE",
+    "FRUCTUS AURANTII IMMATURUS",
+    "FOLIUM PERILLAE",
+    "FOLIUM ERIOBOTRYAE",
+    "FLOS LONICERAE",
+    "BULBUS FRITILLARIAE CIRRHOSAE"
+  ],
+  "sku": [
+    {
+      "package_description": "12gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

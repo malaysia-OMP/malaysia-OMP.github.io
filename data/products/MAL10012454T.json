@@ -1,0 +1,152 @@
+{
+  "registration_no": "MAL10012454T",
+  "product_name": "MELILEA Organic Botanical Powder",
+  "holder": "BMI CORPORATION SDN. BHD.",
+  "holder_address": "NO. C-8, JALAN PPP 1, PLAZA PANDAN PERDANA, , OFF JALAN POKOK MANGGA, , 75250, MALAYSIA,",
+  "manufacturer": "Greenfield USA Corporation",
+  "manufacturer_address": "33440 WESTERN AVENUE, UNION CITY,, 94587-3202, UNITED STATES,",
+  "importer": "BMI CORPORATION SDN. BHD.",
+  "importer_address": "NO. C-8, JALAN PPP 1, PLAZA PANDAN PERDANA\n, OFF JALAN POKOK MANGGA, 75250, MALAYSIA,",
+  "active_ingredients": [
+    "Apium graveolens",
+    "Avena sativa",
+    "Beta vulgaris",
+    "Brassica oleracea",
+    "Carica papaya",
+    "Cinnamomum verum",
+    "Daucus carota",
+    "Fucus vesiculosus",
+    "Nasturtium officinale",
+    "Palmaria palmata",
+    "Petroselinum crispum",
+    "Spinacia oleracea",
+    "Bran Triticum Aestivum",
+    "Zingiber officinale",
+    "GLYCINE MAX",
+    "Spirulina platensis."
+  ],
+  "sku": [
+    {
+      "package_description": "500 gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "7 gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 7,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1000 gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

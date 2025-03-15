@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL25036041NC",
+  "product_name": "Unicity Omega-E Life-3 Resolv Softgel",
+  "holder": "UNICITY IMPORTS MALAYSIA SDN. BHD.",
+  "holder_address": "L1.07-L1.10, LEVEL 1, KL GATEWAY MALL, NO. 2, JALAN KERINCHI,, GERBANG KERINCHI LESTARI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "INNOVA SOFTGEL LLC d.b.a KD NUTRA",
+  "manufacturer_address": "14193 SOUTHWEST 119TH AVENUE, MIAMI, FL, 33186, UNITED STATES,",
+  "importer": "UNICITY IMPORTS MALAYSIA SDN. BHD.",
+  "importer_address": "L1.07-L1.10, LEVEL 1, KL GATEWAY MALL, JALAN KERINCHI GERBANG KERINCHI LESTARI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "FISH OIL",
+    "DL-ALPHA TOCOPHERYL ACETATE"
+  ],
+  "sku": [
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

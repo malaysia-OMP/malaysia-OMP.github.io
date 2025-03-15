@@ -1,0 +1,39 @@
+{
+  "registration_no": "MAL20001960T",
+  "product_name": "CHLOSTANIN CALTURE",
+  "holder": "MCM NETWORKING (M) SDN BHD",
+  "holder_address": "17, JALAN 6/18A\n, TAMAN MASTIARA\n, BATU 5 1/2 JALAN IPOH, 51200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "NIKKEN SOHONSHA CORP",
+  "manufacturer_address": "1-32,ASAHIRA,FUKUJU-CHO, HASHIMA CITY,, JAPAN,",
+  "importer": "MCM NETWORKING (M) SDN BHD",
+  "importer_address": "NO.17, JALAN 6/18A, TAMAN MASTIARA, \nBATU 5 1/2, JLN. IPOH,, 51200 , KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Yeast Extract",
+    "STREPTOCOCCUS FAECALIS",
+    "LENTINUS EDODES SING/MUSHROOM EXTRACT",
+    "KLUYVERONYCES LACTIS/LACTIC YEAST",
+    "DIETARY FIBER (CYCLOOCTADEXTRIN)",
+    "CHLORELLA PYRENOIDOSA EXTRACT",
+    "Calcium Phosphate",
+    "Calcium carbonate",
+    "BIFIDOBACTERIUM INFANTIS"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

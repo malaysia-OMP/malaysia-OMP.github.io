@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL23116071T",
+  "product_name": "Nolevaa Pain Relief Patch",
+  "holder": "AVELON HEALTHCARE SDN. BHD.",
+  "holder_address": "A18,, JALAN KUANG BULAN,, TAMAN KEPONG,, 52100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "VGO HOLDING SDN. BHD.",
+  "manufacturer_address": "NO 6, LORONG PALA 4, KAWASAN INDUSTRI RINGAN PERMATANG TINGGI, 14000, BUKIT MERTAJAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Eucalyptus globulus",
+    "Mentha piperita",
+    "Capsicum annuum"
+  ],
+  "sku": [
+    {
+      "package_description": "5 Pieces",
+      "sku_unit": "Units",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

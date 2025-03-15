@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL11030112XC",
+  "product_name": "HERBALIFE NUTRITION NW Formula Powder Mix",
+  "holder": "HERBALIFE PRODUCTS MALAYSIA SDN BHD",
+  "holder_address": "GROUND FLOOR, PLAZA SEE HOY CHAN\n, JALAN RAJA CHULAN, 50200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Pharmachem Laboratories LLC.",
+  "manufacturer_address": "265 HARRISON AVENUE, , KEARNY NEW JERSEY, 07032, UNITED STATES,",
+  "importer": "HERBALIFE PRODUCTS MALAYSIA SDN BHD",
+  "importer_address": "GROUND FLOOR, PLAZA SEE HOY CHAN, JALAN RAJA CHULAN, 50200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "ASCORBIC ACID",
+    "d-Alpha Tocopherol (Vitamin E)",
+    "ALPHA LIPOIC ACID",
+    "L-Arginine",
+    "Folic acid.",
+    "L Taurine",
+    "L-Citrulline"
+  ],
+  "sku": [
+    {
+      "package_description": "150 gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

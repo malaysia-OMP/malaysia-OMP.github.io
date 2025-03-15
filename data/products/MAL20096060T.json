@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20096060T",
+  "product_name": "AVEMAR GRANULATE",
+  "holder": "I-SCIENCE INTERNATIONAL SDN BHD",
+  "holder_address": "UNIT C3A-16, LEVEL 3A, BLOCK C, KELANA SQUARE, NO. 17, JALAN SS 7/26, KELANA JAYA, , 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Biropharma Ltd.",
+  "manufacturer_address": "6413 KUNFEH�RT�, IV. K�RZET 6., HUNGARY,",
+  "importer": "I-SCIENCE INTERNATIONAL SDN BHD",
+  "importer_address": "C3A-16, BLOCK C, LEVEL  3A, KELANA SQUARE,, N0. 17, JALAN SS 7/26 , KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Triticum aestivum"
+  ],
+  "sku": [
+    {
+      "package_description": "30 x 17g Sachets",
+      "sku_unit": "g",
+      "quantity_per_sku": 510,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL20076067HA",
+  "product_name": "Amogen Suspension for Injection",
+  "holder": "Vemedim Sdn Bhd",
+  "holder_address": "15, JALAN USJ 1/31, 47600, SUBANG, MALAYSIA,",
+  "manufacturer": "VEMEDIM VETERINARY DRUGS AND PROBIOTICS CO., LTD (VEMEDIM ANIMAL HEALTH)",
+  "manufacturer_address": "SONG HAU INDUSTRIAL ZONE, CHAU THANH DISTRICT, HAU GIANG PROVINCE,  ,,  , -, VIETNAM,",
+  "importer": "Vemedim Sdn Bhd",
+  "importer_address": "15, JALAN USJ 1/31,, 47600, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "AMOXICILLIN TRIHYDRATE",
+    "Gentamicin sulfate"
+  ],
+  "sku": [
+    {
+      "package_description": "100 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

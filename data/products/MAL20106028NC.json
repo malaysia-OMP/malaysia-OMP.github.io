@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20106028NC",
+  "product_name": "PHARMANEX Fibrenet Capsule",
+  "holder": "NU SKIN (MALAYSIA) SDN. BHD.",
+  "holder_address": "LOT 1.5, LEVEL 1,, PNB PERDANA (COMMERCIAL CENTRE), 10, JALAN BINJAI,, 50450, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Capstone Nutrition",
+  "manufacturer_address": "900 S. DEPOT DRIVE  OGDEN, UTAH, 84404, UNITED STATES,",
+  "importer": "NU SKIN (MALAYSIA) SDN. BHD.",
+  "importer_address": "LOT 1.5,LEVEL 1, PNB PERDANA (COMMERCIAL CENTRE), 10, JALAN BINJAI, 50450, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "CHITOSAN"
+  ],
+  "sku": [
+    {
+      "package_description": "240 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 240,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

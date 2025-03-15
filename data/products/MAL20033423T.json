@@ -1,0 +1,90 @@
+{
+  "registration_no": "MAL20033423T",
+  "product_name": "Lifestyles Intra Liquid",
+  "holder": "LIFESTYLES ASIA PACIFIC MALAYSIA SDN. BHD.",
+  "holder_address": "41-5 BLOCK C, JAYA ONE,, NO 72A, , JALAN PROF DIRAJA UNGKU AZIZ,, 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "LIFESTYLES GLOBAL NETWORK",
+  "manufacturer_address": "790 ARROW ROAD, \n, TORONTO,ONTARIO,, CANADA,",
+  "importer": "LIFESTYLES ASIA PACIFIC MALAYSIA SDN. BHD.",
+  "importer_address": "41-5, BLOCK C , JAYA ONE,, NO. 72A, JALAN PROF DIRAJA UNGKU AZIZ, , 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Aloe barbadensis",
+    "Astragalus membranaceus",
+    "Schisandra chinensis",
+    "Taraxacum officinale",
+    "Thymus vulgaris",
+    "ZINGIBER OFFICINALE/HALIA SUTI",
+    "SMILAX OFFICINALIS/SARSPARILLA",
+    "ROSAE SP FLOS",
+    "RHIZOMA/RADIX ELEUTHEROCOCCUS SENTICOSUS",
+    "PEAR JUICE CONC",
+    "PASSION FLOWER (PASSIFLORA INCARNATA)",
+    "MEDICAGO SATIVA (DRY FOLIUM)",
+    "LICORICE ROOT (GLCYRRHIZA SPECIES)",
+    "JUNIPER BERRY (JUNIPERUS COMMUNIS)",
+    "GERMAN CHAMOMILE (CHAMOMILLA RECUTITA)",
+    "GANODERMA LUCIDUM/MYCELIUM REISHI",
+    "FENUGREEK SEED (TRIGONELLA DOENUMGRAECUM)",
+    "CHIMAPHILA UMBELLATA",
+    "CHICORY ROOT CHICORIU INTYBUS",
+    "CASCARA BARK (RHAMNUSPURSHIANA)",
+    "CAPSICUM FRUIT (CAPSICUM SPECIES)",
+    "BEE POLLEN (APIS POLLENUS)",
+    "APIUM GRAVEOLENS SEED",
+    "CHINESE PEARL BARLEY (COIX LACRYMA-JOBI)"
+  ],
+  "sku": [
+    {
+      "package_description": "950ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 950,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

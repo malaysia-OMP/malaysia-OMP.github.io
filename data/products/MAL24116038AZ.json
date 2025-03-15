@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL24116038AZ",
+  "product_name": "Wosulin R Solution for Injection 100 IU/mL",
+  "holder": "PHARMANIAGA LIFESCIENCE SDN. BHD.",
+  "holder_address": "LOT 7, JALAN PPU 3, TAMAN PERINDUSTRIAN PUCHONG UTAMA,, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "Wockhardt Limited",
+  "manufacturer_address": "E-1/1, WOCKHARDT INFRASTRUCTURE DEVELOPMENT LTD,  SPECIAL ECONOMIC ZONE (SEZ) E-1, SHENDRA MIDC FIVE STAR INDUSTRIAL AREA, SHENDRA, CHHATRAPATI SAMBHAJINAGAR – 431154, MAHARASHTRA STATE, INDIA,",
+  "importer": "PHARMANIAGA LIFESCIENCE SDN. BHD.",
+  "importer_address": "LOT 7, JALAN PPU 3,, TAMAN PERINDUSTRIAN PUCHONG UTAMA,, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Insulin human"
+  ],
+  "sku": [
+    {
+      "package_description": "1 x 3 mL cartridge",
+      "sku_unit": "mL",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5 x 3 mL cartridge",
+      "sku_unit": "mL",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

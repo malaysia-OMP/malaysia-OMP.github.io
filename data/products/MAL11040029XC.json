@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL11040029XC",
+  "product_name": "Melaleuca CELWISE",
+  "holder": "Melaleuca Southeast Asia (malaysia) Sdn. Bhd.",
+  "holder_address": "UNIT B-10-3A &amp; 5, LEVEL 10, MENARA UOA BANGSAR, NO.5, JALAN BANGSAR UTAMA 1, 59000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Merical Inc.",
+  "manufacturer_address": "2550 PIONNER AVE., VISTA, CALIFORNIA, 92081, UNITED STATES,",
+  "importer": "Melaleuca Southeast Asia (malaysia) Sdn. Bhd.",
+  "importer_address": "UNIT B-10-3A &amp; 5, LEVEL 10, MENARA UOA BANGSAR, NO.5, JALAN BANGSAR UTAMA 1 , 59000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Calcium Carbonate",
+    "Lycopene",
+    "mixed tocopherols",
+    "Grape seed (Vitis vinifera) extract",
+    "Mixed Carotenoids",
+    "Vitamin C (as Ascorbic Acid)",
+    "Olea Europaea (Olive) Fruit Extract"
+  ],
+  "sku": [
+    {
+      "package_description": "60Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

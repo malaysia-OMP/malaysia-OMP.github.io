@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL21016057N",
+  "product_name": "Kyosei Squalene Plus Softgel",
+  "holder": "KYOSEI BOEKI (M) SDN BHD",
+  "holder_address": "S-19-03, WISMA YNH, KIARA 163, NO. 8 JALAN KIARA, MONT KIARA,, 50480, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Kyowa Yakuhin Co., Ltd",
+  "manufacturer_address": "163, KYORIKI,, TOYAMA JAPAN, JAPAN,",
+  "importer": "KYOSEI BOEKI (M) SDN BHD",
+  "importer_address": "S-19-3, WISMA YNH, KIARA 163 JALAN KIARA MONT KIARA, 50480, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "INOSITOL",
+    "SQUALENE"
+  ],
+  "sku": [
+    {
+      "package_description": "250 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

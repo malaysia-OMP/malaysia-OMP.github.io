@@ -1,0 +1,112 @@
+{
+  "registration_no": "MAL20034009T",
+  "product_name": "VITATONE (VITARITE) FORTE CAPSULES",
+  "holder": "HERBS PHARMA SDN BHD",
+  "holder_address": "NO. 23-B, , JALAN PJS 1/48,, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "NATIONAL PHARMA PHARMACEUTICAL MANUFACTURERS",
+  "manufacturer_address": "P.O.BOX 14,MEDICAL COLLEG THANJAVUR 613004 TAMILNAD, INDIA,",
+  "importer": "HERBS PHARMA SDN BHD",
+  "importer_address": "NO. 23B, JALAN PJS 1/48 , 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Myristica fragrans",
+    "Orchis mascula",
+    "WITHANIA SOMNIFERA DUNAL",
+    "SEMEN ARTANEMA SESAMOIDES",
+    "PIPER LONGUM FRUCTUS",
+    "HEMIDESMUS INDICUS (SARSAPARILLA, INDIAN",
+    "GLYCYRHIZA GLABRA RADIX",
+    "ELETTARIA CARDAMOMUM SEMEN",
+    "CYCAS CIRCINALIS/BUNGA PAK MAR",
+    "CUBEBA OFFICIANAL",
+    "ASPARAGUS RACEMOSUS (SHATAWAR)"
+  ],
+  "sku": [
+    {
+      "package_description": "0.35gm60Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "0.35gm80Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

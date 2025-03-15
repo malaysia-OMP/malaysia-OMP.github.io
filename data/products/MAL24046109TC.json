@@ -1,0 +1,80 @@
+{
+  "registration_no": "MAL24046109TC",
+  "product_name": "New Origin Deer Velvet Plus Liquid",
+  "holder": "BEAUTE MORI SDN BHD",
+  "holder_address": "NO. 8, JALAN 51A/225A, PJCT, SECTION 51A,, 46100, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Da Jung Co., Ltd.",
+  "manufacturer_address": "371, JANGSU-RO, IWOL-MYEON, JINCHEON-GUN, CHUNGBUK, 365-823, KOREA,SOUTH,",
+  "importer": "BEAUTE MORI SDN BHD",
+  "importer_address": "NO. 8, JALAN 51A/225A, ZON PERINDUSTRIAN PJCT, SEKSYEN 51A, 46100, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Cervus nippon",
+    "Angelica gigas",
+    "Paeonia lactiflora (Rubra)",
+    "Ziziphus jujuba",
+    "Atractylodes lancea",
+    "Poria cocos",
+    "Zingiber officinale",
+    "Astragalus membranaceus",
+    "Rehmannia Glutinosa",
+    "Cinnamomum cassia",
+    "Glycyrrhiza uralensis",
+    "Platycodon grandiflorum",
+    "Panax ginseng",
+    "Scutellaria baicalensis"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

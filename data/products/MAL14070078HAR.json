@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL14070078HAR",
+  "product_name": "NUFLOR FLORFENICOL SWINE INJECTABLE SOLUTION 300 MG/ML",
+  "holder": "Intervet (m) Sdn Bhd",
+  "holder_address": "B-22-1 &amp; B-22-2, THE ASCENT PARADIGM, NO.1, JALAN SS7/26A, , KELANA JAYA,, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Schering Plough Sante Animale",
+  "manufacturer_address": "LA GRINDOLIERE, ZONE ARTISANALE, SEGRE, 49500, FRANCE,",
+  "importer": "Intervet (m) Sdn Bhd",
+  "importer_address": "B-22-1 &amp; B-22-2, THE ASCENT PARADIGM,, NO. 1, JALAN SS 7/26A, , KELANA JAYA, 47301 , PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "FLORFENICOL"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

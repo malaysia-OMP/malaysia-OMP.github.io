@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL22066105T",
+  "product_name": "DRP INTERNATIONAL FR��G OUT CAPSULE",
+  "holder": "DR P INTERNATIONAL SDN. BHD.",
+  "holder_address": "NO.1-055, TINGKAT 1 MILLENNIUM SQUARE, DATARAN MILLENNIUM PJ, , 98, JALAN 14/1, SEKSYEN 14,, 46100, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "FIRST GRADE RESOURCES SDN BHD",
+  "manufacturer_address": "NO. 125, 126, 127, 128, 130, 144, JALAN CENGAL 6, , TAMAN CENGAL INDAH,, 09000, KULIM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Clinacanthus nutans",
+    "Curcuma longa",
+    "Orthosiphon stamineus",
+    "Phaleria macrocarpa",
+    "Strobilanthes crispus",
+    "Zingiber officinale",
+    "Peperomia pellucida"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20002251AZ",
+  "product_name": "KENHANCER PLASTER",
+  "holder": "PHARMA NORD SDN. BHD.",
+  "holder_address": "29-07, TINGKAT 29, Q-SENTRAL,, JALAN STESEN SENTRAL 2,, KUALA LUMPUR SENTRAL,, 50470, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "GC Biopharma Corp.",
+  "manufacturer_address": "26, MUGEUK-RO 65BEON-GIL, GEUMWANG-EUP,, EUMSEONG-GUN, CHUNGCHEONGBUK-DO,, KOREA, KOREA,SOUTH,",
+  "importer": "PHARMA NORD SDN. BHD.",
+  "importer_address": "29-07, TINGKAT 29, Q-SENTRAL, JALAN STESEN SENTRAL 2, KUALA LUMPUR SENTRAL, 50470, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "KETOPROFEN"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

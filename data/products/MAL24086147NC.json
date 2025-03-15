@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL24086147NC",
+  "product_name": "LACTOGG+ POWDER",
+  "holder": "PAEDICARE SDN. BHD.",
+  "holder_address": "NO. 1, LORONG BURUNG GIAN\n, OFF JALAN LIKAS BAY, 88400, KOTA KINABALU, MALAYSIA,",
+  "manufacturer": "PHARMTECH (HONG KONG) LIMITED",
+  "manufacturer_address": "5TH &amp; 6TH FLOOR, UNIT 7 17TH FLOOR AND UNIT 10 18TH FLOOR, CHEUNG FUNG INDUSTRIAL BUILDING, 23-39 PAK TIN PAR STREET, TSUEN WAN, HONG KONG SAR OF CHINA , HONG KONG,",
+  "importer": "PROBIOHEALTH SDN. BHD.",
+  "importer_address": "LOT 7, 1ST FLOOR, BLOCK A, LUYANG COMMERCIAL CENTRE, , LORONG POKOK KAYU MANIS, , 88300, KOTA KINABALU, MALAYSIA,",
+  "active_ingredients": [
+    "LACTICASEIBACILLUS RHAMNOSUS",
+    "FRUCTOOLIGOSACCHARIDES"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL23106097T",
+  "product_name": "Ko Da Ping Wei San Extract Granule",
+  "holder": "HENDA NATURAL SDN BHD",
+  "holder_address": "NO 22-1B, JALAN RESAK 1/KS7, BANDAR BOTANIK, 41200, KLANG, MALAYSIA,",
+  "manufacturer": "KO DA PHARMACEUTICAL CO., LTD.",
+  "manufacturer_address": "NO.20-1, GONGYE 3RD RD, PINGZHEN DIST, TAOYUAN CITY 324, TAIWAN,",
+  "importer": "HENDA NATURAL SDN BHD",
+  "importer_address": "NO 22-1B, JALAN RESAK 1/KS7, BANDAR BOTANIK, 41200, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Citrus reticulata",
+    "Magnolia officinalis",
+    "Glycyrrhiza glabra",
+    "Atractylodes chinensis",
+    "Zingiber officinale",
+    "Ziziphus jujuba"
+  ],
+  "sku": [
+    {
+      "package_description": "200 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

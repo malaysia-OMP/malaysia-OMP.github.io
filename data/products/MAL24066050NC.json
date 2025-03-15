@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL24066050NC",
+  "product_name": "VIDA GLOW GRO-OLOGY CAPSULE",
+  "holder": "VGHM SDN. BHD.",
+  "holder_address": "TINGKAT 3,4,6,7,10,15 DAN 17, MENARA OLYMPIA, NO. 8, JALAN RAJA CHULAN, , 50200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Lavida Pharmaceuticals",
+  "manufacturer_address": "15 SLEIGH PLACE WETHERILL PARK, NSW, 2164, AUSTRALIA,",
+  "importer": "ACCESS BRAND MANAGEMENT (MALAYSIA) SDN. BHD.",
+  "importer_address": "THE MET CLUB BY COLONY, LEVEL 10, MENARA THE MET, NO. 20, JALAN DUTAMAS 2, 50480, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "PISUM SATIVUM (PEA)",
+    "FUCUS VESICULOSUS (BLADDERWRACK)",
+    "ASCORBIC ACID (VITAMIN C)",
+    "BIOTIN",
+    "POTASSIUM IODIDE",
+    "CALCIUM PANTOTHENATE",
+    "ZINC GLYCINATE",
+    "FERROUS BISGLYCINATE",
+    "SELENOMETHIONINE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

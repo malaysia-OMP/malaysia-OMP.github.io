@@ -1,0 +1,100 @@
+{
+  "registration_no": "MAL24066055NC",
+  "product_name": "Nano Singapore Men's Multivitamin Plus Formula Capsule",
+  "holder": "Nano Wellness Sdn. Bhd.",
+  "holder_address": "SUITE 51-17-D2, MENARA BHL JALAN SULTAN AHMAD SHAH, 10050, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "US PHARMATECH NV INC.",
+  "manufacturer_address": "7210 W. POST ROAD, BUILDING 1, LAS VEGAS, NV, 89113, UNITED STATES,",
+  "importer": "Nano Wellness Sdn. Bhd.",
+  "importer_address": "SUITE 32, BLOCK C, LEVEL 3A, THE FIVE @ KPD,, KOMPLEKS PEJABAT DAMASARA, NO.49 JALAN DUNGUN BUKIT DAMANSARA, 50490, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "ELEUTHEROCOCCUS SENTICOSUS EXTRACT",
+    "SILYBUM MARIANUM EXTRACT (MILK THISTLE)",
+    "Camellia Sinensis (Green Tea) Leaf Extract",
+    "GINGER ROOT EXTRACT (ZINGIBER OFFICINALE)",
+    "SCUTELLARIA BAICALENSIS ROOT EXTRACT (CHINESE SKULLCAP)",
+    "VACCINIUM MYRTILLUS FRUIT EXTRACT (BILBERRY)",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "BLACKCURRANT FRUIT EXTRACT (RIBES NIGRUM)",
+    "ROSMARINUS OFFICINALIS (ROSEMARY EXTRACT)",
+    "ALLIUM SATIVUM (GARLIC)",
+    "SODIUM MOLYBDATE",
+    "ASCORBIC ACID (VITAMIN C)",
+    "ERGOCALCIFEROL",
+    "CHROMIUM PICOLINATE",
+    "CYANOCOBALAMIN",
+    "TOCOPHEROL ACETATE, DL-ALPHA",
+    "THIAMINE MONONITRATE",
+    "RIBOFLAVIN",
+    "NICOTINIC ACID",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "FOLIC ACID",
+    "BIOTIN",
+    "BETACAROTENE",
+    "D-CALCIUM PANTOTHENATE",
+    "ZINC OXIDE",
+    "L-SELENOMETHIONINE",
+    "COPPER GLUCONATE",
+    "CALCIUM CARBONATE",
+    "MAGNESIUM OXIDE",
+    "LYCOPENE",
+    "SACCHAROMYCES CEREVISIAE",
+    "SPIRULINA (SPIRULINA PLATENSIS)",
+    "Manganese Sulfate Monohydrate"
+  ],
+  "sku": [
+    {
+      "package_description": "180 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

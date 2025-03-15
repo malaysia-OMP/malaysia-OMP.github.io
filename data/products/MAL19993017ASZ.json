@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL19993017ASZ",
+  "product_name": "SULPERAZON 1G IM/IV",
+  "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+  "holder_address": "LEVEL 10 &amp; 11, WISMA AVERIS, TOWER 2,, AVENUE 5, BANGSAR SOUTH,, NO.8, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Haupt Pharma Latina S.r.l.",
+  "manufacturer_address": "STRADA STATALE 156 KM 47,600, 04100 BORGO SAN MICHELE, 04100, ITALY,",
+  "importer": "PFIZER (MALAYSIA) SDN. BHD.",
+  "importer_address": "LEVEL 10 &amp; 11, WISMA AVERIS,, TOWER 2,  AVENUE 5, BANGSAR SOUTH,  , NO.8, JALAN KERINCHI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "CEFOPERAZONE SODIUM",
+    "SULBACTAM SODIUM"
+  ],
+  "sku": [
+    {
+      "package_description": "1gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1 gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

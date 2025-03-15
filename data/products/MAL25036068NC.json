@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL25036068NC",
+  "product_name": "Nutriwise Prodenta Capsule",
+  "holder": "MOHASZ  ENTERPRISE",
+  "holder_address": "NO. 5, LALUAN SERI KUANG 10/2, DESA CHEMOR, SERI KUANG,, 31200, CHEMOR, MALAYSIA,",
+  "manufacturer": "Prince Pharmaceutical Co., Ltd.",
+  "manufacturer_address": "NO. 8, LN. 136, SEC. 3, YIMIN RD., XINPU TOWNSHIP, HSINCHU COUNTY 305, TAIWAN,",
+  "importer": "DAWN GLOBAL SDN. BHD.",
+  "importer_address": "J5-1, PERSIARAN JALIL 1, BUKIT JALIL, 57000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "LACTOBACILLUS BULGARICUS",
+    "LACTOBACILLUS CASEI",
+    "LACTOBACILLUS ACIDOPHILUS",
+    "LACTOBACILLUS PARACASEI SPP. PARACASEI",
+    "LACTOBACILLUS SALIVARIUS",
+    "LACTOBACILLUS PLANTARUM",
+    "BIFIDOBACTERIUM LACTIS",
+    "BIFIDOBACTERIUM BIFIDUM",
+    "BIFIDOBACTERIUM LONGUM",
+    "BIFIDOBACTERIUM BREVE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

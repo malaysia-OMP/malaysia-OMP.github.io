@@ -1,0 +1,105 @@
+{
+  "registration_no": "MAL18016121NCR",
+  "product_name": "LUCENT Tablet",
+  "holder": "LIONE LABORATORIES SDN BHD",
+  "holder_address": "UNIT 13-13, MENARA K1,, LORONG 3/137C,, JALAN KELANG LAMA,, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "NutraScience Labs",
+  "manufacturer_address": "70 CAROLYN BOULEVARD, FARMINGDALE, NEW YORK, 11735, UNITED STATES,",
+  "importer": "LIONE LABORATORIES SDN BHD",
+  "importer_address": "UNIT 13-13, MENARA K1, LORONG 3/137C, JALAN KELANG LAMA, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "LYCOPERSICON ESCULENTUM (TOMATO)",
+    "ASCORBYL PALMITATE",
+    "L-CYSTEINE",
+    "COENZYME Q10 (UBIQUINONE)"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

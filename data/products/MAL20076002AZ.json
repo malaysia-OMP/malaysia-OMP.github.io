@@ -1,0 +1,111 @@
+{
+  "registration_no": "MAL20076002AZ",
+  "product_name": "SII PNEUMOSIL Pneumococcal Polysaccharide Conjugate Vaccine (Adsorbed) (10-Valent) SUSPENSION FOR INJECTION (SINGLE DOSE - 1 DOSE)",
+  "holder": "PHARMANIAGA LIFESCIENCE SDN. BHD.",
+  "holder_address": "LOT 7, JALAN PPU 3, TAMAN PERINDUSTRIAN PUCHONG UTAMA,, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "SERUM INSTITUTE OF INDIA PRIVATE LIMITED",
+  "manufacturer_address": "212/2 HADAPSAR, PUNE-411 028,, INDIA,",
+  "importer": "PHARMANIAGA LIFESCIENCE SDN. BHD.",
+  "importer_address": "LOT 7, JALAN PPU 3,, TAMAN PERINDUSTRIAN PUCHONG UTAMA,, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 1",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 5",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 9V",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 14",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 19A",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 19F",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 23F",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 7F",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 6A",
+    "PNEUMOCOCCAL POLYSACCHARIDE SEROTYPE 6B"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1 Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

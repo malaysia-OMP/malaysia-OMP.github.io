@@ -1,0 +1,106 @@
+{
+  "registration_no": "MAL05092327TC",
+  "product_name": "TOONG YIN THONG WATERMELON FROST COMPLEX POWDER",
+  "holder": "TJ-TYT PHARMACEUTICALS (M) SDN. BHD.",
+  "holder_address": "1 &amp; 3, PERSIARAN PERIND. PENGKALAN 12 \n, KAWASAN PERINDUSTRIAN PENGKALAN, 31500, LAHAT, MALAYSIA,",
+  "manufacturer": "TJ-TYT PHARMACEUTICALS (M) SDN. BHD.",
+  "manufacturer_address": "1 &amp; 3, PERSIARAN PERINDUSTRIAN PENGKALAN 12, KAWASAN PERINDUSTRIAN PENGKALAN, 31500, LAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Citrullus vulgaris",
+    "Polygonum tinctorium",
+    "Rhizoma Belamcanda Chinensis",
+    "BULBUS FRITILLARIAE CIRRHOSAE",
+    "Radix Glycyrrhiza glabra"
+  ],
+  "sku": [
+    {
+      "package_description": "2gm gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "3gm gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

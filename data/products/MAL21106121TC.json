@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL21106121TC",
+  "product_name": "TIAN FENG SIRAP BATUK DAN KAHAK",
+  "holder": "Y AND 5 SMART TRADING",
+  "holder_address": "35, PERSIARAAN WIRA JAYA TIMUR 25, , TAMAN GUNUNG VIEW, , 31350, IPOH , MALAYSIA,",
+  "manufacturer": "CHING CHING MEDICINE MANUFACTURER",
+  "manufacturer_address": "NO. 17, JLN SERI PAGI 3B, SEKSYEN BS3, BUKIT SENTOSA, 48300, RAWANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Cordyceps sinensis",
+    "Adenophora tetraphylla",
+    "Ganoderma lucidum",
+    "Fritillaria cirrhosa",
+    "Mentha haplocalyx",
+    "Platycodon grandiflorum",
+    "Stemona sessilifolia",
+    "Morus alba",
+    "Eriobotrya japonica",
+    "Cynanchum stauntonii"
+  ],
+  "sku": [
+    {
+      "package_description": "110 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 110,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

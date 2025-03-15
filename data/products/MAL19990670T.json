@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL19990670T",
+  "product_name": "PYP WEI-TAI GRANULES 16G",
+  "holder": "San Jiu Bio-Pharma Sdn. Bhd.",
+  "holder_address": "7-1-6, , JALAN KAMPAR BARAT 9,, TAMAN KAMPAR BARAT,, 31900, KAMPAR, MALAYSIA,",
+  "manufacturer": "SANJIU PHARMACEUTICAL CO,. LTD",
+  "manufacturer_address": "NO 1028, BEIHUAN AVENUE,\n, SHENZHEN, CHINA,",
+  "importer": "San Jiu Bio-Pharma Sdn. Bhd.",
+  "importer_address": "7-1-6, JALAN KAMPAR BARAT 9,, TAMAN KAMPAR BARAT,, 31900, KAMPAR, MALAYSIA,",
+  "active_ingredients": [
+    "Sugar",
+    "RADIX REHMANNIAE",
+    "Paeonia alba",
+    "RADIX AUCKLANDIAE",
+    "FOLIUM ET RAMULUS MURRAYAE",
+    "FOLIUM ET RAMULUS EVODIAE LEPTAE"
+  ],
+  "sku": [
+    {
+      "package_description": "12 x 16 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 192,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

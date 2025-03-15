@@ -1,0 +1,80 @@
+{
+  "registration_no": "MAL20040156T",
+  "product_name": "VARNADI KASHAYAM",
+  "holder": "AYUR CENTRE SDN. BHD.",
+  "holder_address": "NO. 8 JALAN UTARA, 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "ARYA VAIDYA PHARMACY (COIMBATORE) LTD",
+  "manufacturer_address": "THENNILAPURAM, \nALATHUR, \nPALAKKAD DISTRICT,, INDIA,",
+  "importer": "AYUR CENTRE SDN. BHD.",
+  "importer_address": "NO. 8 JALAN UTARA, 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Aegle marmelos",
+    "Moringa oleifera",
+    "Plumbago zeylanica",
+    "SOLANUM VIRGINIANUM RADIX",
+    "SEMECARPUS ANACARDIUM D4",
+    "RADIX SOLANUM ANGUIVI",
+    "PREMNA CORYMBOSA RADIX",
+    "PONGAMIA PINNATA RADIX",
+    "FRUCTUS TERMINALI CHEBULA RETZ",
+    "ECBOLIUM VIRIDE RADIX",
+    "DESMOSTACHYA ANACARDIUM RADIX",
+    "CRATAEVA MAGNA (BARK)",
+    "CHONEMORPHA FRAGRANS RADIX",
+    "ASPARAGUS RACEMOSUS (SHATAWAR)"
+  ],
+  "sku": [
+    {
+      "package_description": "200ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

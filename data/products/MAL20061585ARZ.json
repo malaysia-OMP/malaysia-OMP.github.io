@@ -1,0 +1,104 @@
+{
+  "registration_no": "MAL20061585ARZ",
+  "product_name": "Influvac Suspension for Injection",
+  "holder": "ABBOTT LABORATORIES (M) SDN. BHD.",
+  "holder_address": "27-02, LEVEL 27, IMAZIUM,, NO. 8, JALAN SS 21/37,, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Abbott Biologicals B.V.",
+  "manufacturer_address": "VEERWEG 12, 8121, NETHERLANDS,",
+  "importer": "ABBOTT LABORATORIES (M) SDN. BHD.",
+  "importer_address": "LEVEL 27-02, IMAZIUM, JALAN SS21/37, DAMANSARA UPTOWN, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "INACTIVATED INFLUENZA VACCINE TYPE A (A/NEW CALEDONIA/20/99 IVR-116 (H1N1)",
+    "INACTIVATED INFLUENZA VACCINE TYPE B (B/SHANGHAI/361/2002-LIKE (B/JIANGSU/10/2003)",
+    "INACTIVATED INFLUENZA VACCINE TYPE A (A/FUJIAN/411/2002(H3N2)-LIKE (A/WYOMING/3/2003 X-147 REASS)"
+  ],
+  "sku": [
+    {
+      "package_description": "1Units Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10Units Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

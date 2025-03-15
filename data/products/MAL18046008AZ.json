@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL18046008AZ",
+  "product_name": "Tresiba ® Flextouch® 200 U/mL Solution for Injection",
+  "holder": "NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD.",
+  "holder_address": "MENARA 1 SENTRUM, LEVEL 16, NO. 201, JALAN TUN SAMBATHAN, 50470, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "NOVO NORDISK A/S",
+  "manufacturer_address": "NOVO ALLE 1, BAGSVAERD, 2880, DENMARK,",
+  "importer": "NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD.",
+  "importer_address": "LEVEL 16, MENARA 1 SENTRUM,, NO. 201 JALAN TUN SAMBANTHAN, 50470, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Insulin Degludec"
+  ],
+  "sku": [
+    {
+      "package_description": "3 Pre-Filled Syringes",
+      "sku_unit": "Units",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

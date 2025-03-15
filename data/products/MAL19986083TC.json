@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL19986083TC",
+  "product_name": "JENGHIS ROYALE DELUXE",
+  "holder": "BARONET HOLDINGS (M) SDN. BHD.",
+  "holder_address": "LOT 1747, NO.12,  JALAN MEDAN RAMAH\n, HAPPY GARDEN, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "XIAN XINGLIN HEALTH CARE CO",
+  "manufacturer_address": "4,WEIQU XIHUAN ROAD, CHANGAN,710100 SHAANXI,, CHINA,",
+  "importer": "BARONET HOLDINGS (M) SDN. BHD.",
+  "importer_address": "LOT 1747, NO.12,  JALAN MEDAN RAMAH\n, HAPPY GARDEN, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "SEMEN CUSCUTAE",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PORIA COCOS WOLF",
+    "FRUCTUS PSORALEAE",
+    "FRUCTUS LYCII/LYCIUM CHINESE,MILL",
+    "CAULIS POLYGONI MULTIFLORI",
+    "ACHYRANTHES BIDENTATA RADIX"
+  ],
+  "sku": [
+    {
+      "package_description": "500ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

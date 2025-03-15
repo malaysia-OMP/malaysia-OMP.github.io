@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL15110097HA",
+  "product_name": "Sulfaprim 24% oral solution",
+  "holder": "F.E. VENTURE SDN. BHD.",
+  "holder_address": "LOT 3 &amp; 5, JALAN PJS11/8, BANDAR SUNWAY, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Fatro S.p.A",
+  "manufacturer_address": "OZZANO EMILIA VIA EMILIA, 285, ITALY,",
+  "importer": "F.E. VENTURE SDN. BHD.",
+  "importer_address": "LOT 3 &amp; 5, JALAN PJS 11/8, BANDAR SUNWAY, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SULFADIAZINE/SULPHADIAZINE",
+    "TRIMETHOPRIM"
+  ],
+  "sku": [
+    {
+      "package_description": "1.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,32 @@
+{
+  "registration_no": "MAL20172919NE",
+  "product_name": "RIPPLE FISH OIL WITH COQ10 SOFTGEL",
+  "holder": "ORIENT LABORATORIES SDN. BHD.",
+  "holder_address": "NO. 37, JALAN PS 3\n, TAMAN INDUSTRI PRIMA SELAYANG, 68100, BATU CAVES, MALAYSIA,",
+  "manufacturer": "ORIENT LABORATORIES SDN. BHD.",
+  "manufacturer_address": "NO. 37, JALAN PS 3, TAMAN INDUSTRI PRIMA SELAYANG, 68100, BATU CAVES, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "COENZYME Q10",
+    "FISH OIL"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

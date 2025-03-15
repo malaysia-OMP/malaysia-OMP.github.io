@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL20014201AZ",
+  "product_name": "SII DIPHTHERIA & TETANUS VACCINE ADSORBED (PEDIATRIC) 20 DOSE",
+  "holder": "SM PHARMACEUTICALS SDN. BHD.",
+  "holder_address": "LOT 88, \n, SUNGAI PETANI INDUSTRIAL ESTATE,, 08000, SUNGAI PETANI, MALAYSIA,",
+  "manufacturer": "SERUM INSTITUTE OF INDIA PRIVATE LIMITED",
+  "manufacturer_address": "212/2 HADAPSAR, PUNE-411 028,, INDIA,",
+  "importer": "SM PHARMACEUTICALS SDN. BHD.",
+  "importer_address": "LOT 88, \n, SUNGAI PETANI INDUSTRIAL ESTATE,, 08000, SUNGAI PETANI, MALAYSIA,",
+  "active_ingredients": [
+    "Tetanus Toxoid",
+    "DIPHTHERIA FORMOL TOXOID"
+  ],
+  "sku": [
+    {
+      "package_description": "10ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

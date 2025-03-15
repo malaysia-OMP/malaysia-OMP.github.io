@@ -1,0 +1,78 @@
+{
+  "registration_no": "MAL14015093T",
+  "product_name": "Zhen Nuo Ching Gan Jie Dwu Wan",
+  "holder": "Zenotec Pharma Sdn.bhd.",
+  "holder_address": "LEVEL 3-2-2, BLOK 3, PERSIARAN ANGGERIK VANILLA, KOTA KEMUNING, SEKSYEN 31, 40460, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "Quan Sheng Herbal pharmaceutical Co. Ltd",
+  "manufacturer_address": "93-22 SHIHLIN VILLAGE LIUYING DISTRICT, TAINAN,, TAIWAN,",
+  "importer": "Zenotec Pharma Sdn.bhd.",
+  "importer_address": "LEVEL 3-2-2, BLOK 3, PERSIARAN ANGGERIK VANILLA, KOTA KEMUNING, SEKSYEN 31, 40460, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "Angelica sinensis",
+    "Arctium lappa",
+    "Coptis chinensis",
+    "Forsythia suspensa",
+    "Glycyrrhiza uralensis",
+    "Mentha haplocalyx",
+    "Paeoniae rubra",
+    "Platycodon grandiflorum",
+    "Rehmannia Glutinosa",
+    "Saposhnikovia divaricata",
+    "Schizonepeta tenuifolia",
+    "Scutellaria baicalensis"
+  ],
+  "sku": [
+    {
+      "package_description": "300pil Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL19962533AZ",
+  "product_name": "EPREX PREFILLED SYRINGE 10000IU/ML",
+  "holder": "JOHNSON & JOHNSON SDN. BHD.",
+  "holder_address": "LEVEL 8, THE PINNACLE,, PERSIARAN LAGOON,, BANDAR SUNWAY,, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "CILAG AG",
+  "manufacturer_address": "HOCHSTRASSE 201, 8200 SCHAFFHAUSEN, SWITZERLAND,",
+  "importer": "JOHNSON & JOHNSON SDN. BHD.",
+  "importer_address": "LEVEL 8, THE PINNACLE,, PERSIARAN LAGOON, , BANDAR SUNWAY,, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Epoetin Alfa"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20122229TE",
+  "product_name": "TOUCHI-D 300MG",
+  "holder": "Reishilab Sdn Bhd",
+  "holder_address": "NO.5, JALAN P2/4\n, BANDAR TEKNOLOGI KAJANG, 43500, SEMENYIH, MALAYSIA,",
+  "manufacturer": "Reishilab Sdn Bhd",
+  "manufacturer_address": "NO. 5, JALAN P2/4, BANDAR TEKNOLOGI KAJANG, 43500, SEMENYIH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "GLYCINE MAX"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

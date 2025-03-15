@@ -1,0 +1,32 @@
+{
+  "registration_no": "MAL20172738N",
+  "product_name": "Grassroots of life KIDDO GUARD Powder",
+  "holder": "OMEGA HEALTH PRODUCTS SDN BHD",
+  "holder_address": "NO. 32,, JALAN MEGA A,, BANDAR TEKNOLOGI KAJANG,, 43500, SEMENYIH, MALAYSIA,",
+  "manufacturer": "OMEGA HEALTH PRODUCTS SDN BHD",
+  "manufacturer_address": "NO. 32, JALAN MEGA A,, BANDAR TEKNOLOGI KAJANG, 43500, SEMENYIH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "LACTOBACILLUS RHAMNOSUS",
+    "BIFIDOBACTERIUM LONGUM"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

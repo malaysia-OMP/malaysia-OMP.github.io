@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL23096100T",
+  "product_name": "Neuropassit Lozenges",
+  "holder": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "holder_address": "NO.28G,28-1 &amp;28-2 ,, PUSAT DAGANGAN PJCC, , JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PLETHICO LABORATORIES PVT. LTD",
+  "manufacturer_address": "PLOT NO. 90, G.I.D.C. CHITRA, BHAVNAGAR-364 004, GUJARAT, INDIA,",
+  "importer": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "importer_address": "NO.28G, 28-1 &amp; 28-2, PUSAT DAGANGAN PJCC, JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Centella asiatica",
+    "Celastrus paniculatus",
+    "Bacopa monnieri",
+    "Emblica officinalis",
+    "Valeriana wallichii"
+  ],
+  "sku": [
+    {
+      "package_description": "16 Lozenges",
+      "sku_unit": "Units",
+      "quantity_per_sku": 16,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

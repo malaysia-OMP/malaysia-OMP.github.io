@@ -1,0 +1,36 @@
+{
+  "registration_no": "MAL20091994TE",
+  "product_name": "SKY WHEAT",
+  "holder": "THE ORIGIN FOODS SDN. BHD.",
+  "holder_address": "LOT 1 JALAN INDUSTRI PBP 11\n, TAMAN PERINDUSTRIAN PUSAT BANDAR PUCHONG, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "THE ORIGIN FOODS SDN. BHD.",
+  "manufacturer_address": "LOT 1 JALAN INDUSTRI PBP 11, TAMAN PERINDUSTRIAN PUSAT BANDAR PUCHONG, 47100, PUCHONG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Wheatgrass Powder (Triticum Aestivum)",
+    "wheat powder",
+    "Soy Bean Powder",
+    "Natto Powder",
+    "Black Bean Extract",
+    "BARLEY POWDER (HORDEUM VULGARE)"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

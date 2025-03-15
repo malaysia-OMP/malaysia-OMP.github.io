@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL11070033HAR",
+  "product_name": "Trisulmix Liquide Solution for Oral use",
+  "holder": "Rhone Ma Malaysia Sdn Bhd",
+  "holder_address": "LOT 18A &amp; 18B,, JALAN 241,,  SEKSYEN 51A,, 46100, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Dopharma France",
+  "manufacturer_address": "23,RUE DU PRIEURE 44150 SAINT HERBLON VAIR SUR LOIRE , FRANCE,",
+  "importer": "Rhone Ma Malaysia Sdn Bhd",
+  "importer_address": "LOT 18A &amp; 18B, JALAN  241,, SEKSYEN 51A,, 46100, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SULFADIMETHOXINE SODIUM/SULPHADIMETHOXINE SODIUM",
+    "TRIMETHOPRIM"
+  ],
+  "sku": [
+    {
+      "package_description": "1000.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5000.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 5000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

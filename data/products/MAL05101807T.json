@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL05101807T",
+  "product_name": "Mistura Cu Chi Heji   500ml",
+  "holder": "SYARIKAT UBAT CINA CHONHUA (M) SDN. BHD.",
+  "holder_address": "74, JALAN MIDAH SATU\n, TAMAN MIDAH, 56000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "SHANTOU OLIVE PHARMACEUTICAL CO., LTD",
+  "manufacturer_address": "4 XI XIANG, CHAOSHAN ROAD\nSHANTOU,\n, CHINA,",
+  "importer": "SYARIKAT UBAT CINA CHONHUA (M) SDN. BHD.",
+  "importer_address": "74, JALAN MIDAH SATU, TAMAN MIDAH, 56000, CHERAS, MALAYSIA,",
+  "active_ingredients": [
+    "Rhizoma Pinellia ternate",
+    "RHIZOMA ATRACTYLODES LANCEA",
+    "Poria Cocos (Schw) Wolf",
+    "Pericarpium Citrus reticulata.",
+    "Radix Glycyrrhiza Uralensis",
+    "Herba Pogostemon cablin",
+    "Rhizoma Atractylodes Macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "500ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

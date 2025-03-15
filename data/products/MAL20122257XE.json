@@ -1,0 +1,36 @@
+{
+  "registration_no": "MAL20122257XE",
+  "product_name": "AFRICAN SEA COCONUT BRAND COUGH MIXTURE ( NEW HONG KONG FORMULA )",
+  "holder": "LUEN FOOK MEDICINE SDN. BHD",
+  "holder_address": "*NO. 6, JALAN SRI PLENTONG 5 \n, TAMAN PERINDUSTRIAN SRI PLENTONG, 81750, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "LUEN FOOK MEDICINE SDN. BHD",
+  "manufacturer_address": "NO.6, JALAN SRI PLENTONG 5, TAMAN PERINDUSTRIAN SRI PLENTONG,, 81750 , MASAI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "LIQUORICE LIQUID EXTRACT BP",
+    "Solution For Making Wild Cherry Syrup B.P. 1980",
+    "TOLUTANUS SYRUP BP",
+    "TINCTURE OF IPECACUANHA BP 1953",
+    "STRONG AMMONIUM ACETATE BP",
+    "SQUILL ELIXIR BP 1980"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

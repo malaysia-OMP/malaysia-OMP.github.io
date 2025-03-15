@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL24106098NC",
+  "product_name": "General Balance Lutein Zeaxanthin Complex Softgel",
+  "holder": "GCOOP MALAYSIA SDN. BHD.",
+  "holder_address": "NO 5, JALAN PPU 2A, TAMAN PERINDUSTRIAN PUCHONG UTAMA, , 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "Novarex Co., Ltd",
+  "manufacturer_address": "60, GAKRI 1-GIL, OCHANG-EUP, ., CHEONGWON-GU, CHEONGJU-SI,,  CHUNGBUK SOUTH KOREA, 28126, KOREA,SOUTH,",
+  "importer": "GCOOP MALAYSIA SDN. BHD.",
+  "importer_address": "NO.5, JALAN PPU 2A, TAMAN PERINDUSTRIAN PUCHONG UTAMA, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "ASCORBIC ACID (VITAMIN C)",
+    "SELENIUM YEAST",
+    "VITAMIN E (D-ALPHA TOCOPHEROL)",
+    "BETACAROTENE",
+    "RETINYL PALMITATE",
+    "ZINC OXIDE",
+    "PYRIDOXINE HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

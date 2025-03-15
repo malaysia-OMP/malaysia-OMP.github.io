@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL24086055T",
+  "product_name": "QNET Minyak Buah Merah Plus Coconut Oil",
+  "holder": "QNET (M) SDN. BHD.",
+  "holder_address": "LEVEL 2, QI TOWER, PJ8, NO.23, JALAN BARAT, SEKSYEN 8 , 46050, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT Sarakamandiri Semesta",
+  "manufacturer_address": "JL PANCASILA I CICADAS, GUNUNG PUTRI-BOGOR 16964, INDONESIA,",
+  "importer": "QNET (M) SDN. BHD.",
+  "importer_address": "LEVEL 2, QI TOWER, PJ8, NO.23, JALAN BARAT, SECTION 8 , 46050, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Cocos nucifera",
+    "Pandanus conoideus"
+  ],
+  "sku": [
+    {
+      "package_description": "250 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

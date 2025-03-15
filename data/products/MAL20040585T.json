@@ -1,0 +1,167 @@
+{
+  "registration_no": "MAL20040585T",
+  "product_name": "XIAO HE LING PIAN",
+  "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "1505, LORONG PERUSAHAAN UTAMA 1\n, TAMAN PERINDUSTRIAN BUKIT TENGAH, 14000, BUKIT MERTAJAM, MALAYSIA,",
+  "manufacturer": "PRIME PHARMACEUTICAL SDN. BHD.",
+  "manufacturer_address": "1505, LORONG PERUSAHAAN UTAMA 1, TAMAN PERINDUSTRIAN BUKIT TENGAH, 14000, BUKIT MERTAJAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Gypsum fibrosum",
+    "Taraxacum mongolicum",
+    "SCUTELLARIAE RADIX",
+    "SCHISANDRA CHINENSIS FRUCTUS",
+    "Rhizome alismatis",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA DIOSCOREAE",
+    "RHIZOMA COPTIDIS",
+    "RAMULUS LORANTHI",
+    "RADIX SCROPHULARIAE",
+    "Radix Salviae miltiorrhizae",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX REHMANNIAE",
+    "Paeonia alba",
+    "RADIX OPHIOPOGONIS/OPHIOPOGONIS TUBER",
+    "RADIX BUPLEURI",
+    "RADIX ASTRAGALI SEU HEDYSARI",
+    "radix angelica sinensis",
+    "RADIX ACHYRANTHIS BIDERTATAE",
+    "PUERARIAE RADIX",
+    "PORIA COCOS WOLF",
+    "POLYGONATUM SIBIRICUM RED",
+    "HERBA EPIMEDIUM BREVICORNUM",
+    "GLYCYRRHIZAE RADIX",
+    "FRUCTUS LYCII/LYCIUM CHINESE,MILL",
+    "FRUCTUS CORNI",
+    "EXT.DENDROBIUM NABILE LINDL",
+    "CORTEX MOUTAN RADICIS",
+    "COIX LACHRYMA-JOBI L",
+    "ATRACTYLODIS MACROCEPHALAE RADIX",
+    "ATRACTYLODES CHINENSIS"
+  ],
+  "sku": [
+    {
+      "package_description": "120Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "240Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 240,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1000 Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL23066027AZ",
+  "product_name": "FERASIRO 360 (Deferasirox Film-Coated Tablets 360mg)",
+  "holder": "GoodScience Sdn. Bhd.",
+  "holder_address": "NO.7, JALAN KPK 4/3, KAWASAN PERINDUSTRIAN KUNDANG, KUNDANG JAYA, 48020, RAWANG, MALAYSIA,",
+  "manufacturer": "MSN Laboratories Private Limited",
+  "manufacturer_address": "FORMULATIONS DIVISION, UNIT-II, SY. NO. 1277 &amp; 1319 TO 1324, NANDIGAMA (VILLAGE &amp; MANDAL), RANGAREDDY DISTRICT - 509228, TELANGANA, , INDIA,",
+  "importer": "GoodScience Sdn. Bhd.",
+  "importer_address": "NO. 7, JALAN KPK 4/3, KAWASAN PERINDUSTRIAN KUNDANG, KUNDANG JAYA, 48020, RAWANG, MALAYSIA,",
+  "active_ingredients": [
+    "DEFERASIROX"
+  ],
+  "sku": [
+    {
+      "package_description": "3 x 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

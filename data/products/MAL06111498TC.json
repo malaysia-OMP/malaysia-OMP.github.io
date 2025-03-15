@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL06111498TC",
+  "product_name": "Extrinn Tablets",
+  "holder": "Lifepharm Enterprise Sdn Bhd",
+  "holder_address": "NO.62, (1ST FLOOR), JALAN BAYU TINGGI 6/KS6, TAMAN BAYU TINGGI, 41200, KLANG, MALAYSIA,",
+  "manufacturer": "AMERI-KAL INC",
+  "manufacturer_address": "2350,WILBUR WAY AUBURN,\n, CALIFORNIA 95620, UNITED STATES,",
+  "importer": "Lifepharm Enterprise Sdn Bhd",
+  "importer_address": "NO.62, 1ST FLOOR, JALAN BAYU TINGGI 6/KS6, TAMAN BAYU TINGGI, 41200, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Rhamnus purshiana",
+    "Phaseolus vulgaris L.",
+    "Ilex paraguarensis extract",
+    "Gymnema sylvestres extract",
+    "GARCINIA CAMBOGIA EXTRACT",
+    "Chitosan",
+    "Camellia Sinensis Extract"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

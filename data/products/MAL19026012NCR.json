@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL19026012NCR",
+  "product_name": "Health Flower Shitake Mushroom Extract Plus Soft Capsules",
+  "holder": "CHINESE PATENT MEDICINES & MEDICATED LIQUORS CENTRE (PENANG) SDN. BHD.",
+  "holder_address": "16,, DATO KOYAH ROAD,, 10050, MALAYSIA,",
+  "manufacturer": "Food Plant of Fuji Capsule Co., Ltd.",
+  "manufacturer_address": "789 KAMIYUNO, FUJINOMIYA-SHI,, SHIZUOKA-KEN 419-0301, , JAPAN,",
+  "importer": "CHINESE PATENT MEDICINES & MEDICATED LIQUORS CENTRE (PENANG) SDN. BHD.",
+  "importer_address": "16, JALAN DATO KOYAH , 10050, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "LENTINULA EDODES (SHITAKE MUSHROOM) EXTRACT",
+    "FISH OIL"
+  ],
+  "sku": [
+    {
+      "package_description": "500 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

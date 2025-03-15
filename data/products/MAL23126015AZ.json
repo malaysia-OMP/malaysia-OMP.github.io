@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL23126015AZ",
+  "product_name": "Iodosol Sodium iodide (131I) 37-740 MBq/ml solution for injection",
+  "holder": "Medi Radio Malaysia Sdn Bhd",
+  "holder_address": "PLAZA MONT KIARA, E-13A-9, NO 2 JALAN KIARA, MONT KIARA,, 50480, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "National Centre for Nuclear Research",
+  "manufacturer_address": "ANDRZEJ SOłTANA 7 05-400 OTWOCK, , POLAND,",
+  "importer": "Medi Radio Malaysia Sdn Bhd",
+  "importer_address": "E-13A-9, PLAZA MONT KIARA, JALAN KIARA, MONT KIARA, 50480, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Sodium Iodide [131I]"
+  ],
+  "sku": [
+    {
+      "package_description": "1 (10ml) Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

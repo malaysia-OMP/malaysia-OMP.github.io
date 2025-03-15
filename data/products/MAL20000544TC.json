@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL20000544TC",
+  "product_name": "HU BE ZHEN ZHU HOU ZAO SAN (KIM LOONG BRAND) 3G",
+  "holder": "JIN LOONG ENTERPRISE SDN. BHD.",
+  "holder_address": "17, JALAN BUKIT KEMPAS 4\n, TAMAN BUKIT KEMPAS, 81200, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "S.H. UNIFLEX CHINESE MEDICAL FACTORY SDN BHD",
+  "manufacturer_address": "NO. 21A, JALAN LAMBAK\n, TAMAN JOHOR LIGHT INDUSTRIAL ESTATE, 81200, JOHOR BAHRU, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Succinum",
+    "RAMULUS UNCARIAE CUM UNCIS",
+    "RADIX ASTERIS",
+    "PLATYCODON GRANDIFLORUS DC RADIX",
+    "PERICARPIUM CITRI RETICULATAE",
+    "MARGARITA/PEARLS",
+    "GLYCYRRHIZA GLABRA RADIX/LIQUORICE ROOT",
+    "CALCULUS MACACAE MULATTAE",
+    "BULBUS FRITILLARIAE CIRRHOSAE"
+  ],
+  "sku": [
+    {
+      "package_description": "3gm1Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL10100040HA",
+  "product_name": "VALOSIN FG 50",
+  "holder": "ECO Animal Health Malaysia Sdn Bhd",
+  "holder_address": "MENARA MAXIS, 36TH FLOOR, KUALA LUMPUR CITY CENTRE, KUALA LUMPUR, MALAYSIA , 5088, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "COD BECK BLENDERS LIMITED",
+  "manufacturer_address": "COD BECK ESTATE, DALTON THIRSK, , NORTH YORKSHIRE, YO7 3HR,, UNITED KINGDOM,",
+  "importer": "Alpha Vet Sdn Bhd",
+  "importer_address": "12, JALAN INDUSTRI USJ 1/8 , TAMAN PERINDUSTRIAN USJ 1, 47600, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Tylvalosin Tartrate"
+  ],
+  "sku": [
+    {
+      "package_description": "20.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 5,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

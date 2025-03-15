@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL08032202AZ",
+  "product_name": "PYtest �(Carbon-14-Urea 1.0 microCurie Breath Test)",
+  "holder": "ALL EIGHTS (M) SDN BHD",
+  "holder_address": "45, JALAN TS 6/10A \n, SUBANG INDUSTRIAL PARK, 47610, SUBANG, MALAYSIA,",
+  "manufacturer": "Avent, Inc.",
+  "manufacturer_address": "6620 S. MEMORIAL PLACE,\nSUITE 100, TUCSON, ARIZONA 85756, UNITED STATES,",
+  "importer": "ALL EIGHTS (M) SDN BHD",
+  "importer_address": "45, JALAN TS 6/10A, SUBANG INDUSTRIAL PARK, 47610, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "14 C-Urea"
+  ],
+  "sku": [
+    {
+      "package_description": "1 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

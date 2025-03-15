@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL14035050ACZ",
+  "product_name": "XINCLAV 1.2g (Amoxicillin and Clavulanate potassium for Injection 1.2 g)",
+  "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+  "holder_address": "NO. 74-3,, JALAN WANGSA DELIMA 6, KLSC WANGSA MAJU, 53300, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Aurobindo Pharma Limited Unit XII",
+  "manufacturer_address": "SURVEY NO.314, BACHUPALLY (VILLAGE),, BACHUPALLY MANDAL, MEDCHAL MALKAJGIRI DISTRICT, HYDERABAD,, TELANGANA STATE, 500 090,, INDIA,",
+  "importer": "HEALOL PHARMACEUTICALS SDN. BHD.",
+  "importer_address": "NO. 74-3,, JALAN WANGSA DELIMA 6, KLSC WANGSA MAJU, 53300, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "AMOXYCILLIN SODIUM",
+    "POTASSIUM CLAVULANATE"
+  ],
+  "sku": [
+    {
+      "package_description": "1vial Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10  Vials",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

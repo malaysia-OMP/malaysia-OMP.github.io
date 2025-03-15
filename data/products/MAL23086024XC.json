@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL23086024XC",
+  "product_name": "Lac Joint Protec Complex Film Coated Tablet",
+  "holder": "LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD.",
+  "holder_address": "NO. 8, JALAN 6/91 \n, TAMAN SHAMELIN PERKASA\n, BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+  "manufacturer_address": "LOT 3, 5, 7, 12 &amp; 14, JALAN P/7, SECTION 13,, KAWASAN PERINDUSTRIAN BANDAR BARU BANGI, 43000, KAJANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "CHONDROITIN SULFATE SODIUM",
+    "METHYLSULFONYLMETHANE",
+    "Glucosamine hydrochloride"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

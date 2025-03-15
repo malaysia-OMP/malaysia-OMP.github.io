@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL05121302TCR",
+  "product_name": "Blackmores Ginkgo Brahmi Tablets",
+  "holder": "BLACKMORES (MALAYSIA) SDN. BHD.",
+  "holder_address": "UNIT NO. 7-05-01, LEVEL 5, TOWER 7,, UOA BUSINESS PARK, , NO.1, JALAN PENGATURCARA U1/51A, SECTION U1, , 40150, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "LIPA PHARM PTY LTD",
+  "manufacturer_address": "21,REAGH`S FARM ROAD, \nMINTO,NSW 2566,, AUSTRALIA,",
+  "importer": "BLACKMORES (MALAYSIA) SDN. BHD.",
+  "importer_address": "SUITE 2.02, BLOCK B\n, NO.10, JALAN BERSATU 13/4, 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Ginkgo biloba leaf ext. dry conc. stand.",
+    "EXTS. BACOPA MONNIERI"
+  ],
+  "sku": [
+    {
+      "package_description": "60Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL23086028AZ",
+  "product_name": "NABOTA Powder 100 Units for Solution for Injection",
+  "holder": "HYPHENS PHARMA SDN. BHD.",
+  "holder_address": "C- L2-01, BLOCK C, AXIS BUSINESS PARK, NO. 10, JALAN BERSATU 13/4,, 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "DAEWOONG PHARMACEUTICAL CO., LTD.",
+  "manufacturer_address": "35-14, JEYAKGONGDAN 4-GIL, HYANGNAM-EUP, HWASEONG-SI, GYEONGGI-DO, REPUBLIC OF KOREA, KOREA,SOUTH,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "CLOSTRIDIUM BOTULINUM TOXIN TYPE A"
+  ],
+  "sku": [
+    {
+      "package_description": "10 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

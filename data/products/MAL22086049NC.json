@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL22086049NC",
+  "product_name": "Life-Space Shape Bifidobacterium Animalis Subsp. Lactis B420 Plus Capsule",
+  "holder": "DOUBLE STRENGTH SDN. BHD.",
+  "holder_address": "11 &amp; 13, JALAN NAUTIKA B U20/B, SEKSYEN U20,, PUSAT KOMERSIL TSB (SUNGAI BULOH), 40160, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "Ferngrove Pharmaceuticals Australia  Pty Ltd",
+  "manufacturer_address": "5 FERNGROVE PLACE , SOUTH GRANVILLE, NSW 2142,, AUSTRALIA,",
+  "importer": "DOUBLE STRENGTH SDN. BHD.",
+  "importer_address": "NO.11G, JALAN NAUTIKA B U20/B,, PUSAT KOMERSIAL TSB,, SEKSYEN U20,, 40160, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "BIFIDOBACTERIUM ANIMALIS SUBSP. LACTIS",
+    "LACTOBACILLUS GASSERI"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

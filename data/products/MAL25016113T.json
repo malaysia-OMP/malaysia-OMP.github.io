@@ -1,0 +1,116 @@
+{
+  "registration_no": "MAL25016113T",
+  "product_name": "ZBT 990 JD Capsule",
+  "holder": "ZBT FAR EAST SDN. BHD.",
+  "holder_address": "NO. 115, BLOK P/B \n, TAMAN CHERAS, OFF JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Shaanxi Buchang Pharmaceutical Co., Ltd.",
+  "manufacturer_address": "NO. 16 BUCHANG ROAD, QINDU, XIANYANG, SHAANXI PROVINCE,, CHINA,",
+  "importer": "ZBT FAR EAST SDN. BHD.",
+  "importer_address": "NO. 115, BLOK P/B \n, TAMAN CHERAS, OFF JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Rubia cordifolia",
+    "Smilax glabra",
+    "Rubia cordifolia",
+    "Smilax glabra",
+    "Hedyotis diffusa",
+    "Menispermum dauricum",
+    "Polygonum bistorta",
+    "Artemisia capillaris",
+    "Imperata cylindrica",
+    "Polygonum cuspidatum",
+    "Epimedium brevicornum",
+    "Glycyrrhiza uralensis",
+    "Bombyx mori",
+    "Chrysanthemum indicum",
+    "Citrus reticulata"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "300 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,35 @@
+{
+  "registration_no": "MAL20172955NC",
+  "product_name": "FIXU",
+  "holder": "Bio Formula Sdn Bhd",
+  "holder_address": "31, JALAN POLIS U1/55, TEMASYA SURIA GLENMARIE, 47050, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "NUTROGREEN HEALTH INDUSTRIES SDN BHD",
+  "manufacturer_address": "NO. 36 &amp; 37, JALAN TJ 1/4A, KAWASAN INDUSTRI TUANKU JAAFAR 1, 71450, SUNGAI GADUT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Retinyl Acetate (Vitamin A)",
+    "ZINC GLUCONATE",
+    "ASCORBIC ACID (VITAMIN C)",
+    "L-GLUTAMINE",
+    "L-ORNITHINE MONOHYDROCHLORIDE"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

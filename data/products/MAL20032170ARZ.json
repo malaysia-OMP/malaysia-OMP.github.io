@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20032170ARZ",
+  "product_name": "FANHDI 1000IU",
+  "holder": "GRIFOLS MALAYSIA SDN. BHD.",
+  "holder_address": "SUITE 12-8, THE OFFICE CLUB,  LEVEL 12, MENARA MUDAJAYA,  NO. 12A, JALAN PJU 7/3,  MUTIARA DAMANSARA,, 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "INSTITUTO GRIFOLS S.A.",
+  "manufacturer_address": "POLIGONO LEVANTE-C/CAN GUASCH 2,\n08150 PARETS DEL VALLES,\nBARCELONA,, SPAIN,",
+  "importer": "GRIFOLS MALAYSIA SDN. BHD.",
+  "importer_address": "SUITE 12-8, THE OFFICE CLUB,, LEVEL 12 , MENARA MUDAJAYA,, NO. 12A, JALAN PJU 7/3, MUTIARA DAMANSARA, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "FACTOR VIII/ANTIHAEMOPHILIC FACTOR/AHF"
+  ],
+  "sku": [
+    {
+      "package_description": "500Units Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

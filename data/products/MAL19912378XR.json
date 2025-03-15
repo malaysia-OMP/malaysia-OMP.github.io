@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL19912378XR",
+  "product_name": "EGODERM OINTMENT",
+  "holder": "EGO PHARM MALAYSIA SDN. BHD.",
+  "holder_address": "1-6, BLOCK A,, JAYA ONE,, 72A JLN PROF DIRAJA UNGKU AZIZ,, 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "EGO PHARM PTY LTD",
+  "manufacturer_address": "21-31,MALCOLM ROAD, BRAESIDE,VICTORIA 3195,, AUSTRALIA,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "Ichthammol"
+  ],
+  "sku": [
+    {
+      "package_description": "25gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

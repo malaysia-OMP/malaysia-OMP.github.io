@@ -1,0 +1,123 @@
+{
+  "registration_no": "MAL19986565T",
+  "product_name": "YANG SHENG CHIEW",
+  "holder": "HAI-O ENTERPRISE BERHAD",
+  "holder_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "XI XIA COUNTY WINE FTY",
+  "manufacturer_address": "LIAN HUA SI GANG, XI XA COUNTY, HENAN PROVINCE,, CHINA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "CORTEX EUCOMMIAE",
+    "SYZGIUM AROMATICUM",
+    "SEMEN CUSCUTAE",
+    "RHIZOMA SEU RADIX NOTOPTERYGII",
+    "RHIZOMA POLYGONATI",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX POLYGONI MULTIFLORI",
+    "RADIX PAEONIAE RUBRA",
+    "RADIX GINSENG",
+    "RADIX CODONOPSIS PILOSULAE",
+    "RADIX ASTRAGALI",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "MORINDAE OFFICINALIS RADIX",
+    "HERBA DENDROBII",
+    "HERBA CISTANCHIS",
+    "FRUCTUS CORNI",
+    "FLOS CARTHAMI",
+    "CORTEX ACANTHOPANACIS RADICIS",
+    "CINNAMOMI FRUCTUS",
+    "Radix Achyranthis Bidentatae",
+    "Fructus Lycii",
+    "Radix Curcumae"
+  ],
+  "sku": [
+    {
+      "package_description": "750ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 750,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1000ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

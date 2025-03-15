@@ -1,0 +1,98 @@
+{
+  "registration_no": "MAL20020608T",
+  "product_name": "CHANGYU BRAND TZEPAO SANPIEN JIU",
+  "holder": "HAI-O ENTERPRISE BERHAD",
+  "holder_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "YANTAI ZHONGYA PHARM CO LTD",
+  "manufacturer_address": "NO.106,BAISHI ROAD, YANTAI CITY, SHANDONG,, CHINA,",
+  "importer": "HAI-O ENTERPRISE BERHAD",
+  "importer_address": "WISMA HAI-O, LOT 11995, \n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Astragalus membranaceus",
+    "Polygonum multiflorum",
+    "OS DRACONIS",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX REHMANNIAE GLUTINOSA",
+    "RADIX PAEONIAE LACTIFLORAE",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PORIA COCOS WOLF",
+    "POLYGALAE TENUIFOLIA RADIX",
+    "PANAX GINSENG RADIX EXTRACT",
+    "PAEONIA SUFFRUTICOSA CORTEX",
+    "OOTHECA MANTIDIS",
+    "MORINDAE OFFICINALIS RADIX",
+    "LYCIUM BARBARUM FRUCTUS",
+    "LIGNUM AQUILARIAE SINENSIS",
+    "HIPPOCAMPUS KELLOGN JORDAN",
+    "HERBA EPIMEDIUM BREVICORNUM",
+    "HERBA CISTANCHES DESERTICOLA",
+    "GECKO LINNAEUS GAKKONIDAE",
+    "FRUCTUS RUBUS CHINGII",
+    "FRUCTUS PSORALEAE",
+    "FRUCTUS FOENICULUM VULGARE",
+    "FRUCTUS CORNUS OFFICINALIS",
+    "EUCOMMIA ULMMOIDES",
+    "DIOSCOREAE OPPOSITA RHIZOMA",
+    "CUSCUTA CHINENSIS SEMEN",
+    "CORTEX CINNAMOMUM CASSIA",
+    "CORNU CERVUS NIPPON",
+    "ATRACTYLODES MACROCEPHALA RHIZOMA",
+    "ALISMATIS ORIENTALE RHIZOMA",
+    "ACHYRANTHES BIDENTATA RADIX",
+    "ACORUS GRAMINEUS RHIZOMA"
+  ],
+  "sku": [
+    {
+      "package_description": "500ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

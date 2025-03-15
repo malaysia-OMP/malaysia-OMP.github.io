@@ -1,0 +1,78 @@
+{
+  "registration_no": "MAL24126082NC",
+  "product_name": "NATURALLY PLUS S.LUTEIN MIRTOPLUS WITH CAROTENOID COMPLEX SOFTGELS",
+  "holder": "Naturally Plus Malaysia Sdn. Bhd.",
+  "holder_address": "UNIT 5.02, 5TH FLOOR, MENARA MULTI-PURPOSE, CAPITAL SQUARE,, NO.8, JALAN MUNSHI ABDULLAH, 50100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Aliment Industry Co. Ltd.",
+  "manufacturer_address": "NO. 7764 NANBU, NANBU-CHO, MINAMIKOMA-GUN,, YAMANASHI, 409-2212, JAPAN,",
+  "importer": "Naturally Plus Malaysia Sdn. Bhd.",
+  "importer_address": "UNIT 5.02, 5TH FLOOR, MENARA MULTI-PURPOSE, CAPITAL SQUARE,, NO.8, JALAN MUNSHI ABDULLAH, 50100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "FISH OIL",
+    "LUTEIN",
+    "ELAEIS GUINEENSIS (PALM) OIL EXTRACT",
+    "VACCINIUM MYRTILLUS FRUIT EXTRACT (BILBERRY)",
+    "BLACKCURRANT FRUIT EXTRACT (RIBES NIGRUM)",
+    "PINE BARK EXTRACT (PINUS PINASTER)",
+    "LYCOPERSICUM ESCULENTUM (TOMATO) FRUIT EXTRACT",
+    "HAEMATOCOCCUS PLUVIALIS EXTRACT",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "THIAMINE HYDROCHLORIDE",
+    "RIBOFLAVIN",
+    "VITAMIN E (D-ALPHA TOCOPHEROL)"
+  ],
+  "sku": [
+    {
+      "package_description": "120 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

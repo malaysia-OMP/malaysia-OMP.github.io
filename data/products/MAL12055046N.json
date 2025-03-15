@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL12055046N",
+  "product_name": "Melaleuca FLORIFY",
+  "holder": "Melaleuca Southeast Asia (malaysia) Sdn. Bhd.",
+  "holder_address": "UNIT B-10-3A &amp; 5, LEVEL 10, MENARA UOA BANGSAR, NO.5, JALAN BANGSAR UTAMA 1, 59000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Melaleuca Inc",
+  "manufacturer_address": "3910 SOUTH YELLOWSTONE HIGHWAY,, IDAHO FALLS IDAHO, 83402, UNITED STATES,",
+  "importer": "Melaleuca Southeast Asia (malaysia) Sdn. Bhd.",
+  "importer_address": "UNIT B-10-3A &amp; 5, LEVEL 10, MENARA UOA BANGSAR, NO.5, JALAN BANGSAR UTAMA 1 , 59000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "BIFIDOBACTERIUM LACTIS",
+    "FRUCTOOLIGOSACCHARIDES",
+    "LACTOBACILLUS ACIDOPHILUS"
+  ],
+  "sku": [
+    {
+      "package_description": "30capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

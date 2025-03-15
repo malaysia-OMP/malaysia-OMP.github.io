@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20031753ARZ",
+  "product_name": "HUMAN ALBUMIN GRIFOLS 20%/50ML",
+  "holder": "GRIFOLS MALAYSIA SDN. BHD.",
+  "holder_address": "SUITE 12-8, THE OFFICE CLUB,  LEVEL 12, MENARA MUDAJAYA,  NO. 12A, JALAN PJU 7/3,  MUTIARA DAMANSARA,, 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "INSTITUTO GRIFOLS S.A.",
+  "manufacturer_address": "POLIGONO LEVANTE-C/CAN GUASCH 2,\n08150 PARETS DEL VALLES,\nBARCELONA,, SPAIN,",
+  "importer": "GRIFOLS MALAYSIA SDN. BHD.",
+  "importer_address": "SUITE 12-8, THE OFFICE CLUB,, LEVEL 12 , MENARA MUDAJAYA,, NO. 12A, JALAN PJU 7/3, MUTIARA DAMANSARA, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "ALBUMIN HUMAN"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL10080119T",
+  "product_name": "Honey Mart Bee Pollen Tablets",
+  "holder": "VISTERN HEALTH SDN BHD",
+  "holder_address": "L2-01 &amp; L2-02, 2ND FLOOR, SHAW PARADE,,  NO. 152, CHANGKAT THAMBI DOLLAH , 55100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Bee Products Industry Co., Ltd",
+  "manufacturer_address": "190, MOO 21, TAMBON MA-KHUR JAE, AMPHOE MUANG, LAMPHUN, 51150, THAILAND,",
+  "importer": "VISTERN HEALTH SDN BHD",
+  "importer_address": "L2-01 &amp; L2-02, 2ND FLOOR, SHAW PARADE, NO. 152, CHANGKAT THAMBI DOLLAH, 55100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "BEE POLLEN"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

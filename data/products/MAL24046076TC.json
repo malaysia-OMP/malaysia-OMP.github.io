@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL24046076TC",
+  "product_name": "HR-IF Capsule",
+  "holder": "ALPHANUTRITION WELLNESS SDN. BHD",
+  "holder_address": "D-2-51,BLOCK DAHLIA, 10 BOULEVARD,KAYU ARA, LEBUHRAYA SPRINT, PJU 6A, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "EXCEL HERBAL INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "NO. 48 &amp; 49, JALAN VELOX 2, TAMAN VELOX, RAWANG INDUSTRIAL PARK, 48000, RAWANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Ananas comosus",
+    "Piper nigrum",
+    "Boswellia serrata",
+    "Capsicum annuum",
+    "Syzygium aromaticum",
+    "Cissus quadrangularis L.",
+    "Curcuma longa",
+    "Allium cepa",
+    "Zingiber officinale"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

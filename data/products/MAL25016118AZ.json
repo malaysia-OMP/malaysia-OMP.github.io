@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL25016118AZ",
+  "product_name": "Basalin ElasPen 100 Units/mL Solution for Injection",
+  "holder": "PHARMANIAGA LIFESCIENCE SDN. BHD.",
+  "holder_address": "LOT 7, JALAN PPU 3, TAMAN PERINDUSTRIAN PUCHONG UTAMA,, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "Gan & Lee Pharmaceuticals",
+  "manufacturer_address": "NO.8 NANFENG WEST FIRST ROAD, , TONGZHOU DISTRICT, HUOXIAN TOWN, , BEIJING, 101109,, CHINA,",
+  "importer": "PHARMANIAGA LIFESCIENCE SDN. BHD.",
+  "importer_address": "LOT 7, JALAN PPU 3,, TAMAN PERINDUSTRIAN PUCHONG UTAMA,, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Insulin Glargine"
+  ],
+  "sku": [
+    {
+      "package_description": "1  Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

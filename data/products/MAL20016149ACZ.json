@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20016149ACZ",
+  "product_name": "Hovid Entecavir Tablets 0.5mg",
+  "holder": "HOVID BERHAD",
+  "holder_address": "121, JALAN TUNKU ABDUL RAHMAN \n, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "manufacturer": "Cohance Lifesciences Limited",
+  "manufacturer_address": "FDF UNIT-I PLOT NO. A-19/C, A-23A &amp; A-23B, ROAD NO. 18, IDA, NACHARAM VILLAGE, UPPAL MANDAL, MEDCHAL- MALKAJGIRI DISTRICT-500076 TELANGANA STATE, INDIA,",
+  "importer": "HOVID BERHAD",
+  "importer_address": "121, JALAN TUNKU ABDUL RAHMAN, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "active_ingredients": [
+    "ENTECAVIR MONOHYDRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL23106118T",
+  "product_name": "Mama`s Choice Postnatal Care Capsule",
+  "holder": "MAMAC (MALAYSIA)",
+  "holder_address": "SUITE 50-03-11, LEVEL 3 WISMA UOA DAMANSARA, , NO. 50, JALAN DUNGUN DAMANSARA HEIGHTS, , 50490, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "PT. Agaricus Sido Makmur Sentosa",
+  "manufacturer_address": "JL. INSPEKTUR POLISI SOEWOTO NO. 5-8 BEDALI LAWANG, KAB. MALANG, KELURAHAN BEDALI, KECAMATAN LAWANG, KABUPATEN MALANG, PROVINSI JAWA TIMUR, INDONESIA,",
+  "importer": "MAMAC (MALAYSIA)",
+  "importer_address": "UNIT 18A, 3A-01A, GLO DAMANSARA MALL,  699, , JALAN DAMANSARA,  TAMAN TUN DR ISMAIL,, 60000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Sauropus androgynus",
+    "Foeniculum vulgare",
+    "Trigonella foenum-graecum",
+    "Moringa oleifera",
+    "Prunus amygdalus",
+    "Glycine max"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

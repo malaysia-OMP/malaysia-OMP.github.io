@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL12055028AZ",
+  "product_name": "Montelair 5mg Chewable Tablet",
+  "holder": "HOVID BERHAD",
+  "holder_address": "121, JALAN TUNKU ABDUL RAHMAN \n, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "manufacturer": "HOVID BERHAD",
+  "manufacturer_address": "LOT 56442, 7 1/2 MILES\n, JALAN IPOH/CHEMOR, 31200, CHEMOR, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "MONTELUKAST SODIUM"
+  ],
+  "sku": [
+    {
+      "package_description": "30tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

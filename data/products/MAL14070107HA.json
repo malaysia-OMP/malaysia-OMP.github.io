@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL14070107HA",
+  "product_name": "Alamycin 100mg/ml Solution for Injection.",
+  "holder": "Borneosew Medical Trading (M) Sdn Bhd",
+  "holder_address": "57 JALAN SS 18/6,, 47500, SUBANG JAYA,",
+  "manufacturer": "Norbrook Laboratories Limited",
+  "manufacturer_address": "STATION WORKS, CAMLOUGH ROAD,, NEWRY,, COUNTY DOWN,, BT35 6JP, UNITED KINGDOM,",
+  "importer": "Borneosew Medical Trading (M) Sdn Bhd",
+  "importer_address": "NO 57, JALAN SS 18/6, 47500, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "OXYTETRACYCLINE HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "100.00 mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

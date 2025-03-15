@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL23026001ACZ",
+  "product_name": "Lokelma 5g Powder for Oral Suspension",
+  "holder": "ASTRAZENECA SDN. BHD.",
+  "holder_address": "LEVEL 11 &amp; 12, THE BOUSTEADOR,, NO. 10, JALAN PJU 7/6,, MUTIARA DAMANSARA,, 47800, PETALING JAYA, MALAYSIA,",
+  "manufacturer": ": AndersonBrecon Inc.",
+  "manufacturer_address": "4545 ASSEMBLY DRIVE ROCKFORD, IL 61109, UNITED STATES,",
+  "importer": "ASTRAZENECA SDN. BHD.",
+  "importer_address": "LEVEL 11 &amp; 12, THE BOUSTEADOR, NO. 10, JALAN PJU 7/6, MUTIARA DAMANSARA, 47800, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Sodium Zirconium Cyclosilicate"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "3 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

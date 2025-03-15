@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL24046108TC",
+  "product_name": "New Origin Deer Velvet & Ginseng Plus Pill",
+  "holder": "BEAUTE MORI SDN BHD",
+  "holder_address": "NO. 8, JALAN 51A/225A, PJCT, SECTION 51A,, 46100, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "The Wooree Bio co., LTd.",
+  "manufacturer_address": "79, SEONGGOK-RO, DANWON-GU, ANSAN-SI, GYEONGGI-DO, KOREA,SOUTH,",
+  "importer": "BEAUTE MORI SDN BHD",
+  "importer_address": "NO. 8, JALAN 51A/225A, ZON PERINDUSTRIAN PJCT, SEKSYEN 51A, 46100, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Cervus nippon",
+    "Panax ginseng",
+    "Rehmannia Glutinosa",
+    "Asparagus cochinchinensis",
+    "Achyranthes bidentata",
+    "Cuscuta chinensis",
+    "Angelica gigas",
+    "Polygala tenuifolia",
+    "Schisandra chinensis",
+    "Rubus idaeus",
+    "Lycium chinense",
+    "Poria cocos",
+    "Foeniculum vulgare"
+  ],
+  "sku": [
+    {
+      "package_description": "15 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

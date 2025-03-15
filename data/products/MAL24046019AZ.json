@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL24046019AZ",
+  "product_name": "AMLOTEL 5MG + 80MG TABLETS",
+  "holder": "GENPHARMA SDN. BHD",
+  "holder_address": "LOT 5016 JALAN TERATAI,, 5 1/2 MILE OFF JALAN MERU,, 41050, KLANG, MALAYSIA,",
+  "manufacturer": "Alembic Pharmaceuticals Limited",
+  "manufacturer_address": "ALEMBIC PHARMACEUTICALS LIMITED. FORMULATION DIVISION, VILLAGE PANELAV, P.O. TAJPURA, NEAR BASKA, TALUKA HALOL, PANCHMAHAL, GUJARAT-389350, INDIA,",
+  "importer": "PAHANG PHARMACY SDN. BHD.",
+  "importer_address": "LOT 5016, JALAN TERATAI, 5 1/2 MILE OFF JALAN MERU , 41050 , KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "TELMISARTAN",
+    "AMLODIPINE BESYLATE"
+  ],
+  "sku": [
+    {
+      "package_description": "7 x 14  Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 98,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 X 14 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 28,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

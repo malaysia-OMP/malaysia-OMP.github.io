@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20162627HAC",
+  "product_name": "Timecox 200 Sol Tilmicosin 200g/L",
+  "holder": "Lim Seng Pharmachem Sdn Bhd",
+  "holder_address": "2692, TINGKAT PERUSAHAAN ENAM, KAWASAN PERUSAHAAN  PERAI MK1, 13600, SEBERANG PERAI, MALAYSIA,",
+  "manufacturer": "Thye Pharma Sdn. Bhd",
+  "manufacturer_address": "NO 2, LORONG INDUSTRI RINGAN PERMATANG TINGGI 8, KAWASAN INDUSTRI RINGAN PERMATANG TINGGI,, 14000, BUKIT MERTAJAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "TILMICOSIN"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

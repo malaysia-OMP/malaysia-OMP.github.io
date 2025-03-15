@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20086115T",
+  "product_name": "VOLTEN VR4 CAPSULE",
+  "holder": "VOLTEN ASIAEMALL SDN BHD",
+  "holder_address": "24,, JALAN NILAM 1/1,, TAMAN TEKNOLOGI TINGGI, SUBANG, 40000, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "VOLTEN ASIAEMALL SDN BHD",
+  "manufacturer_address": "24, JALAN NILAM 1/1, TAMAN TEKNOLOGI TINGGI SUBANG, 40000, SHAH ALAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Kaempferia parviflora"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

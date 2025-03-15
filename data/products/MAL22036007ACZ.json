@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL22036007ACZ",
+  "product_name": "BLOPRESS TABLET 8MG",
+  "holder": "CELLTRION HEALTHCARE MALAYSIA SDN. BHD.",
+  "holder_address": "UNIT 32-01, LEVEL 32 TOWER B,, THE VERTICAL CORPORATE TOWER, AVENUE 10,, BANGSAR SOUTH, NO. 8, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Delpharm Novara S.r.l",
+  "manufacturer_address": "VIA CROSA 86,, 28065 CERANO (NO), , ITALY,",
+  "importer": "CELLTRION HEALTHCARE MALAYSIA SDN. BHD.",
+  "importer_address": "ROOM 3298 &amp; 32102, UNIT 32-01, LEVEL 32, TOWER B, THE VERTICAL CORPORATE TOWER, AVENUE 10, BANGSAR SOUTH, NO. 8, JALAN KERINCHI , 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "CANDESARTAN CILEXETIL"
+  ],
+  "sku": [
+    {
+      "package_description": "28 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 28,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

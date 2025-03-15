@@ -1,0 +1,122 @@
+{
+  "registration_no": "MAL04050536T",
+  "product_name": "DYNA HUO LUO WAN (TABLET)",
+  "holder": "DYNAPHARM HERBAL (M) SDN. BHD.",
+  "holder_address": "LOT 4823, MK. 1, LORONG PERUSAHAAN BARU 5,\n, KAWASAN PERUSAHAAN PERAI 3, 13600, PERAI, MALAYSIA,",
+  "manufacturer": "DYNAPHARM HERBAL (M) SDN. BHD.",
+  "manufacturer_address": "LOT 4823, MK. 1, LORONG PERUSAHAAN BARU 5,\n, KAWASAN PERUSAHAAN PERAI 3, 13600, PERAI, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Rhizoma Drynariae fortunei",
+    "RHIZOMA ATRACTYLODES LANCEA",
+    "Radix Salvia Miltiorrhizae",
+    "radix rehmannia glutinosa",
+    "Radix Panax Noto ginseng",
+    "radix paeonia lactiflora",
+    "radix angelica sinensis",
+    "PORIA COCOS WOLF",
+    "CYPERUS ROTUNDUS RHIZOME",
+    "CORTEX CINNAMOMUM CASSIA",
+    "Citrus reticulata Pericarpium",
+    "Lignum Aquilaria sinensis",
+    "Flos Eugenia caryophyllata",
+    "Radix Glycyrrhiza glabra",
+    "Radix Angelica pubescens",
+    "Radix Ledebouriella divaricata",
+    "Resina Boswellia carterii",
+    "Radix Polygonum multiflorum",
+    "RADIX PUERARIA LOBATA",
+    "Resina Commiphora myrrha",
+    "Rhizoma Arisaema heterophyllum"
+  ],
+  "sku": [
+    {
+      "package_description": "250 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 250,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2 x 10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

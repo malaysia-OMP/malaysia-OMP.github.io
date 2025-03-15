@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24106026AZ",
+  "product_name": "CAPLIPROST - Carboprost Solution for Injection USP 250 mcg/mL",
+  "holder": "UNIMED SDN. BHD.",
+  "holder_address": "53, JALAN TEMBAGA SD 5/2B,, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Caplin Steriles Limited",
+  "manufacturer_address": "SURVEY NO 895 &amp; 897, GURUVARAJA KANDIGAI VILLAGE,  SIRUPUZHALPETTAI POST, GUMMIDIPOONDI TALUK,  THIRUVALLUR DISTRICT, 601201, INDIA,",
+  "importer": "UNIMED SDN. BHD.",
+  "importer_address": "NO. 53, JALAN TEMBAGA SD5/2B, BANDAR SRI DAMANSARA, 52200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Carboprost Tromethamine"
+  ],
+  "sku": [
+    {
+      "package_description": "1 mL X 10 Vials",
+      "sku_unit": "mL",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

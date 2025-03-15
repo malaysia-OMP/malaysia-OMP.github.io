@@ -1,0 +1,108 @@
+{
+  "registration_no": "MAL19987682T",
+  "product_name": "COMPOUND WATERMELON FROST",
+  "holder": "KAHONG SDN. BHD.",
+  "holder_address": "LOT 1316, JALAN TENUN,, OFF JALAN TENAGA,, PENDING INDUSTRIAL ESTATE,, 93450, KUCHING, MALAYSIA,",
+  "manufacturer": "GUILIN SANJIN PHARMA CO LTD",
+  "manufacturer_address": "NO.1,GOLD STAR ROAD, \n(JINXING ROAD), \nGUILIN,GUANGXI,, CHINA,",
+  "importer": "KAHONG SDN. BHD.",
+  "importer_address": "LOT 1316, JALAN TENUN OFF JALAN TENAGA, PENDING INDUSTRIAL ESTATE, 93450, KUCHING, MALAYSIA,",
+  "active_ingredients": [
+    "Sophora subprostrata",
+    "INDIGO NATURALIS",
+    "WATER MELON FROST",
+    "RHIZOMA BELAMCANDAE",
+    "PEPPERMINT",
+    "GLYCYRRHIZAE RADIX",
+    "FRITILLARIAE BULBUS"
+  ],
+  "sku": [
+    {
+      "package_description": "3gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "2gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

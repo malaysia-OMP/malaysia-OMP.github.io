@@ -1,0 +1,78 @@
+{
+  "registration_no": "MAL20112134T",
+  "product_name": "PAK YUEN TONG LINGCHIH, GINSENG ANTLER PAI FENG WAN",
+  "holder": "WENG THYE HENG SDN. BHD.",
+  "holder_address": "16/18,,  LEBUH CHULIA,, 10200, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "KWAN TUNG PAK YUEN TONG (LING YOK TACK HING TONG) UNION MEDICINE FACTORY LTD.",
+  "manufacturer_address": "RM 1910, HARBOUR INDUSTRIAL CENTRE, NO. 10 LEE HENG STREET, LEE LAM ROAD, AP LEI CHAU,, HONG KONG,",
+  "importer": "WENG THYE HENG SDN. BHD.",
+  "importer_address": "16/18, LEBUH CHULIA,, 10200, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "COLLA CORII ASINI",
+    "Rhizoma Ligusticum chuanxiong.",
+    "RADIX REHMANNIAE PREPARATA",
+    "Radix Astragali  Membranaceus",
+    "RADIX ANGELICAE SENENSIS",
+    "Radix  Panax Ginseng",
+    "Margarita (Hyriopsis Pearl)",
+    "Ganoderma  lucidum",
+    "ESSENCE OF CHICKEN POWDER",
+    "Cortex Eucommia Ulmoides.",
+    "CORDYCEP SINENSIS",
+    "CERVUS NIPPON TEMMINCK"
+  ],
+  "sku": [
+    {
+      "package_description": "12gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

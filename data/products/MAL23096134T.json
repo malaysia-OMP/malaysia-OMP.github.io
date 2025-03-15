@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL23096134T",
+  "product_name": "TOTAL HEPANAMIN CAPSULE",
+  "holder": "TS GLOBAL DISTRIBUTION SDN. BHD.",
+  "holder_address": "L3-E-6, ENTERPRISE 4, TECHNOLOGY PARK MALAYSIA,, LEBUHRAYA PUCHONG SUNGAI BESI,, BUKIT JALIL, 57000, SUNGAI BESI, MALAYSIA,",
+  "manufacturer": "G&E HERBAL BIOTECHNOLOGY C0. LTD.",
+  "manufacturer_address": "NO. 92, KEJI 5TH RD., ANNAN DIST., TAINAN CITY, 709015, TAIWAN,",
+  "importer": "TS GLOBAL DISTRIBUTION SDN. BHD.",
+  "importer_address": "L3-E-6, HIVE 5, ENTERPRISE 4 , LEBUHRAYA BUKIT JALIL,  TAMAN TEKNOLOGI MALAYSIA , 57000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Silybum marianum"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

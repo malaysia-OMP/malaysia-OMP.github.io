@@ -1,0 +1,87 @@
+{
+  "registration_no": "MAL15045093N",
+  "product_name": "FLORDIS Madrena Tablet",
+  "holder": "DELFI MARKETING SDN.BHD.",
+  "holder_address": "LEVEL 6, BLOCK A, SKY PARK ONE CITY,, JALAN USJ 25/1, 47650, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "Soho Flordis International Switzerland SA",
+  "manufacturer_address": "VIA MULINI, 6934 BIOGGIO, , SWITZERLAND,",
+  "importer": "DELFI MARKETING SDN.BHD.",
+  "importer_address": "LEVEL 6, BLOCK A, SKY PARK ONE CITY,, JALAN USJ 25/1, 47650, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "ASCORBIC ACID (VITAMIN C)",
+    "BETACAROTENE",
+    "BIOTIN",
+    "CALCIUM HYDROGEN PHOSPHATE",
+    "CALCIUM HYDROGEN PHOSPHATE",
+    "CHROMIUM CHLORIDE",
+    "CHOLECALCIFEROL",
+    "CYANOCOBALAMIN",
+    "FERROUS FUMARATE",
+    "FOLIC ACID",
+    "NICOTINAMIDE",
+    "POTASSIUM IODIDE",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "RIBOFLAVIN",
+    "SODIUM MOLYBDATE DIHYDRATE",
+    "SODIUM SELENITE",
+    "THIAMINE NITRATE",
+    "TOCOPHEROL ACETATE, DL-ALPHA",
+    "ZINC OXIDE",
+    "COPPER SULPHATE",
+    "MAGNESIUM OXIDE HEAVY"
+  ],
+  "sku": [
+    {
+      "package_description": "30tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

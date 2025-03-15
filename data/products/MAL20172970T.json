@@ -1,0 +1,95 @@
+{
+  "registration_no": "MAL20172970T",
+  "product_name": "Ho Yan Hor Everyday Balancing Herbal Tea 2g",
+  "holder": "HOVID BERHAD",
+  "holder_address": "121, JALAN TUNKU ABDUL RAHMAN \n, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "manufacturer": "HOVID BERHAD",
+  "manufacturer_address": "121, JALAN TUNKU ABDUL RAHMAN, (JALAN KUALA KANGSAR), 30010, IPOH , MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Platycodon grandiflorum",
+    "Cimicifuga heracleifolia",
+    "Ledebouriella divaricata",
+    "Bupleurum Chinensis",
+    "Agastache rugosa",
+    "Schizonepata Tenuifolia",
+    "Asarum canadensa",
+    "Elsholtiza Splendens",
+    "Scrophulariae Ningpoensis",
+    "Ligusticum Wallichi",
+    "Mentha arvensis",
+    "Rehmannia Glutinosa",
+    "Viticis Trifolia",
+    "Angelica anomala",
+    "Gardenia jasminoides",
+    "Notopterygium incisum",
+    "Forsythia suspense",
+    "Poncirus trifoliate",
+    "Perilla frutescens",
+    "Prunella vulgaris",
+    "Rheum officinale",
+    "Atractylodes lancea",
+    "Ilex rotunda",
+    "Citri Retuculatae",
+    "Morus alba",
+    "Cleistocalyx Operculatos",
+    "Angelica pubescentis",
+    "Glycyrrhiza uralensis",
+    "Camellia sinensis"
+  ],
+  "sku": [
+    {
+      "package_description": "25 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL05023401T",
+  "product_name": "Zhong Lian Brand Tan Kwe Gin",
+  "holder": "WELLMEX SDN. BHD.",
+  "holder_address": "4-1-5,, KOMPLEKS KANTONMEN PRIMA,, BATU 4 1/2, JALAN IPOH,, 51200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "WUHAN ZHONGLIAN PHARMACEUTICAL GROUP CO.,LTD",
+  "manufacturer_address": "NO.24, FUXING VILLAGE, JIANGHAN DISTRICT, CHINA,",
+  "importer": "WELLMEX SDN. BHD.",
+  "importer_address": "PT 11043, JALAN TENGAS 1A,, TAMAN PERINDUSTRIAN TENGAS,, 44300, HULU YAM BHARU, MALAYSIA,",
+  "active_ingredients": [
+    "COLLA CORII ASINI",
+    "RADIX REHMANNIAE PREPARATA",
+    "Paeonia alba",
+    "radix ligusticum chuanxiong",
+    "Radix Codonopsis Pilosula",
+    "radix astragalus membranaceus",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PORIA COCOS WOLF",
+    "Glycyrrhizae uralensis"
+  ],
+  "sku": [
+    {
+      "package_description": "200ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 200,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

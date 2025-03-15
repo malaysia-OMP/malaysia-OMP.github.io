@@ -1,0 +1,70 @@
+{
+  "registration_no": "MAL06121089TC",
+  "product_name": "MAKJUN TERUNG KEMAL RPM Kapsul 300mg",
+  "holder": "RAHSIA PUSAKA MELAYU",
+  "holder_address": "LOT PT 1144, KAMPONG BATU 23, JALAN DEWAN BESAR, LABOK, 18500, MACHANG, MALAYSIA,",
+  "manufacturer": "RPM HERBS INDUSTRIES",
+  "manufacturer_address": "PT1151, KG BATU 23,, JALAN DEWAN BESAR, LABOK, 18500, MACHANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Cinnamomum cassia",
+    "Ficus callicarpa",
+    "Tinospora crispa",
+    "Folium Cassia Alata"
+  ],
+  "sku": [
+    {
+      "package_description": "40Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 40,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

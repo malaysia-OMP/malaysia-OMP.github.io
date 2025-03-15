@@ -1,0 +1,70 @@
+{
+  "registration_no": "MAL20013829XR",
+  "product_name": "COD LIVER OIL CAPSULES",
+  "holder": "NUTRINATURE HOLDING SDN. BHD.",
+  "holder_address": "NO. 46, JALAN P/16 , SELAMAN INDUSTRIAL PARK, SEC 10, BANDAR BARU BANGI, 43650, BANGI, MALAYSIA,",
+  "manufacturer": "GERI-NUTRITIONAL COMPANY",
+  "manufacturer_address": "16218 ARTHUR STREET, \n, CERRITOS, CA 90703,, UNITED STATES,",
+  "importer": "NUTRINATURE HOLDING SDN. BHD.",
+  "importer_address": "35-A,JLN CHAN CHIN MOOI, \nSETAPAK,TITIWANGSA,, 53200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "VITAMIN A",
+    "-------",
+    "VITAMIN D",
+    "Cod Liver Oil"
+  ],
+  "sku": [
+    {
+      "package_description": "30Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

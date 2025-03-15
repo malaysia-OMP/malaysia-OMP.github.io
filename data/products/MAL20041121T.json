@@ -1,0 +1,88 @@
+{
+  "registration_no": "MAL20041121T",
+  "product_name": "VIM STOMACH CAPSULES",
+  "holder": "SHANGHAI CHATLIN PHARMACEUTICAL COMPANY",
+  "holder_address": "25 &amp; 26, JALAN VILLARAYA 2/3,, VILLARAYA INDUSTRIAL PARK II,, SUNGAI LALANG,, 43500, SEMENYIH, MALAYSIA,",
+  "manufacturer": "SHANGHAI CHATLIN PHARMACEUTICAL COMPANY",
+  "manufacturer_address": "25 &amp; 26, JALAN VILLARAYA 2/3, VILLARAYA INDUSTRIAL PARK II, SUNGAI LALANG, 43500, SEMENYIH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Hordeum vulgare",
+    "TRICHOSANTHIS KIRILOWII FRUCTUS",
+    "TANGERINE/CITRI RETICULATE",
+    "SCUTELLARIA BAICALENSIS RADIX",
+    "RHIZOMA ATRACTYLODIS MACROCEPHALAE",
+    "RAPHANUS SATIVUS SEMEN",
+    "RADIX PLATYCODON GRANDIFLORUS DC",
+    "GLYCYRRHIZAE GLABRA",
+    "RADIX AUCKLANDIA LAPPA",
+    "PERICARPIUM ARECA CATHECU",
+    "MASSA MEDICATA FERMENTATA",
+    "LIGNUM SANTALI ALBI",
+    "LIGNUM AQUILARIAE SINENSIS",
+    "GALLUS DOMESTIUS",
+    "FRUCTUS CRATAEGI/CRATAEGUS PINNATIFIDA",
+    "FRUCTUS AMOMUM VILLOSUM",
+    "FRUCTUS AMOMUM KRAVANH",
+    "CYPERUS ROTUNDUS RHIZOME",
+    "COPTIS CHINENSIS RHIZOMA",
+    "AURANTIUM CITRUS",
+    "ALISMATIS ORIENTALE RHIZOMA",
+    "Rhizoma Pinellia Ternata"
+  ],
+  "sku": [
+    {
+      "package_description": "0.25gm24Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

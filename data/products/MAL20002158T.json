@@ -1,0 +1,86 @@
+{
+  "registration_no": "MAL20002158T",
+  "product_name": "(CAP BURUNG LAYANG-LAYANG) JING LI YAO ZI BIAN WAN",
+  "holder": "CHING CHING MEDICINE MANUFACTURER",
+  "holder_address": "NO. 17, JALAN SERI PAGI 3B, SEKSYEN BS 3,\n, BUKIT SENTOSA, 48300, RAWANG, MALAYSIA,",
+  "manufacturer": "CHING CHING MEDICINE MANUFACTURER",
+  "manufacturer_address": "NO. 17, JLN SERI PAGI 3B, SEKSYEN BS3, BUKIT SENTOSA, 48300, RAWANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Gekko gecko",
+    "Phrynosoma cornuta",
+    "Poria cocos",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "Radix Rehmanniae praeparatum",
+    "Paeonia alba",
+    "RADIX CODONOPSIS PILOSULAE",
+    "RADIX ASTRAGALI SEU HEDYSARI",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "POLYGONATUM SIBIRICUM RHIZOMA",
+    "MORINDAE OFFICINALIS RADIX",
+    "KOREAN GINSENG",
+    "HERBA EPIMEDIUM SAGITTATUM",
+    "HERBA CYNOMORIUM SONGARICUM",
+    "HERBA CISTANCHE DESERTICOLA",
+    "FRUCTUS RUBUS CHINGII",
+    "DIPSACUS ASPER RADIX",
+    "CORTEX CINNAMOMUM CASSIA",
+    "Cortex Eucommia Ulmoides",
+    "Rhizoma Atractylodes Macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "100Pill Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

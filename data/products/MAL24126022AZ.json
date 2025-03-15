@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24126022AZ",
+  "product_name": "REDLYNA (Linagliptin film-coated tablets 5mg)",
+  "holder": "Dr. Reddy`s Laboratories Malaysia Sdn. Bhd.",
+  "holder_address": "UNIT NO. SO-29-07 AND SO-29-08, MENARA 1, STRATA OFFICE, NO. 3, JALAN BANGSAR, KL ECO CITY, , 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "DR. REDDY'S LABORATORIES LIMITED",
+  "manufacturer_address": "FTO-SEZ, PROCESS UNIT-01, SURVEY NO: 57 TO 59, 60, 62 &amp; 72, SECTOR NO: 9 - 14 &amp; 17 - 20, DEVUNIPALAVALASA (VILLAGE), RANASTHALAM (MANDAL) SRIKAKULAM (DISTRICT), ANDHRA PRADESH -  532409, INDIA,",
+  "importer": "DKSH MALAYSIA SDN. BHD.",
+  "importer_address": "B-11-01, THE ASCENT, PARADIGM, NO. 1, JALAN SS7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Linagliptin"
+  ],
+  "sku": [
+    {
+      "package_description": "2 x 15 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

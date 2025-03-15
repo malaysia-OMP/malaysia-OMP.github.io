@@ -1,0 +1,74 @@
+{
+  "registration_no": "MAL19950766T",
+  "product_name": "VITAREM LIQUID 450ML",
+  "holder": "MEDLEY HERBAL PRODUCTS",
+  "holder_address": "UG-12, 1ST FLOOR,, KOMPLEKS PUCHONG PERDANA (PUCHONG PARADE), JALAN KEKWA 3/1, TAMAN PUCHONG PERDANA, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "THE MADRAS PHARM",
+  "manufacturer_address": "137-B,OLD MAHABALIPURAM ROAD,MADRAS 600 096,, INDIA,",
+  "importer": "MEDLEY HERBAL PRODUCTS",
+  "importer_address": "UG-12 ,1ST FLOOR , KOMPLEX PUCHONG PERDANA (PUCHONG PARADE), JALAN KEKWA 3/1, TAMAN PUCHONG PERDANA , 47100 , PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Orchis mascula",
+    "PIPER LONGUM FRUCTUS",
+    "MYRISTICA FRAGRANS FRUCTUS",
+    "GLYCYRRHIZA GLABRA RADIX/LIQUORICE ROOT",
+    "FRUCTUS ELETTARIA CARDAMOMUM/CARDAMON",
+    "CYCAS CIRCINALIS/BUNGA PAK MAR",
+    "CUBEDA OFFICIANALIS",
+    "ASPARAGUS RACEMOSUS (SHATAWAR)"
+  ],
+  "sku": [
+    {
+      "package_description": "450ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 450,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

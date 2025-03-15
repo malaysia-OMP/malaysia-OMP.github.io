@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL20172700HAC",
+  "product_name": "ZAMBAC MD SOLUBLE 50g/100g bacitracin methylene disalicylate",
+  "holder": "AGRO LIFE FARMING",
+  "holder_address": "NO. 16, LINTASAN PERAJURIT 17C,, TAMAN PERDAGANGAN &amp; PERINDUSTRIAN,, 31400, IPOH , MALAYSIA,",
+  "manufacturer": "Lifecome Biochemistry Co. Ltd.",
+  "manufacturer_address": "NO 19, NANPU ECOLOGICAL INDUSTRIAL PARK,, PUCHENG, FUJIAN, CHINA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "BACITRACIN METHYLENE DISALICYLATE"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

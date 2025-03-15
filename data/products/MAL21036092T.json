@@ -1,0 +1,73 @@
+{
+  "registration_no": "MAL21036092T",
+  "product_name": "SEVEN WHITE HERBAL POWDER",
+  "holder": "VICTORY NATURAL BEAUTY",
+  "holder_address": "7 JALAN SETIA 9/16 TAMAN SETIA INDAH, 81100, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "SEANG WAN MANUFACTURING SDN BHD",
+  "manufacturer_address": "11-11A, JALAN IKS JURU JAYA, TAMAN IKS JURU JAYA, 14100, SIMPANG AMPAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Poria cocos",
+    "Atractylodes macrocephala",
+    "Angelica dahurica",
+    "Ampelopsis japonica",
+    "Paeoniae alba",
+    "Bletilla striata",
+    "Bombyx mori"
+  ],
+  "sku": [
+    {
+      "package_description": "22 x 7g Sachets",
+      "sku_unit": "g",
+      "quantity_per_sku": 154,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

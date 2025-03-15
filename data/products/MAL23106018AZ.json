@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL23106018AZ",
+  "product_name": "Aetos Minoxidil Topical Solution 5%w/v",
+  "holder": "AETOS PHARMA SDN BHD",
+  "holder_address": "66B, TINGKAT 2, , JALAN CERDAS,, TAMAN CONNAUGHT,, 56000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "MEDINFAR MANUFACTURING, S.A",
+  "manufacturer_address": "PARQUE INDUSTRIAL ARMANDO MARTINS TAVARES, RUA OUTEIRO DA ARMADA, 5 CONDEIXA-A-NOVA, 3150-194 SEBAL, PORTUGAL,",
+  "importer": "AETOS PHARMA SDN BHD",
+  "importer_address": "NO. 66B, TINGKAT 2, JALAN CERDAS, TAMAN CONNAUGHT, 56000, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "MINOXIDIL"
+  ],
+  "sku": [
+    {
+      "package_description": "100 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

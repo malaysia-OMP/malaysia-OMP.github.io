@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL14125084AZ",
+  "product_name": "Combiwave SF250 (Salmeterol 25mcg/actuation and Fluticasone Propionate 250mcg/actuation Pressurised Inhalation)",
+  "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+  "holder_address": "D-31-02, MENARA SUEZCAP 1,, NO.2, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "GLENMARK PHARMACEUTICALS LTD",
+  "manufacturer_address": "(UNIT III), VILLAGE KISHANPURA, BADDI, NALAGARH ROAD, TEHSIL BADDI DISTT. SOLAN 173205 , INDIA,",
+  "importer": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+  "importer_address": "D-31-02, MENARA SUEZCAP 1, NO. 2, JALAN KERINCHI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "SALMETEROL XINAFOATE",
+    "FLUTICASONE PROPIONATE"
+  ],
+  "sku": [
+    {
+      "package_description": "1units Units",
+      "sku_unit": "units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

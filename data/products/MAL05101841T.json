@@ -1,0 +1,86 @@
+{
+  "registration_no": "MAL05101841T",
+  "product_name": "TONG REN TANG KUN BAO WAN",
+  "holder": "HAI-O MEDICINE SDN. BHD.",
+  "holder_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "Beijing Tong Ren Tang Co. Ltd, Tongrentang Pharmaceutical Factory",
+  "manufacturer_address": "NO. 1 STREET, FUHAI ROAD, HUANGCUN TOWN, DAXING DISTRICT, BEIJING, BEIJING BEIJING, 100051, CHINA,",
+  "importer": "HAI-O MEDICINE SDN. BHD.",
+  "importer_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "SEMEN ZIZIPHUS JUJABA",
+    "RHIZOMA ANERMARRHENA ASPHODELOIDES",
+    "RADIX PAEONIA VEITCHII",
+    "RADIX PAEONIA LACTIFTORA",
+    "RADIX OPHIOPOGON JAPONICUS",
+    "RADIX CYNANCHUM ATRATUM",
+    "Radix Adenophora Stricta",
+    "HERBA ECLIPTA PROSTRATA",
+    "FRUCTUS RUBUS CHINGII",
+    "FRUCTUS LYCIUM BARBARUM",
+    "FRUCTUS LIGUSTICUM LUCIDIUM",
+    "Folium morus alba L.",
+    "FLOS CHRYSANTHEMUM MORIFOLIUM",
+    "Cortex Lycium Chinensis",
+    "Caulis Spatholobus suberectus",
+    "Semen Cuscuta chinensis",
+    "RADIX ANGELICA SINENSIS",
+    "Radix Scutellaria Baicalensis",
+    "Radix Rehmannia Glutinosa",
+    "Radix Polygonum multiflorum"
+  ],
+  "sku": [
+    {
+      "package_description": "300Pill Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

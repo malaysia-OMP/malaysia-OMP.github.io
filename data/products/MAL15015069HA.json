@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL15015069HA",
+  "product_name": "Pulcosin Oral Solution 250mg/ml",
+  "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+  "holder_address": "LOT 3, 5, 7, 12 &amp; 14, JALAN P/7, SECTION 13,, KAWASAN PERINDUSTRIAN BANDAR BARU BANGI,, 43000, KAJANG, MALAYSIA,",
+  "manufacturer": "Y.S.P INDUSTRIES VIETNAM CO., LTD",
+  "manufacturer_address": "ROAD NO.6, NHON TRACH 3,, INDUSTRIAL  ZONE, NHON TRACH, , DONG NAI PROVINCE, VIETNAM,",
+  "importer": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+  "importer_address": "LOT 3, 5, 7, 12 &amp; 14, JALAN P/7, SECTION 13,, KAWASAN PERINDUSTRIAN BANDAR BARU BANGI, 43000, KAJANG, MALAYSIA,",
+  "active_ingredients": [
+    "TILMICOSIN PHOSPHATE"
+  ],
+  "sku": [
+    {
+      "package_description": "1000.00ml mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "5000.00ml mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 5000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

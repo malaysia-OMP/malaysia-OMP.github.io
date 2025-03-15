@@ -1,0 +1,115 @@
+{
+  "registration_no": "MAL19990920T",
+  "product_name": "TIE TA CAPSULE",
+  "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "1505, LORONG PERUSAHAAN UTAMA 1\n, TAMAN PERINDUSTRIAN BUKIT TENGAH, 14000, BUKIT MERTAJAM, MALAYSIA,",
+  "manufacturer": "PRIME PHARMACEUTICAL SDN. BHD.",
+  "manufacturer_address": "1505, LORONG PERUSAHAAN UTAMA 1, TAMAN PERINDUSTRIAN BUKIT TENGAH, 14000, BUKIT MERTAJAM, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Commiphora myrrha",
+    "Lycopus lucidus",
+    "Prunus persica",
+    "Rheum officinale",
+    "SALVIA CHINENSIS",
+    "SANGUIS DAEMONOROPS DRACO",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "PLATYCODON GRANDIFLORUS DC RADIX",
+    "PANAX PSEUDOGINSENG RADIX",
+    "INULA HELENIUM RADIX",
+    "HERBA PERILLA FRUTESCENS",
+    "CYDONIA",
+    "CARTHAMUS TINCTORIUS LINNE FLOS",
+    "BOSWELLIA CORTERII BIRDW"
+  ],
+  "sku": [
+    {
+      "package_description": "20Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 20,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "500Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

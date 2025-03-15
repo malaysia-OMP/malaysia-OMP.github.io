@@ -1,0 +1,122 @@
+{
+  "registration_no": "MAL15070030T",
+  "product_name": "GREAT WALL BRAND Tezhi Qingxin Wan",
+  "holder": "ORIONIX SDN BHD",
+  "holder_address": "NO. 69, JALAN TPP 1/13,, TAMAN PERINDUSTRIAN PUCHONG,, BATU 12, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "TIANJIN ZHONGXIN PHARMACEUTICAL GROUP CORPORATION LIMITED DARENTANG PHARMACEUTICAL FACTORY",
+  "manufacturer_address": "NO. 21, 10TH STREET, TIANJIN ECONOMIC-TECHNOLOGICAL DEVELOPMENT AREA, TIANJIN, 300457, CHINA,",
+  "importer": "Esprit Care Sdn. Bhd.",
+  "importer_address": "NO. 65, 67 &amp; 69, JALAN  TPP 1/13,, TAMAN PERINDUSTRIAN PUCHONG, BATU 12,, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "Poria cocos",
+    "COLLA CORII ASINI",
+    "Rhizoma Zingiber officinale.",
+    "RHIZOMA LIGUSTICUM CHUANXIONG",
+    "Rhizoma Dioscorea Opposita",
+    "Radix Saposhnikovia divaricata",
+    "radix paeonia lactiflora",
+    "RADIX OPHIOPOGON JAPONICUS",
+    "RADIX BUPLEURUM CHINENSE",
+    "Radix Angelica  sinensis",
+    "Radix ampelopsis japonica",
+    "Pollen Typha Angustifolia L.",
+    "MASSA MEDICATA FERMENTATA",
+    "CORTEX CINNAMOMUM CASSIA",
+    "calculus bovis artifactus",
+    "Panax ginseng",
+    "Radix Glycyrrhiza Uralensis",
+    "Radix platycodon grandiflorum",
+    "Radix Scutellaria Baicalensis",
+    "SEMEN PRUNUS ARMENIACA",
+    "Rhizoma atractylodes macrocephala"
+  ],
+  "sku": [
+    {
+      "package_description": "6Pill Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 6,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10 Pills",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

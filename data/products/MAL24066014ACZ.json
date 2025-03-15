@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL24066014ACZ",
+  "product_name": "Alpharme Rosuvastatin 10mg Film Coated Tablet",
+  "holder": "Alpharme Plc Sdn. Bhd.",
+  "holder_address": "LOT 6-01, 6TH FLOOR, CHOO PLAZA,, 41, LORONG ABU SITI, 10400, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "ELPEN Pharmaceutical Co Inc",
+  "manufacturer_address": "MARATHONOS AVE. 95, , PIKERMI ATTIKI,,  19009,, GREECE,",
+  "importer": "MILRIN PHARMACEUTICAL CO. (M) SDN. BHD.",
+  "importer_address": "125-L, 5TH FLOOR, WISMA GETAH \n, JALAN MACALISTER, 10400, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "ROSUVASTATIN CALCIUM"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

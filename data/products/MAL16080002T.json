@@ -1,0 +1,153 @@
+{
+  "registration_no": "MAL16080002T",
+  "product_name": "Esungcho Sangkwea Granules",
+  "holder": "Natural Seeds Sdn Bhd",
+  "holder_address": "12A &amp; 16 JLN TEKNOLOGI 3/4., PUSAT TEKNOLOGI SINAR DAMANSARA. PJU 5, KOTA DAMANSARA , 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Chung Myung Natural Science Co., Ltd.",
+  "manufacturer_address": "#105, WOOLIN LIONS VALLEY3CHA, 5445, SANGDAEWON-DONG, JUNGWON-GU, SEONGNAM-SI, GYEONGGI-DO, KOREA,SOUTH,",
+  "importer": "Natural Seeds Sdn Bhd",
+  "importer_address": "NO. 12A &amp; 16, JALAN TEKNOLOGI 3/4, PUSAT TEKNOLOGI SINAR DAMANSARA, PJU 5, KOTA DAMANSARA, 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Aloe arborescens",
+    "Auricularia auricula-judae",
+    "Cichorium intybus",
+    "Eucommia ulmoides",
+    "Ganoderma lucidum",
+    "Glycyrrhiza glabra",
+    "Hordeum vulgare",
+    "Houttuynia cordata",
+    "Lycopersicon esculentum",
+    "Morus alba",
+    "Plantago ovata",
+    "Polygonum multiflorum",
+    "Viscum coloratum",
+    "ANGELICA GIGAS",
+    "SUAEDA ASPARAGOIDES",
+    "PRUNUS SALICINA",
+    "Thallus Laminaria japonica"
+  ],
+  "sku": [
+    {
+      "package_description": "3gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "10  Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

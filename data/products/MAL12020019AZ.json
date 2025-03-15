@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL12020019AZ",
+  "product_name": "VIATRINIL 3mg/3mL Solution for Injection/ Infusion",
+  "holder": "MMS PHARMA (MALAYSIA) SDN. BHD.",
+  "holder_address": "B-5-9, IMPIAN HEIGHTS, 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "VIANEX S.A. - Plant A",
+  "manufacturer_address": "12TH KM. ATHENS LAMIA NATIONAL ROAD,, 14451, GREECE,",
+  "importer": "SOMEDICO SDN. BHD.",
+  "importer_address": "NO.3, JALAN TSB 1,\n, TAMAN INDUSTRI SUNGAI BULOH, 47000, SUNGAI BULOH, MALAYSIA,",
+  "active_ingredients": [
+    "GRANISETRON HYDROCHLORIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "3ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

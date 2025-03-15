@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL23036008ACZ",
+  "product_name": "ETORICAN 60 mg film-coated tablets",
+  "holder": "Generic Health Sdn. Bhd.",
+  "holder_address": "UPPER PENTHOUSE, WISMA RKT, NO. 2,, JALAN RAJA ABDULLAH, OFF JALAN SULTAN ISMAIL,, 50300, KUALA LUMPUR, MALAYSIA, 50300, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Rontis Hellas Medical and Pharmaceutical Products S.A.",
+  "manufacturer_address": "P.O. BOX 3012 LARISA INDUSTRIAL AREA, LARISA 41004, GREECE,",
+  "importer": "DKSH MALAYSIA SDN. BHD.",
+  "importer_address": "B-11-01, THE ASCENT, PARADIGM, NO. 1, JALAN SS7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Etoricoxib"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

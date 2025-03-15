@@ -1,0 +1,34 @@
+{
+  "registration_no": "MAL20172903TC",
+  "product_name": "Jinliyuan Capsules 380mg",
+  "holder": "Zhonghua Naturopathy Promotionals Centre",
+  "holder_address": "NO.3490, JALAN BESAR, JINJANG UTARA, 52000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Reishilab Sdn Bhd",
+  "manufacturer_address": "NO. 5, JALAN P2/4, BANDAR TEKNOLOGI KAJANG, 43500, SEMENYIH, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "SARGASSUM PALLIDUM",
+    "CONCHA OSTREA GIGAS",
+    "Stalactitum",
+    "Margarita Pteria Martensii"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

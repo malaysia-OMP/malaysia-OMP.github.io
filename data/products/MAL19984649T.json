@@ -1,0 +1,87 @@
+{
+  "registration_no": "MAL19984649T",
+  "product_name": "WAI YOEN HONG GOLD BRAND PAI FENG WAN WITH PEARL (TINY PILL) 14GM",
+  "holder": "NUTRI-HOME PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+  "holder_address": "NO. 12, 14 &amp; 16, JALAN TS 6/2, TAMAN INDUSTRI SUBANG, 47510, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "NUTRI-HOME PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+  "manufacturer_address": "NO. 12,14 &amp; 16, JALAN TS 6/2, TAMAN INDUSTRI SUBANG, 47510, SUBANG JAYA, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "HONEY",
+    "SEMEN SESAMUM INDICUM",
+    "SEMEN EURYALES",
+    "SALVIAE MILTIORRHIZAE RADIX",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA DIOSCOREAE",
+    "RHIZOMA CYPERI",
+    "Radix Stellariae",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX REHMANNIAE",
+    "Paeonia alba",
+    "RADIX GLYCYRRHIZAE",
+    "RADIX GINSENG",
+    "RADIX ASTRAGALI SEU HEDYSARI",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "OS GALLUS GALLUS DOMESTICUS",
+    "MARGARITA/PEARLS",
+    "MANTIDIS OOTHECA",
+    "CORNU CERUI DEGELA TINATUM",
+    "ASTRAGALI RADIX",
+    "CONCHA OSTREAE"
+  ],
+  "sku": [
+    {
+      "package_description": "6 x 14 gm",
+      "sku_unit": "g",
+      "quantity_per_sku": 84,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

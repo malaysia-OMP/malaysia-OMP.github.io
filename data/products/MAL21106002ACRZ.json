@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL21106002ACRZ",
+  "product_name": "Atectura Breezhaler (Indacaterol Acetate/Mometasone Furoate) 150/160mcg Inhalation Powder Hard Capsules",
+  "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+  "holder_address": "LEVEL 18, IMAZIUM,, NO.8, JALAN SS21/37,, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Siegfried Barbera, S.L.",
+  "manufacturer_address": "RONDA DE SANTA MARIA, , 158-08210 BARBERA DEL VALLES, , BARCELONA , SPAIN,",
+  "importer": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+  "importer_address": "LEVEL 18, IMAZIUM, NO. 8, JALAN SS 21/37, DAMANSARA UTAMA, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "MOMETASONE FUROATE",
+    "INDACATEROL ACETATE"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Capsules and 1 Inhaler Units",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30 Capsules and 1 inhaler Units",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

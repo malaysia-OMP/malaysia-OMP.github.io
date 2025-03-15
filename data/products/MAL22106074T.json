@@ -1,0 +1,79 @@
+{
+  "registration_no": "MAL22106074T",
+  "product_name": "Huang Tzer Feng Tian Ma Plus Medicated Wine",
+  "holder": "Comebest Herbal Sdn. Bhd.",
+  "holder_address": "NO 11-1, LORONG SANGGUL 1D, BANDAR PUTERI, 41200, KLANG, MALAYSIA,",
+  "manufacturer": "Kang Bae Shyh PHARMACEUTICAL CO., LTD",
+  "manufacturer_address": "NO. 8-1, LUGONG N., 2ND RD., LUKANG TOWNSHIP, , CHANGHUA COUNTY 505, , TAIWAN (R.O.C.), TAIWAN,",
+  "importer": "Comebest Herbal Sdn. Bhd.",
+  "importer_address": "NO. 11-1, LORONG SANGGUL 1D, BANDAR PUTERI, 41200, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Chaenomeles speciosa",
+    "Ligusticum chuanxiong",
+    "Cyathula officinalis",
+    "Angelica sinensis",
+    "Gastrodia elata",
+    "Acanthopanax gracilistylus",
+    "Carthamus tinctorius",
+    "Dipsacus asper",
+    "Solanum melongena",
+    "Polygonatum odoratum",
+    "Gentiana macrophylla",
+    "Saposhnikovia divaricata",
+    "Morus alba"
+  ],
+  "sku": [
+    {
+      "package_description": "300 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL17107047X",
+  "product_name": "Tiger Balm Lotion",
+  "holder": "TIGER BALM (M) SDN. BHD.",
+  "holder_address": "NO 53, JALAN I-PARK SAC 7, TAMAN PERINDUSTRIAN I-PARK SAC,, 81400, SENAI, MALAYSIA,",
+  "manufacturer": "TIGER BALM (M) SDN. BHD.",
+  "manufacturer_address": "PLO 95, NO. 6, JALAN FIRMA 1/1, TEBRAU INDUSTRIAL ESTATE, 81100 , JOHOR BAHRU, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Racemic Camphor BP",
+    "Methyl Salicylate BP",
+    "Menthol BP"
+  ],
+  "sku": [
+    {
+      "package_description": "80 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 80,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

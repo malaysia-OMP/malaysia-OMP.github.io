@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL24106112NC",
+  "product_name": "General Balance T Nicotinamide Plus Tablet",
+  "holder": "GCOOP MALAYSIA SDN. BHD.",
+  "holder_address": "NO 5, JALAN PPU 2A, TAMAN PERINDUSTRIAN PUCHONG UTAMA, , 47100, PUCHONG, MALAYSIA,",
+  "manufacturer": "GENERAL BIO CO., LTD.",
+  "manufacturer_address": "254, YONGTUSAN-RO, SONGDONG-MYEON, , NAMWON-SI, JEOLLABUK-DO, , KOREA, KOREA,SOUTH,",
+  "importer": "GCOOP MALAYSIA SDN. BHD.",
+  "importer_address": "NO.5, JALAN PPU 2A, TAMAN PERINDUSTRIAN PUCHONG UTAMA, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "NICOTINAMIDE",
+    "Phyllanthus emblica (Amla) Fruit Extract",
+    "L-GLUTATHIONE"
+  ],
+  "sku": [
+    {
+      "package_description": "120 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

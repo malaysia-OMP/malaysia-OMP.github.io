@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL11100022T",
+  "product_name": "Sinupret Childrens Syrup",
+  "holder": "A. MENARINI SINGAPORE PTE. LTD.",
+  "holder_address": "B-18-2, LEVEL 18, THE ASCENT PARADIGM, NO.1, JALAN SS7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Bionorica  SE",
+  "manufacturer_address": "KERSCHENSTEINERSTRABE,  1 1 -1 5 92318 NEUMARKT  IN`DER OBERPFALZ, GERMANY,",
+  "importer": "DELFI MARKETING SDN.BHD.",
+  "importer_address": "LEVEL 6, BLOCK A, SKY PARK ONE CITY,, JALAN USJ 25/1, 47650, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Sambucus Nigra Flower Extract..",
+    "Herba Verbena Officinalis L",
+    "Herba Rumex Acetosa",
+    "gentiana lutea (gentian) root extract",
+    "Flos Primula veris"
+  ],
+  "sku": [
+    {
+      "package_description": "100ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

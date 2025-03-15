@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL22106061NC",
+  "product_name": "4Life Aloe Vera Plus Powder",
+  "holder": "Forlife Research Imports Sdn. Bhd.",
+  "holder_address": "LEVEL 3, TOWER 2, AVENUE 3,, THE HORIZON, BANGSAR SOUTH,, NO. 8, JALAN KERINCHI,, 59200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "HWR LLC",
+  "manufacturer_address": "611 W4330 SOUTH, MURRAY, UTAH , 84123, USA, UNITED STATES,",
+  "importer": "Forlife Research Imports Sdn. Bhd.",
+  "importer_address": "LEVEL 3, TOWER 2,  AVENUE 3, THE HORIZON, BANGSAR SOUTH, NO. 8, JALAN KERINCHI, 59200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "ASCORBIC ACID (VITAMIN C)",
+    "Aloe Vera Leaf Gel Extract (Aloe Barbadensis Miller)"
+  ],
+  "sku": [
+    {
+      "package_description": "15 Pieces",
+      "sku_unit": "Units",
+      "quantity_per_sku": 15,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20076050AZ",
+  "product_name": "ANCARE SOLUTION FOR IV INFUSION 100MG/ML",
+  "holder": "NANG KUANG PHARM SDN. BHD.",
+  "holder_address": "A-07-3A EKOCHERAS, NO. 693, BATU 5, JALAN CHERAS,, 56000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "NANG KUANG PHARM CO",
+  "manufacturer_address": "NO. 1001, 1001-1, ZHONGSHAN RD.,, XINHUA DIST., , TAINAN CITY, 71243, TAIWAN,",
+  "importer": "Nano Medic Care Sdn. Bhd.",
+  "importer_address": "NO. 1-6 &amp; 1-12, 1ST FLOOR,, JALAN INDAH 2, , TAMAN INDAH, 84000, MUAR, MALAYSIA,",
+  "active_ingredients": [
+    "Acetylcysteine"
+  ],
+  "sku": [
+    {
+      "package_description": "3mlx50 Ampoules",
+      "sku_unit": "ml",
+      "quantity_per_sku": 3,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

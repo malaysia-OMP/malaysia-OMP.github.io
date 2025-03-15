@@ -1,0 +1,115 @@
+{
+  "registration_no": "MAL20056034TC",
+  "product_name": "TRAZESIL Herbal Cough Lozenges Orange Flavor",
+  "holder": "PHARMAVENTURES CORPORATION SDN. BHD.",
+  "holder_address": "67, JALAN GASING, 46000, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "M/S Prince Supplico",
+  "manufacturer_address": "PLOT NO.90-A,B/H. MADHU SILICA, G.I.D.C., CHITRA, BHAVNAGAR-364004,GUJARAT STATE, INDIA,",
+  "importer": "BioCare Pharmaceutical (M) Sdn. Bhd.",
+  "importer_address": "NO.28G, 28-1 &amp; 28-2, PUSAT DAGANGAN PJCC, JALAN PJS 5/28, 46150, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Abrus precatorius",
+    "Mentha piperita",
+    "Adhatoda vasica",
+    "Piper longum",
+    "Piper nigrum",
+    "Zingiber officinale",
+    "Glycyrrhiza glabra",
+    "Curcuma longa",
+    "Acacia catechu",
+    "Foeniculum vulgare",
+    "Ocimum sanctum",
+    "Terminalia chebula",
+    "Terminalia belerica",
+    "Alpinia galanga"
+  ],
+  "sku": [
+    {
+      "package_description": "2 X 6  Lozenges",
+      "sku_unit": "Units",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "24 x 12 Lozenges",
+      "sku_unit": "Units",
+      "quantity_per_sku": 288,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

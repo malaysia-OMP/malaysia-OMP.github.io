@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL19987671T",
+  "product_name": "KAPLET RAPET WANITA",
+  "holder": "P.T MUSTIKA RATU (M) SDN. BHD.",
+  "holder_address": "WISMA MUSTIKA RATU\n, NO. 10, JALAN 5/91A \n, TAMAN SHAMELIN PERKASA ,BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "PT MUSTIKA RATU",
+  "manufacturer_address": "JL RAYA BOGOR \n, KM 26.4 CIRACAS,\n, PASAR REBO,JAKARTA TIMUR 13740, INDONESIA,",
+  "importer": "P.T MUSTIKA RATU (M) SDN. BHD.",
+  "importer_address": "WISMA MUSTIKA RATU\n, NO. 10, JALAN 5/91A \n, TAMAN SHAMELIN PERKASA ,BATU 3 1/2, JALAN CHERAS, 56100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "RHIZOMA BOESENBERGIAE",
+    "PARAMERIAE CORTEX",
+    "GRANATI FRUCTUS CORTEX",
+    "GALLAE RHIZOMA",
+    "CANANGAE FLOS"
+  ],
+  "sku": [
+    {
+      "package_description": "22.50gm30Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 22,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

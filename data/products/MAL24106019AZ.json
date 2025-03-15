@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL24106019AZ",
+  "product_name": "Palbociclib Sandoz Capsule 125mg",
+  "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+  "holder_address": "LEVEL 18, IMAZIUM,, NO.8, JALAN SS21/37,, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Aizant Drug Research Solutions Pvt. Ltd.",
+  "manufacturer_address": "MFG. BLOCK A AND BLOCK B  SURVEY NO 172/173, APPAREL PARK ROAD, DULAPALLY VILLAGE, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKHAJGIRI DISTRICT, HYDERABAD - 500 100, TELANGANA, , INDIA,",
+  "importer": "SANDOZ PRODUCTS MALAYSIA SDN. BHD.",
+  "importer_address": "UNIT 1202, LEVEL 12, UPTOWN 1   , NO. 1, JALAN SS 21/58, DAMANSARA UPTOWN, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "PALBOCICLIB"
+  ],
+  "sku": [
+    {
+      "package_description": "21 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 21,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "7 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 7,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

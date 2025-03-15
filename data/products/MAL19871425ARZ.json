@@ -1,0 +1,31 @@
+{
+  "registration_no": "MAL19871425ARZ",
+  "product_name": "Engerix-B 20 Adult Dose Suspension for Injection",
+  "holder": "GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "HZ.01, HORIZON PENTHOUSE, , 1 POWERHOUSE, , 1, PERSIARAN BANDAR UTAMA, BANDAR UTAMA, , 47800, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "GLAXOSMITHKLINE BIOLOGICALS S.A",
+  "manufacturer_address": "RUE DE I`INSTITUT 89,\nB-1330 RIXENSART,, BELGIUM,",
+  "importer": "ZUELLIG PHARMA SDN. BHD.",
+  "importer_address": "NO. 15, PERSIARAN PASAK BUMI,, SEKSYEN U8,, PERINDUSTRIAN BUKIT JELUTONG,, 40150, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "HEPATITIS B S'FACE ANTIGEN/HBSAG PROTEIN"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

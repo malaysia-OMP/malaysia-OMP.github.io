@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL20056086T",
+  "product_name": "ZHI PERZEST CAPSULE",
+  "holder": "Alphay Marketing (M) Sdn Bhd",
+  "holder_address": "A-3A-03, CAPITAL 1, OASIS SQUARE, NO. 2, JALAN PJU 1A/7A, OASIS DAMANSARA, , 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Jiangsu Alphay Bio-Tech Co., Ltd.",
+  "manufacturer_address": "NO.68-A ZHONGYANG ROAD, NANTONG, JIANGSU, CHINA,",
+  "importer": "Alphay Marketing (M) Sdn Bhd",
+  "importer_address": "A-3A-03, CAPITAL 1, , OASIS SQUARE, NO. 2, JALAN PJU 1A/7A, , OASIS DAMANSARA  , 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Pteria martensii"
+  ],
+  "sku": [
+    {
+      "package_description": "180 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 180,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

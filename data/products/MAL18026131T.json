@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL18026131T",
+  "product_name": "ShiYiTang Hugan Pian",
+  "holder": "HARYAO HEALTH PRODUCTS SDN BHD",
+  "holder_address": "NO. D-3-13 BOULEVARD BUSINESS PARK,, JALAN MATANG 3, , TAMAN CITY, , 51200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "SHIYITANG PHARMACEUTICAL FACTORY OF HARBIN PHARMACEUTICAL GROUP",
+  "manufacturer_address": "18 DAKANG ROAD DAOLI DISTRICT, HARBIN HEILONGJIANG, 150088, CHINA,",
+  "importer": "HARYAO HEALTH PRODUCTS SDN BHD",
+  "importer_address": "NO D-3-13, BOULEVARD BUSINESS PARK,, JALAN MATANG 3, , TAMAN CITY,, 51200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Bupleurum chinense",
+    "Artemisia scoparia",
+    "Isatis tinctoria",
+    "Schisandra chinensis",
+    "SEMEN PHASEOLI RADIATI"
+  ],
+  "sku": [
+    {
+      "package_description": "100 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

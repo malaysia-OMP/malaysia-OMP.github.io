@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL21126019HA",
+  "product_name": "Gleptoferron Labiana 200 mg/ml Solution for Injection",
+  "holder": "Yew Farming & Trading",
+  "holder_address": "301 ALTITUDE 236, NO 9, JALAN ALAM DAMAI, 56000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Labiana Life Sciences, S.A.",
+  "manufacturer_address": "C/VENUS, 26, CAN PARELLADA INDUSTRIAL,,  TERRASSA,,  08228 BARCELONA ESPANA, SPAIN,",
+  "importer": "SEANG CHIP (M) SDN BHD",
+  "importer_address": "TBP 2016, JALAN BESAR, SUNGAI JAWI, 14200, SUNGAI BAKAP, MALAYSIA,",
+  "active_ingredients": [
+    "Gleptoferron"
+  ],
+  "sku": [
+    {
+      "package_description": "100 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

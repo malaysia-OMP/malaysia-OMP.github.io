@@ -1,0 +1,70 @@
+{
+  "registration_no": "MAL20076140N",
+  "product_name": "OM-X Propolis Plus Softgel",
+  "holder": "Pro Health Medics Sdn. Bhd.",
+  "holder_address": "NO. 22-1, JALAN USJ 21/7,, SUBANG JAYA, , SELANGOR , 47630, SUBANG JAYA, MALAYSIA,",
+  "manufacturer": "BIOBANK CO. LTD.",
+  "manufacturer_address": "601 PARK SQUARE, 1-7-15 OMOTE-CHO, OKAYAMA, 700-0822, JAPAN,",
+  "importer": "Pro Health Medics Sdn. Bhd.",
+  "importer_address": "NO. 22-1, JALAN USJ 21/7, 47630, SUBANG JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "PROPOLIS",
+    "LINUM USITATISSIMUM (FLAXSEED OIL)",
+    "HAEMATOCOCCUS PLUVIALIS EXTRACT",
+    "ELAEIS GUINEENSIS (PALM) FRUIT EXTRACT"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

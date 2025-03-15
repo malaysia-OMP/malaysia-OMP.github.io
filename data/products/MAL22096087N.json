@@ -1,0 +1,89 @@
+{
+  "registration_no": "MAL22096087N",
+  "product_name": "Appeton Essentials MV21G + Selenium Caplet",
+  "holder": "KOTRA PHARMA (M) SDN. BHD.",
+  "holder_address": "NO.  1,2 &amp; 3,, JALAN TTC 12, CHENG INDUSTRIAL ESTATE,, 75250, CHENG, MALAYSIA,",
+  "manufacturer": "KOTRA PHARMA (M) SDN. BHD.",
+  "manufacturer_address": "NO. 1, 2 &amp; 3, JALAN TTC 12, CHENG INDUSTRIAL ESTATE, 75250, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Retinyl Acetate (Vitamin A)",
+    "THIAMINE MONONITRATE",
+    "RIBOFLAVIN",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "CYANOCOBALAMIN",
+    "FOLIC ACID",
+    "TRICALCIUM PHOSPHATE",
+    "POTASSIUM SULFATE",
+    "COPPER SULPHATE PENTAHYDRATE",
+    "POTASSIUM IODIDE",
+    "INOSITOL",
+    "CHOLINE BITARTRATE",
+    "NICOTINAMIDE",
+    "CALCIUM D-PANTOTHENATE",
+    "Vitamin D3 (Cholecalciferol)",
+    "ASCORBIC ACID (VITAMIN C)",
+    "DL ALPHA TOCOPHERYL ACETATE",
+    "SELENIUM FUMARATE",
+    "GINSENG / PANAX GINSENG",
+    "FERROUS FUMARATE",
+    "MAGNESIUM OXIDE HEAVY",
+    "MANGANESE SULPHATE MONOHYDRATE",
+    "Zinc Sulphate Heptahydrate"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Caplets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

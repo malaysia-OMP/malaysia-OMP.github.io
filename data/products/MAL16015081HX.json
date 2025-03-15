@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL16015081HX",
+  "product_name": "Kiwof Plus Chewable Tablets for Small, Medium, Large Dogs",
+  "holder": "Girona Veterinary",
+  "holder_address": "NO.33 JALAN SURIA PUCHONG 2,, PUSAT PERDAGANGAN SURIA, 47110, PUCHONG, MALAYSIA,",
+  "manufacturer": "SAVA HEALTHCARE LIMITED",
+  "manufacturer_address": "PLOT 507-B TO 512, GIDC ESTATE, WADHWAN CITY, DIST - SURENDRANAGAR,, GUJARAT, 363 035, INDIA,",
+  "importer": "Girona Veterinary",
+  "importer_address": "NO.33 JALAN SURIA PUCHONG 2,, PUSAT PERDAGANGAN SURIA, 47110, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "FEBANTEL",
+    "PRAZIQUANTEL",
+    "PYRANTEL PAMOATE"
+  ],
+  "sku": [
+    {
+      "package_description": "1 x 4tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 4,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

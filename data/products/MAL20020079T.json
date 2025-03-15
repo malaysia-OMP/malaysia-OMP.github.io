@@ -1,0 +1,116 @@
+{
+  "registration_no": "MAL20020079T",
+  "product_name": "POH ENG TAN CAP FOOK",
+  "holder": "BAN KAH CHAI PHARMACEUTICAL SDN. BHD.",
+  "holder_address": "LOT 427~430, LORONG IKS TASEK 5, JALAN INDUSTRI, PADANG LALLANG,, 14120, SIMPANG AMPAT, MALAYSIA,",
+  "manufacturer": "BAN KAH CHAI PHARMACEUTICAL SDN. BHD.",
+  "manufacturer_address": "LOT 427~430, LORONG IKS TASEK 5, JALAN INDUSTRI, PADANG LALLANG, 14120, SIMPANG AMPAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Bambusa textilis",
+    "Cristaria plicata",
+    "Moschus berezovskii",
+    "Pogostemon cablin",
+    "Succinum",
+    "STELLARIA DICHOTOMA RADIX",
+    "PERIOSTRACUM CRYPTOTYMPANA PUSTULATA",
+    "LIGNUM AQUILARIA AGALLOCHA ROXB",
+    "GLYCYRRHIZA URALENSIS RADIX",
+    "GASTRODIA ELATA BLUME",
+    "FRITILLARIA VERTICELLATA WILLD",
+    "CITRUS NOBILIS LOUR",
+    "CALCULUS MACACAE MULATTAE",
+    "BOS TAURUS DOMESTICUS (BENZOAR)",
+    "BOMBYX MORI"
+  ],
+  "sku": [
+    {
+      "package_description": "0.375 gm   12 Units Units",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "12 x 1.5gm",
+      "sku_unit": "Units",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

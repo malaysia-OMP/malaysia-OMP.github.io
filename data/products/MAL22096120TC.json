@@ -1,0 +1,109 @@
+{
+  "registration_no": "MAL22096120TC",
+  "product_name": "Svelty Pakkun Yeast Plus Capsules",
+  "holder": "NEWAGE SDN. BHD.",
+  "holder_address": "LOT 2, KAWASAN MIEL SHAH ALAM FASA 10, JALAN 23/5, SEKSYEN 23, 40300, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "Nihon Biofoods Manufacturing Co., Ltd",
+  "manufacturer_address": "1730-10, TANOCHO AZA SAKURAGAOKA OTSU, MIYAZAKI-SHI, MIYAZAKI, 889-1702,, JAPAN,",
+  "importer": "NEWAGE SDN. BHD.",
+  "importer_address": "LOT 2, KAWASAN MIEL SHAH ALAM FASA 10, JALAN 23/5, SEKSYEN 23, 40300, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "Saccharomyces cerevisiae",
+    "Phaseolus vulgaris",
+    "Garcinia cambogia",
+    "Curcuma longa",
+    "Piper nigrum",
+    "Gymnema sylvestre",
+    "Salacia reticulata",
+    "Camellia sinensis"
+  ],
+  "sku": [
+    {
+      "package_description": "56 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 56,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "100 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 100,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

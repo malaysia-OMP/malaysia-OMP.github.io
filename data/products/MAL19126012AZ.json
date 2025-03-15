@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL19126012AZ",
+  "product_name": "Etrobax 120 (Etoricoxib Tablets 120mg)",
+  "holder": "RANBAXY (MALAYSIA) SDN. BHD.",
+  "holder_address": "LOT 23, BAKAR ARANG INDUSTRIAL ESTATE, 08000, SUNGAI PETANI, MALAYSIA,",
+  "manufacturer": "Sun Pharmaceutical Industries Limited",
+  "manufacturer_address": "VILLAGE GANGUWALA, PAONTA SAHIB, DISTRICT SIRMOUR - 173 025, , HIMANCHAL PRADESH, INDIA,",
+  "importer": "RANBAXY (MALAYSIA) SDN. BHD.",
+  "importer_address": "LOT 23, BAKAR ARANG INDUSTRIAL ESTATE, 08000, SUNGAI PETANI, MALAYSIA,",
+  "active_ingredients": [
+    "ETORICOXIB"
+  ],
+  "sku": [
+    {
+      "package_description": "7 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 7,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

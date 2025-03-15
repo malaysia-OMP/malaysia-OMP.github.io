@@ -1,0 +1,113 @@
+{
+  "registration_no": "MAL19026078N",
+  "product_name": "Centrum ENERGY B-Vitamins and Minerals Plus Vitamins C and E Tablet",
+  "holder": "Haleon Malaysia Sdn. Bhd.",
+  "holder_address": "LOT 89,, JALAN ENGGANG,, AMPANG/HULU KELANG INDUSTRIAL ESTATE,, 68000, AMPANG, MALAYSIA,",
+  "manufacturer": "PFIZER BIOTECH CORPORATION",
+  "manufacturer_address": "N0. 290-1, CHUNG-LUN,\n, CHUNG LUN VILLAGE,\n, HSINFENG, HSIN CHU, TAIWAN,",
+  "importer": "Haleon Malaysia Sdn. Bhd.",
+  "importer_address": "LOT 89, JALAN ENGGANG, AMPANG/HULU KELANG INDUSTRIAL ESTATE, 68000 , AMPANG, MALAYSIA,",
+  "active_ingredients": [
+    "CUPRIC SULFATE ANHYDROUS",
+    "THIAMINE MONONITRATE",
+    "ZINC OXIDE",
+    "Vitamin B2 (Riboflavin)",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "ASCORBIC ACID (VITAMIN C)",
+    "CYANOCOBALAMIN",
+    "DL-ALPHA TOCOPHERYL ACETATE",
+    "BIOTIN",
+    "FOLIC  ACID",
+    "NIACINAMIDE",
+    "CALCIUM PANTOTHENATE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

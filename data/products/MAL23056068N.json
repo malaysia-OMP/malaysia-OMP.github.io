@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL23056068N",
+  "product_name": "giomie Kids Probiotic+ Capsules",
+  "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+  "holder_address": "1-5, \n, CHENG INDUSTRIAL ESTATE, 75250, MALAYSIA,",
+  "manufacturer": "Abela Pharm d.o.o.",
+  "manufacturer_address": "BELGRADE-PALILULA,  VILINE VODE BB,  11000, SERBIA,",
+  "importer": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+  "importer_address": "1-5,, CHENG INDUSTRIAL ESTATE, 75250, MALAYSIA,",
+  "active_ingredients": [
+    "SACCHAROMYCES BOULARDII",
+    "ZINC CITRATE DIHYDRATE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,127 @@
+{
+  "registration_no": "MAL06100635X",
+  "product_name": "Once A Day Tablets",
+  "holder": "Eucogen Pharma Sdn. Bhd.",
+  "holder_address": "6A, JALAN SUNGAI BURUNG U 32/U, BUKIT RIMAU, 40460, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "QUEST VITAMINS LTD",
+  "manufacturer_address": "8,VENTURE WAY, B7 4AP, UNITED KINGDOM,",
+  "importer": "Eucogen Pharma Sdn. Bhd.",
+  "importer_address": "NO. 6A, JALAN SUNGAI BURUNG U32/U, BUKIT RIMAU, SEKSYEN 32,, 40460, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "VITAMIN B12",
+    "Dicalcium Phosphate Dihydrate",
+    "Papain",
+    "PABA",
+    "CHOLINE BITARTRATE",
+    "BETAINE HYDROCHLORIDE",
+    "VITAMIN D 3",
+    "Calcium D-pantothenate",
+    "Nicotinamide (Vit. B3)",
+    "D-Biotin",
+    "dl Methionine",
+    "Folic acid.",
+    "Ascorbic Acid 95%",
+    "L-Lysine Hydrochloride",
+    "Citrus Bioflavanoids",
+    "Pyridoxine Hydrochloride 98%",
+    "Thiamine Mononitrate 98%",
+    "Lecithin Powder",
+    "l-Cysteine base.",
+    "SOAD A.A. Chelate",
+    "d-alpha Tocopheryl Acetate 700",
+    "Vitamin A Palmitate 250",
+    "Rutin NF",
+    "Riboflavin 100%",
+    "Inositol 100%",
+    "Betatene 7.5%"
+  ],
+  "sku": [
+    {
+      "package_description": "90Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "30Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

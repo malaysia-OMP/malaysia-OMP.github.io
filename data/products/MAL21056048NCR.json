@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL21056048NCR",
+  "product_name": "LUSTRE SKN PRO FILM COATED TABLET",
+  "holder": "MYLUSTRE SDN. BHD.",
+  "holder_address": "42A-2 , JALAN PJU 5/20D,, THE STRAND KOTA DAMANSARA,, 47810, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "GMP LABORATORIES OF AMERICA, INC",
+  "manufacturer_address": "2931 EAST LA JOLLA STREET, ANAHEIM,, CA 92806, UNITED STATES,",
+  "importer": "MYLUSTRE SDN. BHD.",
+  "importer_address": "NO. 42A-2, JALAN PJU 5/20D,  , THE STRAND KOTA DAMANSARA, , 47810, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "TOCOPHERYL ACID SUCCINATE, D-ALPHA",
+    "QUERCETIN DIHYDRATE",
+    "TAGETES ERECTA (MARIGOLD) EXTRACT",
+    "LYCOPENE",
+    "BETACAROTENE",
+    "ZINC CITRATE",
+    "CITRUS BIOFLAVONOIDS",
+    "VITIS VINIFERA (GRAPE SEED EXTRACT)",
+    "ASCORBIC ACID (VITAMIN C)",
+    "COLLAGEN HYDROLYSATE"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

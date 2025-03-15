@@ -1,0 +1,76 @@
+{
+  "registration_no": "MAL20020666T",
+  "product_name": "SHENG TONG SUI YU TABLET (0.35G)",
+  "holder": "YILIN (M) SDN. BHD.",
+  "holder_address": "NO.11, JALAN PANDAN 8/6 \n, PANDAN JAYA, 55100, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "SHANTOU OLIVE PHARMACEUTICAL CO., LTD",
+  "manufacturer_address": "4 XI XIANG, CHAOSHAN ROAD\nSHANTOU,\n, CHINA,",
+  "importer": "YILIN (M) SDN. BHD.",
+  "importer_address": "NO.11, JALAN PANDAN 8/6 \nPANDAN JAYA, 55100, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Commiphora myrrha",
+    "Prunus persica",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA CYPERI",
+    "RADIX NOTOTERYGII",
+    "RADIX GENTIANAE MACROPHYLLAE",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "RADIX ACHYRANTHIA BIDENTATAE",
+    "GLYCYRRHIZA URALENSIS RADIX",
+    "FLOS CARTHAMI"
+  ],
+  "sku": [
+    {
+      "package_description": "1000Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL19984113XR",
+  "product_name": "HOMTAMIN GINSENG SOFT CAPSULE",
+  "holder": "ZIWELL MEDICAL SDN. BHD.",
+  "holder_address": "LOT A2-14, PJ INDUSTRIAL PARK\n, JALAN KEMAJUAN, SECTION 13, 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "KOREA UNITED PHARM INC",
+  "manufacturer_address": "NO.404-10,NOJANG-RI, \nJEONDONG-MYEON,\nYEONGI-KUN CHUNG CHEONGNAM-DO,, KOREA,SOUTH,",
+  "importer": "ZIWELL MEDICAL SDN. BHD.",
+  "importer_address": "LOT A2-14, PJ INDUSTRIAL PARK\n, JALAN KEMAJUAN, SECTION 13, 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "VIT A, VIT D, VIT E, VIT C",
+    "VIT B1, B2, B6, NICO, B12, CAL PAN."
+  ],
+  "sku": [
+    {
+      "package_description": "30Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

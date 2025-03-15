@@ -1,0 +1,72 @@
+{
+  "registration_no": "MAL07122807T",
+  "product_name": "Tapel Wangi (31A),  10.50 g",
+  "holder": "PT. SARI SIHAT (M) SDN. BHD.",
+  "holder_address": "NO. 15 &amp; 15-1, JALAN DATO HAJI 1, TAMAN TAN YEW LAI, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "PT. Air Mancur",
+  "manufacturer_address": "JL. RAYA SRAGEN KM 7, PALUR SOLO-INDONESIA, 57102, INDONESIA,",
+  "importer": "PT. SARI SIHAT (M) SDN. BHD.",
+  "importer_address": "NO. 15 &amp; 15-1, JALAN DATO HAJI 1,, TAMAN TAN YEW LAI, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Zingiberis Officinale Rhizoma",
+    "Tamarindus indica Pulp",
+    "Syzygium aromaticum Folium",
+    "Sesbania grandiflora Folium",
+    "Leucas lavandulaefolia Folium",
+    "FRUCTUS FOENICULUM VULGARE"
+  ],
+  "sku": [
+    {
+      "package_description": "10.5gm mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

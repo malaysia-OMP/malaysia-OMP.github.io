@@ -1,0 +1,102 @@
+{
+  "registration_no": "MAL04103397T",
+  "product_name": "Noni Fruit Product",
+  "holder": "PARTNERCO (M) SDN. BHD.",
+  "holder_address": "UNIT A4-07, 4TH FLOOR,, KL INDUSTRIES PARK,, 653, BATU 5, JALAN KELANG LAMA,, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "MORINDA INC.",
+  "manufacturer_address": "737 EAST 1180 SOUTH,, 84003, UNITED STATES,",
+  "importer": "PARTNERCO (M) SDN. BHD.",
+  "importer_address": "UNIT A4-07, 4TH FLOOR, KL INDUSTRIES PARK, 653, BATU 5, JALAN KELANG LAMA, 58200, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Morinda Citrifolia (Noni) Fruit Juice"
+  ],
+  "sku": [
+    {
+      "package_description": "1000ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 1000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "500 ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 500,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

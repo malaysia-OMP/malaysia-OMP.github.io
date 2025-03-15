@@ -1,0 +1,123 @@
+{
+  "registration_no": "MAL19990723T",
+  "product_name": "HAI-O BRAND MING ZHU BAI FENG WAN",
+  "holder": "SG GLOBAL BIOTECH SDN. BHD.",
+  "holder_address": "LOT 1388, BLOCK A, BATU 2 1/2,JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "QIS RESEARCH LABORATORY SDN. BHD.",
+  "manufacturer_address": "LOT 11995 BATU 2,  JALAN KAPAR,  , 41400, KLANG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Astragalus membranaceus",
+    "Cordyceps sinensis",
+    "Cornu cervi degelatinatum",
+    "COLLA CORNUS CERVI",
+    "STELLARIA DICHOTOMA RADIX",
+    "SEMEN EURYALE FEROX",
+    "SALVIAE MILTIORRHIZAE RADIX",
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA DIOSCOREA OPPOSITE",
+    "RADIX REHMANNIAE PREPARATA",
+    "RADIX REHMANNIAE GLUTINOSA",
+    "RADIX PAEONIAE LACTIFLORAE",
+    "RADIX GLYCYRRHIZAE URALENSIS",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "OOTHECA TENODERA ARIDIFOJIA",
+    "Ginseng (Panax Ginseng)",
+    "GALLUS DOMESTIUS",
+    "CYPERUS ROTUNDUS RHIZOME",
+    "CARAPAX TRIONYCIS",
+    "AMERICAN GINSENG",
+    "Radix Asparagus cochinchinensis",
+    "CONCHA OSTREA GIGAS"
+  ],
+  "sku": [
+    {
+      "package_description": "12gm8Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "12gm4Units Units",
+      "sku_unit": "g",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

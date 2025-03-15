@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL23056107TC",
+  "product_name": "P`s P Saw Palmetto Extract Plus Softgel",
+  "holder": "VITAMIN PRIDE SDN. BHD.",
+  "holder_address": "A-03-13, TROPICANA AVENUE, NO 12, PERSIARAN TROPICANA, TROPICANA GOLF AND COUNTRY RESORT PJU3, 47410, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "The Nature's Bounty Co.",
+  "manufacturer_address": "90, ORVILLE DR., BOHEMIA, NY 11716, , UNITED STATES,",
+  "importer": "VITAMIN PRIDE SDN BHD",
+  "importer_address": "A-03-13, TROPICANA AVENUE, NO 12, PERSIARAN TROPICANA,,  TROPICANA GOLF AND COUNTRY RESORT, PJU3, 47410, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Serenoa repens",
+    "Serenoa repens"
+  ],
+  "sku": [
+    {
+      "package_description": "90 Capsules",
+      "sku_unit": "Capsules",
+      "quantity_per_sku": 90,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

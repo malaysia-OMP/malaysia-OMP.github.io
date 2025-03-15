@@ -1,0 +1,82 @@
+{
+  "registration_no": "MAL07082933T",
+  "product_name": "Nyin Oi Pak Fong Pills",
+  "holder": "NYIN OI MEDICAL PRODUCT TRADING",
+  "holder_address": "NO. 19 J, 1ST FLOOR, TAMAN SRI DAMAI\n, BATU LANCANG, 11600, MALAYSIA,",
+  "manufacturer": "WAN YEEN TRADING SDN. BHD.",
+  "manufacturer_address": "NO. 24, PERSIARAN INDUSTRI BERCHAM 11, KAWASAN PERINDUSTRIAN RINGAN BERCHAM, 31400 , IPOH , MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "COLLA CORII ASINI",
+    "Rhizoma Ligusticum chuanxiong.",
+    "Rhizoma Dioscorea Opposita",
+    "RADIX REHMANNIA PREPARATA",
+    "radix paeonia lactiflora",
+    "radix astragalus membranaceus",
+    "radix angelica sinensis",
+    "PTERIA MARTENSII (DUNKER)",
+    "Poria Cocos (Schw) Wolf",
+    "Pericarpium Citrus reticulata.",
+    "Herba Leonurus japonicus",
+    "Cortex Eucommia Ulmoides.",
+    "radix panax ginsen",
+    "Cordyceps Sinensis",
+    "Rhizoma Atractylodes Macrocephala",
+    "Radix Polygonum multiflorum"
+  ],
+  "sku": [
+    {
+      "package_description": "12gm x 6 BOTTLE",
+      "sku_unit": "g",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

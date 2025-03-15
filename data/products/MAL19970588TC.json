@@ -1,0 +1,80 @@
+{
+  "registration_no": "MAL19970588TC",
+  "product_name": "DAT`S 100 SENGAL-SENGAL CAPSULE 300MG",
+  "holder": "TAT SEO HEALTH FACTORY PLT",
+  "holder_address": "16 &amp; 18 JALAN SBC 5, , TAMAN SRI BATU CAVES,, 68100, BATU CAVES, MALAYSIA,",
+  "manufacturer": "TAT SEO HEALTH FACTORY PLT",
+  "manufacturer_address": "16 &amp; 18 JALAN SBC 5, , TAMAN SRI BATU CAVES,, 68100, BATU CAVES, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "RHIZOMA LIGUSTICI CHUANXIONG",
+    "RHIZOMA GASTRODIAE",
+    "RHIZOMA ET RADIX NOTOPTERYGIL",
+    "RAMULUS TAXILLI",
+    "RAMULUS CINNAMOMI",
+    "RADIX LEDEBOURIELLAE",
+    "Glycyrrhiza Glabra",
+    "RADIX GENTIANAE MACROPHYLLAE",
+    "RADIX DISPSACI",
+    "RADIX CLEMATIDIS",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "Radix Angelicae Pubescens",
+    "FRUCTUS CHAENOMELIS",
+    "ACHYRANTHES BIDENTATA RADIX"
+  ],
+  "sku": [
+    {
+      "package_description": "25Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 25,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

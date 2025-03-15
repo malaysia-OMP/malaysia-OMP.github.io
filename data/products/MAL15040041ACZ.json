@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL15040041ACZ",
+  "product_name": "HurriCaine Cherry Topical Anesthetic Spray 20%",
+  "holder": "TK DENTAL TRADING",
+  "holder_address": "94, RANGOON ROAD, 10400, GEORGETOWN, MALAYSIA,",
+  "manufacturer": "KIK Custom Products",
+  "manufacturer_address": "1 WEST HEGELER LANE, 61832, UNITED STATES,",
+  "importer": "TK DENTAL TRADING",
+  "importer_address": "488B-03-24 MIDLANDS PARK CENTRE,, JALAN BURMAH, 10350, GEORGETOWN, MALAYSIA,",
+  "active_ingredients": [
+    "BENZOCAINE"
+  ],
+  "sku": [
+    {
+      "package_description": "60gm mcg/mL",
+      "sku_unit": "g",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

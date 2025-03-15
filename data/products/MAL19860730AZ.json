@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL19860730AZ",
+  "product_name": "MINIMS CHLORAMPHENICOL 0.5% W/V",
+  "holder": "Bausch & Lomb (Malaysia) Sdn. Bhd.",
+  "holder_address": "LEVEL 23A, MENARA LGB, NO. 1, JALAN WAN KADIR, TAMAN TUN DR. ISMAIL,, 60000, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "LABORATOIRE CHAUVIN SA",
+  "manufacturer_address": "ZONE INDUSTRIELLE RIPOTIER HAUT \n07200 AUBENAS, FRANCE,",
+  "importer": "Bausch & Lomb (Malaysia) Sdn. Bhd.",
+  "importer_address": "6F-1, 6TH FLOOR, TOWER 4 @THE PFCC, JALAN PUTERI 1/2, BANDAR PUTERI, 47100, PUCHONG, MALAYSIA,",
+  "active_ingredients": [
+    "CHLORAMPHENICOL"
+  ],
+  "sku": [
+    {
+      "package_description": "0.5 ml 20 mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 0,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

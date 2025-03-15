@@ -1,0 +1,121 @@
+{
+  "registration_no": "MAL09082832T",
+  "product_name": "Oto Oto Tablet",
+  "holder": "TONGHUA DONG BAO (M) SDN. BHD.",
+  "holder_address": "SUITE 102, LEVEL 1, WISMA CHINESE CHAMBER, 258, JALAN AMPANG, 50450, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "Tonghua Wantong Pharmaceutical Stock Co., Ltd",
+  "manufacturer_address": "NO.66, WANTONG ROAD,, CHINA,",
+  "importer": "HBL (M) SDN BHD",
+  "importer_address": "SUITE 102, LEVEL 1, WISMA CHINESE CHAMBER, 258, JALAN AMPANG, 50450, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "Cornu cervi pantotrichum",
+    "Pheretima aspergillum",
+    "Zaocys dhumnades",
+    "Rhizoma et Radix Notopterygii",
+    "Rhizoma Dryopteridis Crassirhizomatis",
+    "Rhizoma Drynariae fortunei",
+    "resina commiphora myrrhae",
+    "Ramulus Cinnamomi Cassia",
+    "Radix et Rhizoma Glycyrrhiza glabra",
+    "Radix Et Rhizoma Ginseng Rubra",
+    "RADIX DIPSACUS ASPEROIDES",
+    "RADIX ACANTHOPANACIS SENTICOSI",
+    "Herba Taxillus chinensis",
+    "Herba Epimedii brevicornum",
+    "Fructus Prunus mume",
+    "Flos Lonicerae Japonicae",
+    "Flos Carthamus Tinctorius",
+    "Cortex Phellodendri Amurensis",
+    "Cortex Illicium difengpi",
+    "Radix Achyranthis Bidentatae"
+  ],
+  "sku": [
+    {
+      "package_description": "24Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 24,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "12 Tablet Tablets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 12,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

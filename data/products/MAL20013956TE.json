@@ -1,0 +1,75 @@
+{
+  "registration_no": "MAL20013956TE",
+  "product_name": "SONG YANG BRAND JUN GING PILL",
+  "holder": "S.H. UNIFLEX CHINESE MEDICAL FACTORY SDN BHD",
+  "holder_address": "NO. 21A, JALAN LAMBAK\n, TAMAN JOHOR LIGHT INDUSTRIAL ESTATE, 81200, JOHOR BAHRU, MALAYSIA,",
+  "manufacturer": "S.H. UNIFLEX CHINESE MEDICAL FACTORY SDN BHD",
+  "manufacturer_address": "NO. 21A, JALAN LAMBAK\n, TAMAN JOHOR LIGHT INDUSTRIAL ESTATE, 81200, JOHOR BAHRU, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Arisaema cum bile",
+    "Succinum",
+    "RHIZOMA ATRACTYLODIS MACROCEPHALAE",
+    "RAMULUS UNCARIAE CUM UNCIS",
+    "PORIA COCOS WOLF",
+    "PERICARPIUM CITRI RETICULATAE",
+    "MARGARITA/PEARLS",
+    "GLYCYRRHIZA URALENSIS RADIX",
+    "BOMBYX BATRYTICATUS"
+  ],
+  "sku": [
+    {
+      "package_description": "1.5gm mcg/mL",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

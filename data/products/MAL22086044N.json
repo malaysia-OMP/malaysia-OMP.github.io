@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL22086044N",
+  "product_name": "Vitaheal Cal D3 Tablet",
+  "holder": "Absolute Pharma Sdn Bhd",
+  "holder_address": "74-3, JALAN WANGSA DELIMA 6, KLSC WANGSA MAJU, 53300, WANGSA MAJU, MALAYSIA,",
+  "manufacturer": "CRIUS LIFESCIENCES PVT. LTD.",
+  "manufacturer_address": "KH. NO. 1298/1190/474 &amp; 1187/474, VILL. MALPUR, BADDI, DISTT. SOLAN (HP) 173205,, INDIA,",
+  "importer": "Absolute Pharma Sdn Bhd",
+  "importer_address": "74-3, JALAN WANGSA DELIMA 6, KLSC WANGSA MAJU, 53300, KUALA LUMPUR, MALAYSIA,",
+  "active_ingredients": [
+    "CALCIUM CARBONATE",
+    "Vitamin D3 (Cholecalciferol)"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

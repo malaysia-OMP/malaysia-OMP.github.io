@@ -1,0 +1,71 @@
+{
+  "registration_no": "MAL20106020ACZ",
+  "product_name": "Renasol200 Low Calcium (2.5 mEq/L) Peritoneal Dialysis Solution with 2.5% Dextrose",
+  "holder": "Bluecross Healthcare Sdn Bhd",
+  "holder_address": "P-1-10, GROUND FLOOR,, GOURMET STREET, ICON CITY,, JALAN SS8/39,, 47300, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "CHI SHENG PHARMA & BIOTECH CO. LTD.",
+  "manufacturer_address": "NO. 3, SHIJIAN RD., SHENGLI VIL., HUKOU TOWNSHIP. HSINCHU COUNTY 30352, , TAIWAN,",
+  "importer": "Bluecross Healthcare Sdn Bhd",
+  "importer_address": "P-1-10, GROUND FLOOR, GOURMET STREET,,  ICON CITY, JALAN SS8/39,, 47300, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SODIUM CHLORIDE",
+    "MAGNESIUM CHLORIDE HEXAHYDRATE",
+    "CALCIUM CHLORIDE DIHYDRATE",
+    "Dextrose Monohydrate",
+    "Sodium Lactate"
+  ],
+  "sku": [
+    {
+      "package_description": "2000 ml",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2000,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

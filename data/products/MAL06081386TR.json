@@ -1,0 +1,83 @@
+{
+  "registration_no": "MAL06081386TR",
+  "product_name": "Pien Tze Huang Brand Shao Lin Zheng Gu Jing",
+  "holder": "HAI-O MEDICINE SDN. BHD.",
+  "holder_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "manufacturer": "ZHANGZHOU PIENTZEHUANG PHARM CO LTD",
+  "manufacturer_address": "SHANG STREET, ZHANGZHOU,  FUJIAN,, CHINA,",
+  "importer": "HAI-O MEDICINE SDN. BHD.",
+  "importer_address": "WISMA HAI-O, LOT 11995\n, BATU 2, JALAN KAPAR, 41400, KLANG, MALAYSIA,",
+  "active_ingredients": [
+    "Borneolum syntheticum (external only)",
+    "Caesalpinia sappan",
+    "Cinnamomum camphora",
+    "Eupolyphaga seu steleophaga",
+    "RHIZOMA SEU RADIX NOTOPTERYGII",
+    "Rhizoma Curcuma Kwangsinensis",
+    "Pericarpium Zanthoxylum Bungeanum",
+    "Olibanum Boswellia Carterii",
+    "Herba Veronicae peregrinae",
+    "Herba Lycopodium japonicum",
+    "Folium Artemisia asgyi",
+    "RADIX ANGELICA SINENSIS",
+    "HERBA MENTHA HAPLOCALYX",
+    "Radix Angelica pubescens",
+    "Cortex Acanthopanax Gracilistylus",
+    "Rhizoma sparganium stoloniferum",
+    "Resina Daemanorops"
+  ],
+  "sku": [
+    {
+      "package_description": "60ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

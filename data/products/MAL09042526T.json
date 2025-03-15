@@ -1,0 +1,81 @@
+{
+  "registration_no": "MAL09042526T",
+  "product_name": "BTY HERBS FOR JOINT HEALTH (Tablet)",
+  "holder": "BTY WORLDWIDE SDN.BHD.",
+  "holder_address": "NO 1546, JALAN HARMONI 4, IJOK, 45620, BESTARI JAYA, MALAYSIA,",
+  "manufacturer": "BTY WORLDWIDE SDN.BHD.",
+  "manufacturer_address": "NO. 1546, JALAN HARMONI 4, IJOK, 45620, BESTARI JAYA, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "RHIZOMA LIGUSTICUM CHUANXIONG",
+    "Ramulus Cinnamomum cassia.",
+    "Radix Saposhnikovia divaricata",
+    "Radix Rehmanniae Praeparata",
+    "Paeonia alba",
+    "Radix Glycyrrhizae Uralensis.",
+    "RADIX GENTIANAE MACROPHYLLAE",
+    "Radix Codonopsis Pilosulae",
+    "RADIX ANGELICAE SINENSIS EXTRACT",
+    "RADIX ANGELICAE PUBESCENTIS",
+    "Poria Cocos.",
+    "Herba Taxillus chinensis",
+    "Cortex Eucommia Ulmoides.",
+    "Cortex Cinnamomum cassia",
+    "Radix Achyranthis Bidentatae"
+  ],
+  "sku": [
+    {
+      "package_description": "120 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

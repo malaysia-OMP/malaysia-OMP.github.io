@@ -1,0 +1,82 @@
+{
+  "registration_no": "MAL20066053N",
+  "product_name": "Surbex Pramilet Filmtab",
+  "holder": "ABBOTT LABORATORIES (M) SDN. BHD.",
+  "holder_address": "27-02, LEVEL 27, IMAZIUM,, NO. 8, JALAN SS 21/37,, DAMANSARA UPTOWN,, 47400, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "PT ABBOTT INDONESIA",
+  "manufacturer_address": "JL. RAYA JAKARTA-BOGOR KM.37, KEL. SUKAMAJU, KEC. CILODONG, DEPOK, JAWA BARAT, , INDONESIA,",
+  "importer": "ABBOTT LABORATORIES (M) SDN. BHD.",
+  "importer_address": "LEVEL 27-02, IMAZIUM, JALAN SS21/37, DAMANSARA UPTOWN, 47400, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "SODIUM ASCORBATE",
+    "THIAMINE MONONITRATE",
+    "NICOTINAMIDE",
+    "RIBOFLAVIN",
+    "PYRIDOXINE HYDROCHLORIDE",
+    "FOLIC  ACID",
+    "CALCIUM CARBONATE",
+    "CALCIUM PANTOTHENATE",
+    "FERROUS FUMARATE",
+    "MAGNESIUM OXIDE",
+    "CUPRIC OXIDE",
+    "ZINC OXIDE",
+    "POTASSIUM IODIDE",
+    "Vitamin B12 (Cyanocobalamin)",
+    "Vitamin D3 (Cholecalciferol)",
+    "Retinyl Acetate (Vitamin A)"
+  ],
+  "sku": [
+    {
+      "package_description": "30  Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,69 @@
+{
+  "registration_no": "MAL13115222X",
+  "product_name": "PICO-SALAX Powder for Oral Solution",
+  "holder": "Ferring Sdn. Bhd.",
+  "holder_address": "21-6, BLOCK B JAYA ONE, NO. 72A, JALAN PROFESOR DIRAJA UNGKU AZIZ,, 46200, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Ferring Pharmaceutical (China) Co., Ltd.",
+  "manufacturer_address": "NO.6, HUILING LU (FERRING ROAD), NATIONAL HEALTH TECHNOLOGY PARK, SANZHOU, 528437 ZHONGSHAN CITY, GUANGDONG PROVINCE, CHINA,",
+  "importer": "Ferring Sdn. Bhd.",
+  "importer_address": "21-6, BLOCK B,  JAYA ONE,, NO. 72A, JALAN PROF DIRAJA UNGKU AZIZ, 46200, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Anhydrous Citric Acid",
+    "SODIUM PICOSULFATE",
+    "MAGNESIUM OXIDE"
+  ],
+  "sku": [
+    {
+      "package_description": "2sachet Sachets",
+      "sku_unit": "Units",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

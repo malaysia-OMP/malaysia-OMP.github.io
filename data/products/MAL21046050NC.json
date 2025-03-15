@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL21046050NC",
+  "product_name": "Health Builders MSM 2g Powder",
+  "holder": "HEALTH BUILDERS (M) SDN. BHD.",
+  "holder_address": "6-2 &amp; 6-3, BLK A, JLN 2/114\n, KUCHAI BUSINESS CENTRE\n, JALAN KUCHAI LAMA, 58200, KUALA LUMPUR, MALAYSIA,",
+  "manufacturer": "FIATEC BIOSYSTEM SDN. BHD.",
+  "manufacturer_address": "NO. 5, JALAN TPP 1/7, TAMAN PERINDUSTRIAN PUCHONG, 47160, PUCHONG, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "METHYLSULFONYLMETHANE"
+  ],
+  "sku": [
+    {
+      "package_description": "60 Sachets",
+      "sku_unit": "Sachets",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,68 @@
+{
+  "registration_no": "MAL22036004AZ",
+  "product_name": "Amopril 10mg/4mg Tablet",
+  "holder": "Pharmaniaga Marketing Sdn Bhd",
+  "holder_address": "7 LORONG KELULI 1B, KAW. PERINDUSTRIAN BUKIT RAJA SELATAN, SEKSYEN 7,, 40000, SHAH ALAM, MALAYSIA,",
+  "manufacturer": "Adamed Pharma S.A.",
+  "manufacturer_address": "UL. MARSZALKA JOZEFA PILSUDSKIEGO 5, 95-200 PABIANICE, POLAND,",
+  "importer": "PHARMANIAGA LOGISTICS SDN. BHD.",
+  "importer_address": "NO. 7, LORONG KELULI 1B,, KAWASAN PERINDUSTRIAN BUKIT RAJA SELATAN,, SEKSYEN 7,, 40000, SHAH ALAM, MALAYSIA,",
+  "active_ingredients": [
+    "AMLODIPINE BESILATE",
+    "PERINDOPRIL,TERT-BUTYLAMINE"
+  ],
+  "sku": [
+    {
+      "package_description": "30 Tablets",
+      "sku_unit": "Tablets",
+      "quantity_per_sku": 30,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

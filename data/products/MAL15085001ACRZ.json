@@ -1,0 +1,67 @@
+{
+  "registration_no": "MAL15085001ACRZ",
+  "product_name": "Cosmofer 50mg/ml Solution for injection and for infusion",
+  "holder": "A. MENARINI SINGAPORE PTE. LTD.",
+  "holder_address": "B-18-2, LEVEL 18, THE ASCENT PARADIGM, NO.1, JALAN SS7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "Solupharm Pharmazeutische Erzeugnisse GmbH",
+  "manufacturer_address": "INDUSTRIESTR.3 34212 MELSUNGEN GERMANY, GERMANY,",
+  "importer": "A. MENARINI SINGAPORE PTE. LTD.",
+  "importer_address": "B-18-2, LEVEL 18, THE ASCENT PARADIGM,, NO. 1 JALAN SS7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Iron Dextran"
+  ],
+  "sku": [
+    {
+      "package_description": "2ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 2,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

@@ -1,0 +1,32 @@
+{
+  "registration_no": "MAL17107052NZ",
+  "product_name": "NUTRILEX VITAMIN C CHEWABLE TABLET 100mg",
+  "holder": "Zhulian Nutraceutical Sdn. Bhd.",
+  "holder_address": "PLOT 3, BAYAN LEPAS FREE INDUSTRIAL ZONE, PHASE IV, 11900, BAYAN LEPAS, MALAYSIA,",
+  "manufacturer": "Zhulian Nutraceutical Sdn. Bhd.",
+  "manufacturer_address": "PLOT 3, BAYAN LEPAS FREE INDUSTRIAL ZONE, PHASE IV, 11900, BAYAN LEPAS, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "SODIUM ASCORBATE",
+    "ASCORBIC ACID (VITAMIN C)"
+  ],
+  "sku": [],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

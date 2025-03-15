@@ -1,0 +1,103 @@
+{
+  "registration_no": "MAL06030871T",
+  "product_name": "NATURE\"S GIFT PROPOLPLUS",
+  "holder": "LINTAN ENTERPRISE SDN.BHD",
+  "holder_address": "UNIT NO. C-2-5, BLOCK C,\n, 2ND FLOOR, PLAZA TANJUNG ARU,\n, JALAN MAT SALLEH, 88100, KOTA KINABALU, MALAYSIA,",
+  "manufacturer": "GLOBAL HEALTH LABORATORIES",
+  "manufacturer_address": "9500 NEW HORIZONS BLVD., \nAMITYVILLE, NY, 11701-1155, UNITED STATES,",
+  "importer": "LINTAN ENTERPRISE SDN.BHD",
+  "importer_address": "UNIT NO. C-2-5, BLOCK C,\n, 2ND FLOOR, PLAZA TANJUNG ARU,\n, JALAN MAT SALLEH, 88100, KOTA KINABALU, MALAYSIA,",
+  "active_ingredients": [
+    "BEE POLLEN",
+    "BEE PROPOLIS"
+  ],
+  "sku": [
+    {
+      "package_description": "120Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 120,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "60Capsule Capsules",
+      "sku_unit": "Units",
+      "quantity_per_sku": 60,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

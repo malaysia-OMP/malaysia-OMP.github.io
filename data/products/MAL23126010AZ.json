@@ -1,0 +1,116 @@
+{
+  "registration_no": "MAL23126010AZ",
+  "product_name": "VAXNEUVANCE (Pneumococcal 15-Valent Conjugate Vaccine) Suspension For Injection Prefilled Syringe",
+  "holder": "MERCK SHARP & DOHME (MALAYSIA) SDN. BHD.",
+  "holder_address": "LOT NO. B-22-1 &amp; B-22-2, LEVEL 22, THE ASCENT, PARADIGM NO. 1, JALAN SS 7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "manufacturer": "MERCK SHARP & DOHME B.V.",
+  "manufacturer_address": "WAARDERWEG 39, HAARLEM, 2031 BN, NETHERLANDS,",
+  "importer": "MERCK SHARP & DOHME (MALAYSIA) SDN. BHD.",
+  "importer_address": "LOT NO. B-22-1 &amp; B-22-2, LEVEL 22, THE ASCENT, PARADIGM NO. 1, JALAN SS 7/26A, KELANA JAYA, 47301, PETALING JAYA, MALAYSIA,",
+  "active_ingredients": [
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 1",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 3",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 4",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 5",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 6A",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 6B",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 7F",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 9V",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 14",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 18C",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 19A",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 19F",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 22F",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 23F",
+    "Monovalent Conjugate Bulk - Pneumococcal Polysaccharide Serotype 33F"
+  ],
+  "sku": [
+    {
+      "package_description": "10 Pre-Filled Syringes",
+      "sku_unit": "Units",
+      "quantity_per_sku": 10,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "1 Pre-Filled Syringes",
+      "sku_unit": "Units",
+      "quantity_per_sku": 1,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}

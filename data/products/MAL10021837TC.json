@@ -1,0 +1,116 @@
+{
+  "registration_no": "MAL10021837TC",
+  "product_name": "Chuanbei Pipagao with Bird\"s Nest & Cordyceps Plus",
+  "holder": "GREATWALL TRADING COMPANY",
+  "holder_address": "10, JALAN CHENG RIA 2\n, TAMAN CHENG RIA, CHENG, 75250, MALAYSIA,",
+  "manufacturer": "ECOLITE BIOTECH MANUFACTURING SDN BHD",
+  "manufacturer_address": "LOT 9284 &amp; 9285,, JALAN YONG PENG, 83400, SRI MEDAN, BATU PAHAT, MALAYSIA,",
+  "importer": "",
+  "importer_address": "",
+  "active_ingredients": [
+    "Cordyceps sinensis",
+    "Semen Trichosanthes Kirilowii",
+    "Semen Prunus Armeniacae",
+    "RHIZOMA CYNANCHUM STAUNTONII",
+    "RADIX STEMONAE SESSIFOLIA",
+    "Radix Polygala Tenuifolia",
+    "Radix Platycodon gradiflorum",
+    "Radix Glycyrrhizae Uralensis.",
+    "Nidus Collocalla esculenta",
+    "Folium Eriobotryae Japonica",
+    "Flos Tussilago Farfara .",
+    "Rhizoma Pinellia Ternata",
+    "Bulbus Fritillaria cirrhosa",
+    "Radix aster tataricus",
+    "Fructus mormodica grosvenori"
+  ],
+  "sku": [
+    {
+      "package_description": "300ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 300,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    },
+    {
+      "package_description": "150ml mL",
+      "sku_unit": "ml",
+      "quantity_per_sku": 150,
+      "base_cost": 0,
+      "tier_pricing": [
+        {
+          "min_qty": 100,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        },
+        {
+          "min_qty": 500,
+          "cost_per_unit": 0,
+          "source": "Placeholder Source",
+          "market_type": "Others",
+          "custom_market_name": "",
+          "last_updated": "2025-03-14",
+          "remarks": ""
+        }
+      ],
+      "highest_selling_price": 0,
+      "lowest_selling_price": 0,
+      "price_sources": [
+        {
+          "reseller_name": "Placeholder Reseller",
+          "price": 0,
+          "last_updated": "2025-03-14"
+        }
+      ]
+    }
+  ],
+  "strength": "",
+  "form": "",
+  "suppliers": [],
+  "reseller_prices": {
+    "highest_selling_price": 0,
+    "lowest_selling_price": 0,
+    "price_sources": []
+  },
+  "supplier_price": {
+    "lowest_price": 0,
+    "source": "Placeholder Source",
+    "market_type": "Others",
+    "custom_market_name": "",
+    "last_updated": "2025-03-14",
+    "remarks": ""
+  },
+  "price_updated_year": 2025
+}
