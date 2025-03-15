@@ -1,0 +1,89 @@
+name: Refresh GitHub App Token
+
+on:
+  schedule:
+    - cron: "*/9 * * * *"  # Runs every 9 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  refresh-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: pip install PyJWT requests cryptography
+
+      - name: Generate New JWT and Update Secret
+        env:
+          APP_ID: ${{ secrets.APP_ID }}
+          APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
+          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          import os
+          import jwt
+          import time
+          import requests
+          import base64
+          from cryptography.hazmat.primitives.asymmetric import rsa, padding
+          from cryptography.hazmat.primitives import serialization, hashes
+
+          # Load GitHub App ID & Private Key
+          APP_ID = os.getenv("APP_ID")
+          PRIVATE_KEY = os.getenv("APP_PRIVATE_KEY").replace("\\n", "\n")
+          INSTALLATION_ID = os.getenv("APP_INSTALLATION_ID")
+          GH_PAT = os.getenv("GH_PAT")
+
+          # Generate JWT
+          def generate_jwt():
+              payload = {
+                  "iat": int(time.time()),  # Issued at
+                  "exp": int(time.time()) + 600,  # Expires in 10 min (Max GitHub allows)
+                  "iss": APP_ID  # GitHub App ID
+              }
+              return jwt.encode(payload, PRIVATE_KEY, algorithm="RS256")
+
+          jwt_token = generate_jwt()
+          print("✅ Generated JWT")
+
+          # Get Installation Access Token
+          url = f"https://api.github.com/app/installations/{INSTALLATION_ID}/access_tokens"
+          headers = {
+              "Authorization": f"Bearer {jwt_token}",
+              "Accept": "application/vnd.github+json"
+          }
+
+          response = requests.post(url, headers=headers)
+          token_data = response.json()
+          installation_token = token_data.get("token", "")
+
+          if not installation_token:
+              raise Exception("❌ Failed to get Installation Access Token")
+
+          print("✅ Got new Installation Access Token")
+
+          # Update GitHub Secret (BOT_TOKEN)
+          repo_owner = os.getenv("GITHUB_REPOSITORY_OWNER")
+          repo_name = os.getenv("GITHUB_REPOSITORY").split("/")[-1]
+          update_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/actions/secrets/BOT_TOKEN"
+
+          headers = {
+              "Authorization": f"token {GH_PAT}",
+              "Accept": "application/vnd.github.v3+json"
+          }
+
+          secret_payload = {
+              "encrypted_value": installation_token
+          }
+
+          response = requests.put(update_url, headers=headers, json=secret_payload)
+
+          if response.status_code == 201 or response.status_code == 204:
+              print("✅ BOT_TOKEN updated successfully.")
+          else:
+              print("❌ Failed to update BOT_TOKEN:", response.text)
+
+      - name: Confirm BOT_TOKEN Update
+        run: echo "✅ BOT_TOKEN successfully updated!"
