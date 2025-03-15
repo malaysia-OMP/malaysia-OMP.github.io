@@ -27,13 +27,22 @@ jobs:
           import jwt
           import time
           import requests
-          import base64
+          from cryptography.hazmat.primitives import serialization
 
           # Load GitHub App ID & Private Key
           APP_ID = os.getenv("APP_ID")
-          PRIVATE_KEY = os.getenv("APP_PRIVATE_KEY").replace("\\n", "\n")
+          PRIVATE_KEY_RAW = os.getenv("APP_PRIVATE_KEY")
           INSTALLATION_ID = os.getenv("APP_INSTALLATION_ID")
           GH_PAT = os.getenv("GH_PAT")
+
+          # Ensure Private Key is properly formatted
+          PRIVATE_KEY = PRIVATE_KEY_RAW.replace("\\n", "\n").encode("utf-8")
+
+          # Load the private key using cryptography
+          PRIVATE_KEY_OBJ = serialization.load_pem_private_key(
+              PRIVATE_KEY,
+              password=None,
+          )
 
           # Generate JWT
           def generate_jwt():
@@ -42,7 +51,7 @@ jobs:
                   "exp": int(time.time()) + 600,  # Expires in 10 min (Max GitHub allows)
                   "iss": APP_ID  # GitHub App ID
               }
-              return jwt.encode(payload, PRIVATE_KEY, algorithm="RS256")
+              return jwt.encode(payload, PRIVATE_KEY_OBJ, algorithm="RS256")
 
           jwt_token = generate_jwt()
           print("✅ Generated JWT")
