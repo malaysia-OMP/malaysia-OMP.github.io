@@ -22,13 +22,12 @@ jobs:
           APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
+          python3 <<EOF
           import os
           import jwt
           import time
           import requests
           import base64
-          from cryptography.hazmat.primitives.asymmetric import rsa, padding
-          from cryptography.hazmat.primitives import serialization, hashes
 
           # Load GitHub App ID & Private Key
           APP_ID = os.getenv("APP_ID")
@@ -65,7 +64,7 @@ jobs:
           print("✅ Got new Installation Access Token")
 
           # Update GitHub Secret (BOT_TOKEN)
-          repo_owner = os.getenv("GITHUB_REPOSITORY_OWNER")
+          repo_owner = os.getenv("GITHUB_REPOSITORY").split("/")[0]
           repo_name = os.getenv("GITHUB_REPOSITORY").split("/")[-1]
           update_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/actions/secrets/BOT_TOKEN"
 
@@ -84,6 +83,7 @@ jobs:
               print("✅ BOT_TOKEN updated successfully.")
           else:
               print("❌ Failed to update BOT_TOKEN:", response.text)
+          EOF
 
       - name: Confirm BOT_TOKEN Update
         run: echo "✅ BOT_TOKEN successfully updated!"
