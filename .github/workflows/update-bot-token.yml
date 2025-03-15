@@ -17,10 +17,9 @@ jobs:
 
       - name: Generate New JWT and Update Secret
         env:
-          APP_ID: ${{ secrets.APP_ID }}
-          APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
-          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
-          GH_PAT: ${{ secrets.GH_PAT }}
+          APP_ID: "YOUR_GITHUB_APP_ID"
+          APP_INSTALLATION_ID: "YOUR_INSTALLATION_ID"
+          GH_PAT: "YOUR_PERSONAL_ACCESS_TOKEN"
         run: |
           python3 <<EOF
           import os
@@ -30,17 +29,26 @@ jobs:
           from cryptography.hazmat.primitives import serialization
           from cryptography.hazmat.backends import default_backend
 
-          # Load GitHub App ID & Private Key
+          # ✅ Hardcoded Private Key (Use with caution!)
+          PRIVATE_KEY = """
+          -----BEGIN RSA PRIVATE KEY-----
+          MIIEpAIBAAKCAQEAv+61BMIAPAE3bqBEJWJBfs0yFYraOIZHT97nZFwAfiZYRjr+
+          PhTGk00fWI/vpIvRyqAAmAKuYfj46UF4u9UJFjNEfD/CpLwusuOjyQac85rasioZ
+          GJ3r44BTLafXpizO2gSdIfNlPrflbz9ebG1zE+Lw4t6zP11uObxzGeB0W4VT/qR6
+          qo8b6bKB9pPf3JJIEnqAsvz2ObetRtozkwCV1rUKfyk6gpV8Q6nnvI7U4xnFQrE2
+          /m1ekWICGb/jkA7ctFvJqGC8UxRWgoFhD2+mAyN6cVEMloTUveH8RUHxfSTYcwib
+          LuSWEX8dOnnRbqI6Z09vXRqnd6syVbSikLzz/QIDAQABAoIBAQC6AIO9EKVZgXRO
+          ...
+          -----END RSA PRIVATE KEY-----
+          """.strip().encode("utf-8")
+
+          # ✅ Load GitHub App ID from ENV Variables
           APP_ID = os.getenv("APP_ID")
-          PRIVATE_KEY_RAW = os.getenv("APP_PRIVATE_KEY")
           INSTALLATION_ID = os.getenv("APP_INSTALLATION_ID")
           GH_PAT = os.getenv("GH_PAT")
 
-          # ✅ Ensure Private Key is properly formatted
-          PRIVATE_KEY = PRIVATE_KEY_RAW.replace("\\\\n", "\n").encode("utf-8")
-
+          # ✅ Load the Private Key Object
           try:
-              # ✅ Load the RSA private key
               PRIVATE_KEY_OBJ = serialization.load_pem_private_key(
                   PRIVATE_KEY,
                   password=None,
