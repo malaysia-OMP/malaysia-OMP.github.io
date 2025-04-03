@@ -1,24 +1,16 @@
-name: Validate Submissions
-
+name: Validate Submission
 on:
   pull_request:
     paths:
-      - 'data/submissions/*.json'
-
+      - 'submissions/*.json'
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Code
         uses: actions/checkout@v3
-
-      - name: Validate JSON files
+      - name: Validate JSON Format
         run: |
-          for file in data/submissions/*.json; do
-            jq empty "$file" || exit 1
-          done
-
-      - name: Use BOT_TOKEN
-        run: echo "Using BOT_TOKEN..."
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          jq empty submissions/*.json || exit 1
+      - name: Approve Submission
+        run: echo "Submission validated"
